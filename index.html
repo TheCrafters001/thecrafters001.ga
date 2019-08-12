@@ -58,13 +58,45 @@
                      <div class="w3-light-grey w3-round-xlarge">
                         <div class="w3-round-xlarge w3-green" style="height:24px;width:55%"></div>
                      </div>
-					 <p>CSS (Cascade Style Sheet)</p>
+                     <p>CSS (Cascade Style Sheet)</p>
                      <div class="w3-light-grey w3-round-xlarge">
                         <div class="w3-round-xlarge w3-green" style="height:24px;width:25%"></div>
                      </div>
-					 <p>Node.JS</p>
+                     <p>Node.JS</p>
                      <div class="w3-light-grey w3-round-xlarge">
                         <div class="w3-round-xlarge w3-green" style="height:24px;width:5%"></div>
+                     </div>
+                     <hr>
+                     <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-black w3-block">Contact</button>
+                     <div id="id01" class="w3-modal">
+                        <div class="w3-modal-content w3-animate-top w3-card-4">
+                           <header class="w3-container w3-teal">
+                              <span onclick="document.getElementById('id01').style.display='none'" 
+                                 class="w3-button w3-display-topright">&times;</span>
+                              <h2>Contact Me</h2>
+                           </header>
+                           <div class="w3-container w3-light-gray">
+                              <form action="//formspree.io/greenapplicationsofficial@gmail.com" method="POST">
+                                 <p>
+                                    <label>Name</label>
+                                    <input class="w3-input w3-border w3-round-large" name="name" placeholder="John Doe" type="text">
+                                 </p>
+                                 <p>
+                                    <label>Email</label>
+                                    <input class="w3-input w3-border w3-round-large" placeholder="John.Doe@example.com" type="email" name="_replyto">
+                                 </p>
+                                 <p>
+                                    <label>Message</label>
+                                    <textarea class="w3-input w3-border w3-round-large" style="resize:none"></textarea>
+                                 </p>
+                                 <input type="submit" value="Send" class="w3-btn w3-block w3-green">
+                                 <br><br>
+                              </form>
+                           </div>
+                           <footer class="w3-container w3-teal">
+                              <p>Check your email, if a confirmation does not appear in your email</p>
+                           </footer>
+                        </div>
                      </div>
                      <br>
                   </div>
@@ -80,7 +112,7 @@
                      <h5 class="w3-opacity"><b>Easy Butler</b></h5>
                      <h6 class="w3-text-green"><i class="fa fa-calendar fa-fw w3-margin-right"></i><span class="w3-tag w3-green w3-round">Currently Supported</span></h6>
                      <p>With Easy Butler, you can update, and publish your games with ease. When you use Easy Butler, it pushes a .ZIP file to your game page, with the version you have pushed. While Easy Butler relies on Butler to be installed, Easy Butler can automaticly update all the information! If Butler has an update, you can click "Update" on the application, and it will automaticly launch an updater, which elevates permissions, then launches butler with said eleivated permissions, then updates it! Easy huh? Course it is. This basicly adds a GUI to butler, the right way!</p>
-					 <a href="https://thecrafters001.itch.io/easybutler" target="_blank" class="w3-button w3-pale-red">Download on Itch.IO</a>
+                     <a href="https://thecrafters001.itch.io/easybutler" target="_blank" class="w3-button w3-pale-red">Download on Itch.IO</a>
                      <hr>
                   </div>
                   <div class="w3-container">
@@ -93,7 +125,7 @@
                      <h5 class="w3-opacity"><b>SamuelTulach/VirusTotalUploader</b></h5>
                      <h6 class="w3-text-green"><i class="fa fa-calendar fa-fw w3-margin-right"></i><span class="w3-tag w3-blue w3-round">Contributor</span></h6>
                      <p>VirusTotal Uploader is open-source application written in C# and WinForms for uploading files to VirusTotal service. It has a great and simple design with drag and drop interface. It is easy to use and you can avoid many viruses with it!</p>
-					 <a href="http://github.com/SamuelTulach/VirusTotalUploader" target="_blank" class="w3-button w3-gray">See on <i class="fa fa-github"></i>GitHub</a>
+                     <a href="http://github.com/SamuelTulach/VirusTotalUploader" target="_blank" class="w3-button w3-gray">See on <i class="fa fa-github"></i>GitHub</a>
                      <br><br>
                   </div>
                </div>
@@ -101,8 +133,9 @@
                   <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-green"></i>Me On the Internet</h2>
                   <div class="w3-container">
                      <p><a href="/r/github.html" target="_blank" class="w3-button w3-gray"><i class="fa fa-github"></i>GitHub</a> <a href="/r/gj.html" target="_blank" class="w3-button w3-green">GameJolt</a> <a href="/r/itch.html" target="_blank" class="w3-button w3-red">Itch.IO</a> 
-					 <a href="/r/steam.html" target="_blank" class="w3-button w3-blue">Steam</a> <a href="/r/nexmod.html" target="_blank" class="w3-button w3-pale-blue">Nexus Mods</a> <a href="/r/site.html" target="_blank" class="w3-button w3-green">Main Site</a> 
-					 <a href="/r/htmaker.html" target="_blank" class="w3-button w3-green">HTMaker</a> <a href="/r/deltagreen.html" target="_blank" class="w3-button w3-green">Delta Green</a> <a href="http://blog.thecrafters001.ga/" target="_blank" class="w3-button w3-green">Blog</a> </p>
+                        <a href="/r/steam.html" target="_blank" class="w3-button w3-blue">Steam</a> <a href="/r/nexmod.html" target="_blank" class="w3-button w3-pale-blue">Nexus Mods</a> <a href="/r/site.html" target="_blank" class="w3-button w3-green">Main Site</a> 
+                        <a href="/r/htmaker.html" target="_blank" class="w3-button w3-green">HTMaker</a> <a href="/r/deltagreen.html" target="_blank" class="w3-button w3-green">Delta Green</a> <a href="http://blog.thecrafters001.ga/" target="_blank" class="w3-button w3-green">Blog</a> 
+                     </p>
                   </div>
                </div>
                <!-- End Right Column -->
