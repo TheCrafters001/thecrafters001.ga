@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="/easy-butler/ico/mstile-70x70.png?v=7k4bkmnyrA"/>
+            <square150x150logo src="/easy-butler/ico/mstile-150x150.png?v=7k4bkmnyrA"/>
+            <square310x310logo src="/easy-butler/ico/mstile-310x310.png?v=7k4bkmnyrA"/>
+            <wide310x150logo src="/easy-butler/ico/mstile-310x150.png?v=7k4bkmnyrA"/>
+            <TileColor>#fb6565</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
