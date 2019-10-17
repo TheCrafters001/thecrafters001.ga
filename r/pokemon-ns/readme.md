@@ -1,1 +1,0 @@
- - (Currently unofficial) redirects for pokémon north and south
