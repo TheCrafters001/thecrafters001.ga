@@ -6,6 +6,7 @@
     </title>
   </head>
   <body>
+    <script>var currentpos=0,alt=1,curpos1=0,curpos2=-1;function initialize(){startit()}function scrollwindow(){document.all?temp=document.body.scrollTop:temp=window.pageYOffset,0==(alt=0==alt?1:0)?curpos1=temp:curpos2=temp,currentpos=curpos1!=curpos2?document.all?document.body.scrollTop+1:window.pageYOffset+1:0,window.scroll(0,currentpos)}function startit(){setInterval("scrollwindow()",10)}window.onload=initialize;</script>
     <h1 align="center">Pok&eacute;mon Delta Green</h1>
     <h2 align="center">By TheCrafters001</h2>
     <hr>
