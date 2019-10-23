@@ -9,128 +9,135 @@
 
 <url>
   <loc>https://thecrafters001.ga/</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://thecrafters001.ga/r/github.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
+  <loc>https://thecrafters001.ga/internal.html</loc>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://thecrafters001.ga/r/gj.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thecrafters001.ga/r/itch.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thecrafters001.ga/r/steam.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thecrafters001.ga/r/nexmod.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thecrafters001.ga/r/htmaker.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
+  <loc>https://thecrafters001.ga/trusted.html</loc>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/videos/</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/easy-butler/</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/launcher/</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/games.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/software.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/maps/</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/deltagreen/</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thecrafters001.ga/c/</loc>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/videos/index_old.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/videos/comments.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/videos/deltagreen_hauntedcity.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/videos/deltagreen_clo_beta.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/videos/deltagreen_work.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/videos/deltagreen_trailer2.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/videos/deltagreen_pub_beta.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/videos/deltagreen_trailer1.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/launcher/download.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/maps/tf2/</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://thecrafters001.ga/maps/tf2/cp_gamejolt.html</loc>
-  <lastmod>2019-10-07T21:44:27+00:00</lastmod>
-  <priority>0.51</priority>
+  <lastmod>2019-10-22T21:44:47+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.41</priority>
 </url>
 
 
