@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /sitemap/
 Disallow: /r/
-
-Sitemap: http://thecrafters001.ga/sitemap/sitemap.xml
