@@ -1,0 +1,52 @@
+<link rel="stylesheet" href="/css/w3.css">
+<link rel="stylesheet" href="/css/tc-w3.css">
+
+
+<body onload="document.getElementById('start').style.display='block'">
+
+<div id="start" class="w3-modal">
+  <div class="w3-modal-content w3-animate-zoom w3-card-4">
+    <header class="w3-container w3-theme"> 
+      <a onclick="document.getElementById('start').style.display='none'" href="/#software" class="w3-button w3-display-topright">&times;</a>
+      <h2>Pok&eacute;mon Sword and Shield Timer</h2>
+    </header>
+    <div class="w3-container">
+      <h2 align="center"><span id="timer">Timer Loading... If you have Javascript off, this timer will not load.</span></h2>
+    </div>
+    <footer class="w3-container w3-theme">
+      <p>Made with W3.CSS</p>
+    </footer>
+  </div>
+</div>
+  
+  <script>
+// Set the date we're counting down to
+var countDownDate = new Date("Nov 15, 2019 00:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("timer").innerHTML = days + " Days " + hours + " Hours " + minutes + " Minutes " + seconds + " Seconds" + " until Pok&eacute;mon Sword and Shield!";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("timer").innerHTML = "Pok&eacute;mon Sword and Shield are out!";
+  }
+}, 1000);
+</script>
+  
+</body>
