@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TheCrafters001</title>
+  
+  <subtitle>Redefining Free</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://thecrafters001.ga/"/>
+  <updated>2019-12-24T22:11:20.229Z</updated>
+  <id>http://thecrafters001.ga/</id>
+  
+  <author>
+    <name>TheCrafters001</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Launcher Update 0.3.0</title>
+    <link href="http://thecrafters001.ga/12/24/2019/Launcher-Update-0-3-0/"/>
+    <id>http://thecrafters001.ga/12/24/2019/Launcher-Update-0-3-0/</id>
+    <published>2019-12-24T22:10:00.000Z</published>
+    <updated>2019-12-24T22:11:20.229Z</updated>
+    
+    <content type="html"><![CDATA[<p>In this update:</p><ul><li>Added TheCrafters001 Flash Player</li><li>Optimized Download Code. &lt;- This is what incremented it to 0.3.0</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;In this update:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added TheCrafters001 Flash Player&lt;/li&gt;
+&lt;li&gt;Optimized Download Code. &amp;lt;- This is what incremented it to 0.3
+      
+    
+    </summary>
+    
+    
+      <category term="Changelog" scheme="http://thecrafters001.ga/categories/Changelog/"/>
+    
+      <category term="Launcher" scheme="http://thecrafters001.ga/categories/Changelog/Launcher/"/>
+    
+    
+      <category term="Launcher" scheme="http://thecrafters001.ga/tags/Launcher/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flash Player 2 Update 1.1.0.0</title>
+    <link href="http://thecrafters001.ga/12/24/2019/Flash-Player-2-Update-1-1-0-0/"/>
+    <id>http://thecrafters001.ga/12/24/2019/Flash-Player-2-Update-1-1-0-0/</id>
+    <published>2019-12-24T18:00:00.000Z</published>
+    <updated>2019-12-24T18:01:24.562Z</updated>
+    
+    <content type="html"><![CDATA[<p>This update includes an update to the Media Player Controls.</p><p>The Media Player Controls now have a(n) progress label to see how far you are in the video/song.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This update includes an update to the Media Player Controls.&lt;/p&gt;
+&lt;p&gt;The Media Player Controls now have a(n) progress label to see how far
+      
+    
+    </summary>
+    
+    
+      <category term="Changelog" scheme="http://thecrafters001.ga/categories/Changelog/"/>
+    
+      <category term="Flash Player 2" scheme="http://thecrafters001.ga/categories/Changelog/Flash-Player-2/"/>
+    
+    
+      <category term="Flash Player 2" scheme="http://thecrafters001.ga/tags/Flash-Player-2/"/>
+    
+      <category term="Flash Player" scheme="http://thecrafters001.ga/tags/Flash-Player/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>New Countdown Timers</title>
+    <link href="http://thecrafters001.ga/12/19/2019/New-Countdown-Timers/"/>
+    <id>http://thecrafters001.ga/12/19/2019/New-Countdown-Timers/</id>
+    <published>2019-12-19T20:37:00.000Z</published>
+    <updated>2019-12-19T20:47:21.834Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/modals/timers/Christmas.html">Christmas Timer</a></p><p><a href="/modals/timers/Newyears.html">New Years Timer</a></p><p><a href="/software/newyears.html">Old New Years Timer</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;/modals/timers/Christmas.html&quot;&gt;Christmas Timer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/modals/timers/Newyears.html&quot;&gt;New Years Timer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a h
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Timers" scheme="http://thecrafters001.ga/tags/Timers/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>I got RPG Maker MV!</title>
+    <link href="http://thecrafters001.ga/12/14/2019/I-got-RPG-Maker-MV/"/>
+    <id>http://thecrafters001.ga/12/14/2019/I-got-RPG-Maker-MV/</id>
+    <published>2019-12-15T03:07:28.000Z</published>
+    <updated>2019-12-15T03:07:47.251Z</updated>
+    
+    <content type="html"><![CDATA[<p>I got the latest and greatest version of RPG Maker! MV!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I got the latest and greatest version of RPG Maker! MV!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>I Think It Is Time to Go Open-Source!</title>
+    <link href="http://thecrafters001.ga/12/04/2019/I-Think-It-Is-Time-to-Go-Open-Source/"/>
+    <id>http://thecrafters001.ga/12/04/2019/I-Think-It-Is-Time-to-Go-Open-Source/</id>
+    <published>2019-12-04T22:00:00.000Z</published>
+    <updated>2019-12-04T22:06:47.078Z</updated>
+    
+    <content type="html"><![CDATA[<p>I am going to post the project on GitHub soon.<br>It is going to be here: <a href="https://github.com/TheCrafters001/Delta-Green/" target="_blank" rel="noopener">TheCrafters001/Delta-Green</a></p><p>As of this post, I will me working on transitioning it to Open-Source! I will make a new post once I am done!</p><p><em>NOTE: Trophies will no longer be an option after this goes through. This is to prevent people from spoofing them. Sorry.</em><br><em>NOTE 2: This will NOT affect the GTS</em><br><em>NOTE 3: Feel free to make translations and what not. Pull Request will be looked at CAREFULLY. I WILL MANUALLY ADD THEM MYSELF, MEANING THEY WILL TAKE LONGER TO GO THROUGH. I WILL LET YOU KNOW WHEN THEY ARE ADDED!</em></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I am going to post the project on GitHub soon.&lt;br&gt;It is going to be here: &lt;a href=&quot;https://github.com/TheCrafters001/Delta-Green/&quot; target
+      
+    
+    </summary>
+    
+    
+      <category term="Pokemon" scheme="http://thecrafters001.ga/categories/Pokemon/"/>
+    
+      <category term="Delta Green" scheme="http://thecrafters001.ga/categories/Pokemon/Delta-Green/"/>
+    
+    
+      <category term="Pokemon" scheme="http://thecrafters001.ga/tags/Pokemon/"/>
+    
+      <category term="Delta Green" scheme="http://thecrafters001.ga/tags/Delta-Green/"/>
+    
+      <category term="Open-Source" scheme="http://thecrafters001.ga/tags/Open-Source/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>So... I have been thinking...</title>
+    <link href="http://thecrafters001.ga/12/03/2019/So-I-have-been-thinking/"/>
+    <id>http://thecrafters001.ga/12/03/2019/So-I-have-been-thinking/</id>
+    <published>2019-12-03T21:59:00.000Z</published>
+    <updated>2019-12-03T22:37:55.066Z</updated>
+    
+    <content type="html"><![CDATA[<p>As you know I have started to work on Pok&eacute;mon Delta Green again. But I was thinking: “Maybe I should get some help…” Now, I have been working on this project as one person for a while now, with help from selected people here and there. But…</p><a id="more"></a><p>But I was thinking maybe I should make the project open source, and see what people can bring to the table.<br>What do you think? I can get help reworking the map, fix spelling errors, and have people make translations if I get help like this. And, if I am correct, this would be the first ever fan game to make their game open-source. I think I should do it. But sadly, that would mean I have to remove the trophies and stuff. I would REALLY like your opinion. Please let me know. Thanks!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;As you know I have started to work on Pok&amp;eacute;mon Delta Green again. But I was thinking: “Maybe I should get some help…” Now, I have been working on this project as one person for a while now, with help from selected people here and there. But…&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Pokemon" scheme="http://thecrafters001.ga/categories/Pokemon/"/>
+    
+      <category term="Delta Green" scheme="http://thecrafters001.ga/categories/Pokemon/Delta-Green/"/>
+    
+    
+      <category term="Pokemon" scheme="http://thecrafters001.ga/tags/Pokemon/"/>
+    
+      <category term="Delta Green" scheme="http://thecrafters001.ga/tags/Delta-Green/"/>
+    
+      <category term="Question" scheme="http://thecrafters001.ga/tags/Question/"/>
+    
+      <category term="I have been thinking" scheme="http://thecrafters001.ga/tags/I-have-been-thinking/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>It is coming back!</title>
+    <link href="http://thecrafters001.ga/11/27/2019/It-is-coming-back/"/>
+    <id>http://thecrafters001.ga/11/27/2019/It-is-coming-back/</id>
+    <published>2019-11-27T18:08:00.000Z</published>
+    <updated>2019-11-27T18:11:01.066Z</updated>
+    
+    <content type="html"><![CDATA[<p>It is coming back!</p><a id="more"></a><iframe src="https://drive.google.com/file/d/10koklv_F9Rb3zZ7fces6nx_r0ukSIuq7/preview" width="100%" height="380" frameborder="0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;It is coming back!&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="???" scheme="http://thecrafters001.ga/categories//"/>
+    
+    
+      <category term="???" scheme="http://thecrafters001.ga/tags//"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Launcher Update 0.2.1</title>
+    <link href="http://thecrafters001.ga/11/25/2019/Launcher-Update-0-2-1/"/>
+    <id>http://thecrafters001.ga/11/25/2019/Launcher-Update-0-2-1/</id>
+    <published>2019-11-26T00:34:00.000Z</published>
+    <updated>2019-11-26T00:42:31.823Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is the change log for Launcher Update 0.2.1</p><a id="more"></a><p>Added:</p><ul><li>Super Text Adventure</li><li>Text Hash</li></ul><p>Update:</p><ul><li>Changed Visual Style</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is the change log for Launcher Update 0.2.1&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Changelog" scheme="http://thecrafters001.ga/categories/Changelog/"/>
+    
+      <category term="Launcher" scheme="http://thecrafters001.ga/categories/Changelog/Launcher/"/>
+    
+    
+      <category term="Launcher" scheme="http://thecrafters001.ga/tags/Launcher/"/>
+    
+      <category term="Update" scheme="http://thecrafters001.ga/tags/Update/"/>
+    
+      <category term="Changelog" scheme="http://thecrafters001.ga/tags/Changelog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Launcher Update 0.2.0</title>
+    <link href="http://thecrafters001.ga/11/24/2019/Launcher-Update-0-2-0/"/>
+    <id>http://thecrafters001.ga/11/24/2019/Launcher-Update-0-2-0/</id>
+    <published>2019-11-24T21:37:00.000Z</published>
+    <updated>2019-11-26T00:37:18.004Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is the change log for Launcher Update 0.2.0</p><a id="more"></a><ul><li>Added<ul><li>VSDC Video Editor (Not Accessible at the moment, but pages are there.)</li><li>Steam</li><li>Code for TheCrafters001 Web Browser</li><li>Pre-Built Web Browser into Application.</li></ul></li><li>Removed<ul><li>TheCrafters001 Blog</li></ul></li><li>Updated<ul><li>Start Screen Now has Games Section Unlocked</li><li>Start Screen has been resized to match the rest of the software.</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is the change log for Launcher Update 0.2.0&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Changelog" scheme="http://thecrafters001.ga/categories/Changelog/"/>
+    
+      <category term="Launcher" scheme="http://thecrafters001.ga/categories/Changelog/Launcher/"/>
+    
+    
+      <category term="Launcher" scheme="http://thecrafters001.ga/tags/Launcher/"/>
+    
+      <category term="Update" scheme="http://thecrafters001.ga/tags/Update/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My View on the New FTC Law</title>
+    <link href="http://thecrafters001.ga/11/23/2019/My-View-on-the-New-FTC-Law/"/>
+    <id>http://thecrafters001.ga/11/23/2019/My-View-on-the-New-FTC-Law/</id>
+    <published>2019-11-23T18:16:00.000Z</published>
+    <updated>2019-11-23T18:47:12.416Z</updated>
+    
+    <content type="html"><![CDATA[<p>So… The time has finally come that YouTube could die.<a id="more"></a> All because they decided to break the law, and open their mouth. This would have never of happened if they said nothing. All YouTube had to do was just sit and stay quite. Nope. They thought it was a good idea to say that they were purposefully showing targeted ads to kids. Who would of thought? And this “Age Rating System” they came up with, is ALSO ignoring the law. On Purpose. Because they say they will not make enough money if they include what is said in the law.</p><div class="video-container"><iframe src="//www.youtube.com/embed/pwnvjuCTb54" frameborder="0" allowfullscreen></iframe></div><p>The law states that there IS a middle ground. There is a General Audience Exception. In. The. LAW. But YouTube ignored it. And for content creators who think that moving to a new platform, like <a href="https://vlare.tv/" target="_blank" rel="noopener">Vlare</a> or <a href="https://vimeo.com/" target="_blank" rel="noopener">Vimeo</a>, think again. Whatever the law says, and someone makes something similar to the thing, the law follows. COPPA is not just confined to YouTube, it is confined to EVERYONE. There is no stopping the law.<br>Now, I should not be affected too much, as I target people over 13, and the fact that I don’t use cookies to collect information on people, and I don’t track people on my apps. But if the law says no, they say no. I have never had ADS on my website, never will. Hence my slogan, “Redefining Free.” But if the government has people that LITERALLY DON’T HAVE CELLPHONES, they you guys are in trouble, no matter what.</p><div class="video-container"><iframe src="//www.youtube.com/embed/pd604xskDmU" frameborder="0" allowfullscreen></iframe></div><p>My advice? Stop Targeted Ads; Stop Tracking Cookies.<br>I am now going to leave some videos on peoples thoughts on the matter.</p><div class="video-container"><iframe src="//www.youtube.com/embed/pd604xskDmU" frameborder="0" allowfullscreen></iframe></div><div class="video-container"><iframe src="//www.youtube.com/embed/pwnvjuCTb54" frameborder="0" allowfullscreen></iframe></div><div class="video-container"><iframe src="//www.youtube.com/embed/0veLrwd9CK4" frameborder="0" allowfullscreen></iframe></div><div class="video-container"><iframe src="//www.youtube.com/embed/b8y1KGIQ6KU" frameborder="0" allowfullscreen></iframe></div><div class="video-container"><iframe src="//www.youtube.com/embed/PQjj2nOwhO8" frameborder="0" allowfullscreen></iframe></div><div class="video-container"><iframe src="//www.youtube.com/embed/TIBlcKAfy-4" frameborder="0" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;So… The time has finally come that YouTube could die.
+    
+    </summary>
+    
+    
+      <category term="Rant" scheme="http://thecrafters001.ga/categories/Rant/"/>
+    
+    
+      <category term="FTC" scheme="http://thecrafters001.ga/tags/FTC/"/>
+    
+      <category term="Rant" scheme="http://thecrafters001.ga/tags/Rant/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Should I Publish My Launcher?</title>
+    <link href="http://thecrafters001.ga/11/23/2019/Should-I-Publish-My-Launcher/"/>
+    <id>http://thecrafters001.ga/11/23/2019/Should-I-Publish-My-Launcher/</id>
+    <published>2019-11-23T17:21:00.000Z</published>
+    <updated>2019-11-23T17:23:11.223Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello!</p><p>If you have been looking at my post for a while, you may remember that I posted that I am working on my own software launcher. As of this post, I have published beta 0.1.6, and I was wondering if I should post it on other platforms, other than GitHub. In it’s current state, it has the following programs:</p><ul><li>Visual Studio</li><li>Visual Studio Code</li><li>VideoLAN VLC</li><li>Easy Butler (my program)</li></ul><p>And it also includes Auto Update. To check for an update, you click “About,” and “Check for Update.” <a href="https://gamejolt.com/@TheCrafters001/post/should-i-publish-my-launcher-hk6stnqg" target="_blank" rel="noopener">Let me know if you guys want to see this be published on GameJolt and Itch.IO!</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;If you have been looking at my post for a while, you may remember that I posted that I am working on my own software launch
+      
+    
+    </summary>
+    
+    
+      <category term="Launcher" scheme="http://thecrafters001.ga/categories/Launcher/"/>
+    
+      <category term="Poll" scheme="http://thecrafters001.ga/categories/Launcher/Poll/"/>
+    
+    
+      <category term="Launcher" scheme="http://thecrafters001.ga/tags/Launcher/"/>
+    
+      <category term="Poll" scheme="http://thecrafters001.ga/tags/Poll/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Updated Some Pages</title>
+    <link href="http://thecrafters001.ga/11/22/2019/Updated-Some-Pages/"/>
+    <id>http://thecrafters001.ga/11/22/2019/Updated-Some-Pages/</id>
+    <published>2019-11-22T23:41:31.000Z</published>
+    <updated>2019-11-22T23:42:03.607Z</updated>
+    
+    <content type="html"><![CDATA[<p>I updated the following pages:</p><ul><li><a href="/games/deltagreen.html">Pokémon Delta Green</a></li><li><a href="/games/lofbbbd.html">The Leap of Faith, But Bounded By Destiny</a></li><li><a href="/software/butler.html">Easy Butler</a></li><li><a href="/software/launcher.html">TheCrafters001 Launcher</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I updated the following pages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/games/deltagreen.html&quot;&gt;Pokémon Delta Green&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/games/lofbbbd.htm
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Added New Pages and Updated Some Pages</title>
+    <link href="http://thecrafters001.ga/11/19/2019/Added-New-Pages-and-Updated-Some-Pages/"/>
+    <id>http://thecrafters001.ga/11/19/2019/Added-New-Pages-and-Updated-Some-Pages/</id>
+    <published>2019-11-19T17:57:29.000Z</published>
+    <updated>2019-11-19T18:03:48.688Z</updated>
+    
+    <content type="html"><![CDATA[<p>I updated the following pages: </p><ul><li><a href="/other.html">Other</a></li></ul><p>Pages I added:</p><ul><li><a href="/contact.html">Contact Me</a></li></ul><p>Empty Pages Added:</p><ul><li><a href="/games/deltagreen.html">Pokémon Delta Green</a></li><li><a href="/games/lofbbbd.html">The Leap of Faith, But Bounded By Destiny</a></li><li><a href="/software/butler.html">Easy Butler</a></li><li><a href="/software/launcher.html">TheCrafters001 Launcher</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I updated the following pages: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/other.html&quot;&gt;Other&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pages I added:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/contact.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>When Is The Next Pokemon Delta Green Update?</title>
+    <link href="http://thecrafters001.ga/11/13/2019/When-Is-The-Next-Pokemon-Delta-Green-Update/"/>
+    <id>http://thecrafters001.ga/11/13/2019/When-Is-The-Next-Pokemon-Delta-Green-Update/</id>
+    <published>2019-11-13T18:41:45.000Z</published>
+    <updated>2019-11-13T19:21:33.510Z</updated>
+    
+    <content type="html"><![CDATA[<p>This post is regarding the next update in Pokemon Delta Green.<br>If you think this post is about how it is not going to be finished, your are very wrong. I have been working on this project for OVER 3 years now. I am not going to drop it just like that.</p><p>I want to say that the update may not be done for a while, as I am going to be working on a lot of bug fixes, story elements, and grammar/typo fixes. That means I am going to go through map by map and fix any issues with the dialog. I am also going to be going through and redesigning maps. This will have some-what of an effect on the story, because I may alter it to fit the town you are in.<br>That means I am also going to be working on the Gym Leaders. I will be working on their personalities this update. This way you can feel more attached to them. But before I start any of this, I am going to take a break. I will resume some time in December, after the <a href="https://itch.io/jam/game-off-2019" target="_blank" rel="noopener">GameOff Game Jam 2019</a> voting ends.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This post is regarding the next update in Pokemon Delta Green.&lt;br&gt;If you think this post is about how it is not going to be finished, you
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome To My New Website!</title>
+    <link href="http://thecrafters001.ga/11/12/2019/Welcome-To-My-New-Website/"/>
+    <id>http://thecrafters001.ga/11/12/2019/Welcome-To-My-New-Website/</id>
+    <published>2019-11-12T20:08:00.000Z</published>
+    <updated>2019-11-12T20:24:53.580Z</updated>
+    
+    <content type="html"><![CDATA[<p>Thank you for visiting my website in the past! But now it is time for the future! I will now be doing a blog-style website, as it is WAY easier to maintain. Please make sure to look at the pages when you are having a look around (linked at the top)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Thank you for visiting my website in the past! But now it is time for the future! I will now be doing a blog-style website, as it is WAY 
+      
+    
+    </summary>
+    
+    
+      <category term="Website" scheme="http://thecrafters001.ga/categories/Website/"/>
+    
+    
+      <category term="Website" scheme="http://thecrafters001.ga/tags/Website/"/>
+    
+  </entry>
+  
+</feed>
