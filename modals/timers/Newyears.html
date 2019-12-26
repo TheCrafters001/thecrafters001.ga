@@ -1,0 +1,265 @@
+<style>
+body {
+  background-color:black;
+  font-family: 'Charm', cursive;
+  text-align:center;
+  background-image: url('https://images.unsplash.com/photo-1518818419601-72c8673f5852?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80');
+}
+p {
+  font-size: 50px;
+  color:white;
+}
+.newyear {
+  color:blue;
+  font-size: 55px;
+}
+
+/* Fireworks */
+/* code forked from */
+/* https://codepen.io/yshlin/pen/ylDEk */
+
+.pyro > .before, .pyro > .after {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  box-shadow: 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff;
+  -moz-animation: 1s bang ease-out infinite backwards, 1s gravity ease-in infinite backwards, 5s position linear infinite backwards;
+  -webkit-animation: 1s bang ease-out infinite backwards, 1s gravity ease-in infinite backwards, 5s position linear infinite backwards;
+  -o-animation: 1s bang ease-out infinite backwards, 1s gravity ease-in infinite backwards, 5s position linear infinite backwards;
+  -ms-animation: 1s bang ease-out infinite backwards, 1s gravity ease-in infinite backwards, 5s position linear infinite backwards;
+  animation: 1s bang ease-out infinite backwards, 1s gravity ease-in infinite backwards, 5s position linear infinite backwards;
+}
+
+.pyro > .after {
+  -moz-animation-delay: 1.25s, 1.25s, 1.25s;
+  -webkit-animation-delay: 1.25s, 1.25s, 1.25s;
+  -o-animation-delay: 1.25s, 1.25s, 1.25s;
+  -ms-animation-delay: 1.25s, 1.25s, 1.25s;
+  animation-delay: 1.25s, 1.25s, 1.25s;
+  -moz-animation-duration: 1.25s, 1.25s, 6.25s;
+  -webkit-animation-duration: 1.25s, 1.25s, 6.25s;
+  -o-animation-duration: 1.25s, 1.25s, 6.25s;
+  -ms-animation-duration: 1.25s, 1.25s, 6.25s;
+  animation-duration: 1.25s, 1.25s, 6.25s;
+}
+
+@-webkit-keyframes bang {
+  to {
+    box-shadow: -15px -1.6666666667px #ff0095, 79px -391.6666666667px #ffcc00, 107px -370.6666666667px #00b3ff, -96px -342.6666666667px #ff001e, -158px -3.6666666667px #ffa600, -228px -11.6666666667px #00ff99, 3px 16.3333333333px #5900ff, 14px -77.6666666667px #009dff, 150px 75.3333333333px #ff0051, 147px -241.6666666667px #3700ff, -243px -274.6666666667px #48ff00, -100px -194.6666666667px #ff0077, 25px -79.6666666667px #9100ff, 110px -338.6666666667px #fff200, 216px -222.6666666667px #c400ff, -86px -317.6666666667px #9d00ff, 116px -125.6666666667px #00fbff, 234px 73.3333333333px #00ffe6, -19px -313.6666666667px #2bff00, 71px 42.3333333333px #ff00d0, 79px -217.6666666667px #ffae00, -148px -387.6666666667px #2f00ff, 226px -179.6666666667px #d0ff00, -100px 5.3333333333px #e100ff, 110px -215.6666666667px #ff1e00, 73px -258.6666666667px #0077ff, 162px -320.6666666667px #37ff00, -198px -326.6666666667px #0004ff, -158px -371.6666666667px #ff0084, 194px 16.3333333333px #00ff99, 238px -101.6666666667px #ff6a00, 118px 71.3333333333px #00ffbb, 38px 76.3333333333px #88ff00, -225px -302.6666666667px #a2ff00, 48px -46.6666666667px #ccff00, 202px -167.6666666667px #00ff7b, -213px -357.6666666667px #bb00ff, -210px -166.6666666667px #ff0062, -211px -13.6666666667px #00ff66, -184px -165.6666666667px #ffb700, 83px -393.6666666667px #ffd500, 111px -67.6666666667px #ff009d, 86px -409.6666666667px #bf00ff, -217px -95.6666666667px #fb00ff, 119px -325.6666666667px #ff00cc, 112px -148.6666666667px deepskyblue, -241px -191.6666666667px #fff700, 143px -212.6666666667px #bfff00, 179px -210.6666666667px #8400ff, -133px -175.6666666667px #ff0033, 97px -396.6666666667px #0095ff;
+  }
+}
+@-moz-keyframes bang {
+  to {
+    box-shadow: -15px -1.6666666667px #ff0095, 79px -391.6666666667px #ffcc00, 107px -370.6666666667px #00b3ff, -96px -342.6666666667px #ff001e, -158px -3.6666666667px #ffa600, -228px -11.6666666667px #00ff99, 3px 16.3333333333px #5900ff, 14px -77.6666666667px #009dff, 150px 75.3333333333px #ff0051, 147px -241.6666666667px #3700ff, -243px -274.6666666667px #48ff00, -100px -194.6666666667px #ff0077, 25px -79.6666666667px #9100ff, 110px -338.6666666667px #fff200, 216px -222.6666666667px #c400ff, -86px -317.6666666667px #9d00ff, 116px -125.6666666667px #00fbff, 234px 73.3333333333px #00ffe6, -19px -313.6666666667px #2bff00, 71px 42.3333333333px #ff00d0, 79px -217.6666666667px #ffae00, -148px -387.6666666667px #2f00ff, 226px -179.6666666667px #d0ff00, -100px 5.3333333333px #e100ff, 110px -215.6666666667px #ff1e00, 73px -258.6666666667px #0077ff, 162px -320.6666666667px #37ff00, -198px -326.6666666667px #0004ff, -158px -371.6666666667px #ff0084, 194px 16.3333333333px #00ff99, 238px -101.6666666667px #ff6a00, 118px 71.3333333333px #00ffbb, 38px 76.3333333333px #88ff00, -225px -302.6666666667px #a2ff00, 48px -46.6666666667px #ccff00, 202px -167.6666666667px #00ff7b, -213px -357.6666666667px #bb00ff, -210px -166.6666666667px #ff0062, -211px -13.6666666667px #00ff66, -184px -165.6666666667px #ffb700, 83px -393.6666666667px #ffd500, 111px -67.6666666667px #ff009d, 86px -409.6666666667px #bf00ff, -217px -95.6666666667px #fb00ff, 119px -325.6666666667px #ff00cc, 112px -148.6666666667px deepskyblue, -241px -191.6666666667px #fff700, 143px -212.6666666667px #bfff00, 179px -210.6666666667px #8400ff, -133px -175.6666666667px #ff0033, 97px -396.6666666667px #0095ff;
+  }
+}
+@-o-keyframes bang {
+  to {
+    box-shadow: -15px -1.6666666667px #ff0095, 79px -391.6666666667px #ffcc00, 107px -370.6666666667px #00b3ff, -96px -342.6666666667px #ff001e, -158px -3.6666666667px #ffa600, -228px -11.6666666667px #00ff99, 3px 16.3333333333px #5900ff, 14px -77.6666666667px #009dff, 150px 75.3333333333px #ff0051, 147px -241.6666666667px #3700ff, -243px -274.6666666667px #48ff00, -100px -194.6666666667px #ff0077, 25px -79.6666666667px #9100ff, 110px -338.6666666667px #fff200, 216px -222.6666666667px #c400ff, -86px -317.6666666667px #9d00ff, 116px -125.6666666667px #00fbff, 234px 73.3333333333px #00ffe6, -19px -313.6666666667px #2bff00, 71px 42.3333333333px #ff00d0, 79px -217.6666666667px #ffae00, -148px -387.6666666667px #2f00ff, 226px -179.6666666667px #d0ff00, -100px 5.3333333333px #e100ff, 110px -215.6666666667px #ff1e00, 73px -258.6666666667px #0077ff, 162px -320.6666666667px #37ff00, -198px -326.6666666667px #0004ff, -158px -371.6666666667px #ff0084, 194px 16.3333333333px #00ff99, 238px -101.6666666667px #ff6a00, 118px 71.3333333333px #00ffbb, 38px 76.3333333333px #88ff00, -225px -302.6666666667px #a2ff00, 48px -46.6666666667px #ccff00, 202px -167.6666666667px #00ff7b, -213px -357.6666666667px #bb00ff, -210px -166.6666666667px #ff0062, -211px -13.6666666667px #00ff66, -184px -165.6666666667px #ffb700, 83px -393.6666666667px #ffd500, 111px -67.6666666667px #ff009d, 86px -409.6666666667px #bf00ff, -217px -95.6666666667px #fb00ff, 119px -325.6666666667px #ff00cc, 112px -148.6666666667px deepskyblue, -241px -191.6666666667px #fff700, 143px -212.6666666667px #bfff00, 179px -210.6666666667px #8400ff, -133px -175.6666666667px #ff0033, 97px -396.6666666667px #0095ff;
+  }
+}
+@-ms-keyframes bang {
+  to {
+    box-shadow: -15px -1.6666666667px #ff0095, 79px -391.6666666667px #ffcc00, 107px -370.6666666667px #00b3ff, -96px -342.6666666667px #ff001e, -158px -3.6666666667px #ffa600, -228px -11.6666666667px #00ff99, 3px 16.3333333333px #5900ff, 14px -77.6666666667px #009dff, 150px 75.3333333333px #ff0051, 147px -241.6666666667px #3700ff, -243px -274.6666666667px #48ff00, -100px -194.6666666667px #ff0077, 25px -79.6666666667px #9100ff, 110px -338.6666666667px #fff200, 216px -222.6666666667px #c400ff, -86px -317.6666666667px #9d00ff, 116px -125.6666666667px #00fbff, 234px 73.3333333333px #00ffe6, -19px -313.6666666667px #2bff00, 71px 42.3333333333px #ff00d0, 79px -217.6666666667px #ffae00, -148px -387.6666666667px #2f00ff, 226px -179.6666666667px #d0ff00, -100px 5.3333333333px #e100ff, 110px -215.6666666667px #ff1e00, 73px -258.6666666667px #0077ff, 162px -320.6666666667px #37ff00, -198px -326.6666666667px #0004ff, -158px -371.6666666667px #ff0084, 194px 16.3333333333px #00ff99, 238px -101.6666666667px #ff6a00, 118px 71.3333333333px #00ffbb, 38px 76.3333333333px #88ff00, -225px -302.6666666667px #a2ff00, 48px -46.6666666667px #ccff00, 202px -167.6666666667px #00ff7b, -213px -357.6666666667px #bb00ff, -210px -166.6666666667px #ff0062, -211px -13.6666666667px #00ff66, -184px -165.6666666667px #ffb700, 83px -393.6666666667px #ffd500, 111px -67.6666666667px #ff009d, 86px -409.6666666667px #bf00ff, -217px -95.6666666667px #fb00ff, 119px -325.6666666667px #ff00cc, 112px -148.6666666667px deepskyblue, -241px -191.6666666667px #fff700, 143px -212.6666666667px #bfff00, 179px -210.6666666667px #8400ff, -133px -175.6666666667px #ff0033, 97px -396.6666666667px #0095ff;
+  }
+}
+@keyframes bang {
+  to {
+    box-shadow: -15px -1.6666666667px #ff0095, 79px -391.6666666667px #ffcc00, 107px -370.6666666667px #00b3ff, -96px -342.6666666667px #ff001e, -158px -3.6666666667px #ffa600, -228px -11.6666666667px #00ff99, 3px 16.3333333333px #5900ff, 14px -77.6666666667px #009dff, 150px 75.3333333333px #ff0051, 147px -241.6666666667px #3700ff, -243px -274.6666666667px #48ff00, -100px -194.6666666667px #ff0077, 25px -79.6666666667px #9100ff, 110px -338.6666666667px #fff200, 216px -222.6666666667px #c400ff, -86px -317.6666666667px #9d00ff, 116px -125.6666666667px #00fbff, 234px 73.3333333333px #00ffe6, -19px -313.6666666667px #2bff00, 71px 42.3333333333px #ff00d0, 79px -217.6666666667px #ffae00, -148px -387.6666666667px #2f00ff, 226px -179.6666666667px #d0ff00, -100px 5.3333333333px #e100ff, 110px -215.6666666667px #ff1e00, 73px -258.6666666667px #0077ff, 162px -320.6666666667px #37ff00, -198px -326.6666666667px #0004ff, -158px -371.6666666667px #ff0084, 194px 16.3333333333px #00ff99, 238px -101.6666666667px #ff6a00, 118px 71.3333333333px #00ffbb, 38px 76.3333333333px #88ff00, -225px -302.6666666667px #a2ff00, 48px -46.6666666667px #ccff00, 202px -167.6666666667px #00ff7b, -213px -357.6666666667px #bb00ff, -210px -166.6666666667px #ff0062, -211px -13.6666666667px #00ff66, -184px -165.6666666667px #ffb700, 83px -393.6666666667px #ffd500, 111px -67.6666666667px #ff009d, 86px -409.6666666667px #bf00ff, -217px -95.6666666667px #fb00ff, 119px -325.6666666667px #ff00cc, 112px -148.6666666667px deepskyblue, -241px -191.6666666667px #fff700, 143px -212.6666666667px #bfff00, 179px -210.6666666667px #8400ff, -133px -175.6666666667px #ff0033, 97px -396.6666666667px #0095ff;
+  }
+}
+@-webkit-keyframes gravity {
+  to {
+    transform: translateY(200px);
+    -moz-transform: translateY(200px);
+    -webkit-transform: translateY(200px);
+    -o-transform: translateY(200px);
+    -ms-transform: translateY(200px);
+    opacity: 0;
+  }
+}
+@-moz-keyframes gravity {
+  to {
+    transform: translateY(200px);
+    -moz-transform: translateY(200px);
+    -webkit-transform: translateY(200px);
+    -o-transform: translateY(200px);
+    -ms-transform: translateY(200px);
+    opacity: 0;
+  }
+}
+@-o-keyframes gravity {
+  to {
+    transform: translateY(200px);
+    -moz-transform: translateY(200px);
+    -webkit-transform: translateY(200px);
+    -o-transform: translateY(200px);
+    -ms-transform: translateY(200px);
+    opacity: 0;
+  }
+}
+@-ms-keyframes gravity {
+  to {
+    transform: translateY(200px);
+    -moz-transform: translateY(200px);
+    -webkit-transform: translateY(200px);
+    -o-transform: translateY(200px);
+    -ms-transform: translateY(200px);
+    opacity: 0;
+  }
+}
+@keyframes gravity {
+  to {
+    transform: translateY(200px);
+    -moz-transform: translateY(200px);
+    -webkit-transform: translateY(200px);
+    -o-transform: translateY(200px);
+    -ms-transform: translateY(200px);
+    opacity: 0;
+  }
+}
+@-webkit-keyframes position {
+  0%, 19.9% {
+    margin-top: 10%;
+    margin-left: 40%;
+  }
+  20%, 39.9% {
+    margin-top: 40%;
+    margin-left: 30%;
+  }
+  40%, 59.9% {
+    margin-top: 20%;
+    margin-left: 70%;
+  }
+  60%, 79.9% {
+    margin-top: 30%;
+    margin-left: 20%;
+  }
+  80%, 99.9% {
+    margin-top: 30%;
+    margin-left: 80%;
+  }
+}
+@-moz-keyframes position {
+  0%, 19.9% {
+    margin-top: 10%;
+    margin-left: 40%;
+  }
+  20%, 39.9% {
+    margin-top: 40%;
+    margin-left: 30%;
+  }
+  40%, 59.9% {
+    margin-top: 20%;
+    margin-left: 70%;
+  }
+  60%, 79.9% {
+    margin-top: 30%;
+    margin-left: 20%;
+  }
+  80%, 99.9% {
+    margin-top: 30%;
+    margin-left: 80%;
+  }
+}
+@-o-keyframes position {
+  0%, 19.9% {
+    margin-top: 10%;
+    margin-left: 40%;
+  }
+  20%, 39.9% {
+    margin-top: 40%;
+    margin-left: 30%;
+  }
+  40%, 59.9% {
+    margin-top: 20%;
+    margin-left: 70%;
+  }
+  60%, 79.9% {
+    margin-top: 30%;
+    margin-left: 20%;
+  }
+  80%, 99.9% {
+    margin-top: 30%;
+    margin-left: 80%;
+  }
+}
+@-ms-keyframes position {
+  0%, 19.9% {
+    margin-top: 10%;
+    margin-left: 40%;
+  }
+  20%, 39.9% {
+    margin-top: 40%;
+    margin-left: 30%;
+  }
+  40%, 59.9% {
+    margin-top: 20%;
+    margin-left: 70%;
+  }
+  60%, 79.9% {
+    margin-top: 30%;
+    margin-left: 20%;
+  }
+  80%, 99.9% {
+    margin-top: 30%;
+    margin-left: 80%;
+  }
+}
+@keyframes position {
+  0%, 19.9% {
+    margin-top: 10%;
+    margin-left: 40%;
+  }
+  20%, 39.9% {
+    margin-top: 40%;
+    margin-left: 30%;
+  }
+  40%, 59.9% {
+    margin-top: 20%;
+    margin-left: 70%;
+  }
+  60%, 79.9% {
+    margin-top: 30%;
+    margin-left: 20%;
+  }
+  80%, 99.9% {
+    margin-top: 30%;
+    margin-left: 80%;
+  }
+}
+</style>
+<body>
+<p id="newyear">Please wait... Please make sure JavaScript is enabled.</p>
+</body>
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jan 1, 2020 00:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+  // Get todays date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Output the result in an element with id="demo"
+  document.getElementById("newyear").innerHTML =
+    days + " Day(s) " + hours + " Hour(s) " + minutes + " Minutes(s) " + seconds + " Second(s) " + " Until the New Years!";
+
+  // If the count down is over, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("newyear").innerHTML = "<p class='newyear'>Happy New Years</p><div class='pyro'><div class='before'></div><div class='after'></div></div>";
+  }
+}, 1000);
+
+</script>
