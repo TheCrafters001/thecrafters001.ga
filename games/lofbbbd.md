@@ -1,2 +1,2 @@
 This is a game created for the Game Off 2019 GameJam on Itch.IO!
-{% iframe https://itch.io/embed/509487?linkback=true&amp;bg_color=222222&amp;fg_color=eeeeee&amp;link_color=004000&amp;border_color=363636 100% 167px %}
+<iframe src="https://itch.io/embed/509487?linkback=true&amp;bg_color=222222&amp;fg_color=eeeeee&amp;link_color=004000&amp;border_color=363636" width="100%" height="167px">
