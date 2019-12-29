@@ -7,10 +7,10 @@ Pok&eacute;mon Delta Green is now Open-Source!
 Pok&eacute;mon is not owned by TheCrafters001<br>Pok&eacute;mon is owned by Nintendo/GameFreak/Creatures/The Pok&eacute;mon Company International
 
 <section id="download">
-{% iframe https://widgets.gamejolt.com/package/v1?key=U9vhsn9e 100% 245px %}
-{% iframe https://itch.io/embed/372712?linkback=true&amp;bg_color=8d8d8d&amp;fg_color=ffffff&amp;link_color=07b5ff&amp;border_color=333333 100% 167px %}
-{% iframe https://widgets.gamejolt.com/package/v1?key=bySkJfnd 100% 245px %}
-{% iframe https://itch.io/embed/428599?linkback=true&amp;bg_color=8d8d8d&amp;fg_color=ffffff&amp;link_color=07b5ff&amp;border_color=333333 100% 167px %}
+<iframe https://widgets.gamejolt.com/package/v1?key=U9vhsn9e width="100%" height="245px"></iframe>
+<iframe https://itch.io/embed/372712?linkback=true&amp;bg_color=8d8d8d&amp;fg_color=ffffff&amp;link_color=07b5ff&amp;border_color=333333 width="100%" height="167px">
+<iframe https://widgets.gamejolt.com/package/v1?key=bySkJfnd width="100%" height="245px">
+<iframe https://itch.io/embed/428599?linkback=true&amp;bg_color=8d8d8d&amp;fg_color=ffffff&amp;link_color=07b5ff&amp;border_color=333333 width="100%" height="167px">
 
 </section>
 
