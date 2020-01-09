@@ -1,4 +1,4 @@
-Navbar: [Software](/software.html), [Games](/games.html), [Contact Me](/contact.html), [Other](/other.html), [Changelogs](/changelogs/), [Surveys](/surveys/)
+Navbar: [Software](/software.html), [Games](/games.html), [Contact Me](/contact.html), [Other](/other.html), [Changelogs](/changelogs/), [Surveys](/surveys/), [Referrals](/referral.html)
 
 Hello! I am TheCrafters001! I make [Games](/games.html) and [Software](/software.html)! I am mostly
 known by my fan-game, [Pok&eacute;mon Delta Green](/games/deltagreen.html). It has been my big project
