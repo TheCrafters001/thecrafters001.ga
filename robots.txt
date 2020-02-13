@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /r/
+Disallow: /ico/
+Disallow: /modals/
+Allow: /
