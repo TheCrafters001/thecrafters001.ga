@@ -23,24 +23,53 @@
         <meta name="msapplication-config" content="/ico/browserconfig.xml?v=8jM6j7gd6E">
         <meta name="theme-color" content="#004000">
         <link rel="stylesheet" type="text/css" href="/FancyBox/jquery.fancybox.min.css">
-        <style>.popup{color:#fff!important;padding-left:75px;font-size:22px;font-weight:700;text-transform:none}.popup:hover{color:#c9dd21!important}.cerrar{font-size:20px;position:absolute;top:65px;right:7px}.cerrar:hover{color:#004000!important}#prueba{position:fixed;right:0;bottom:0;width:280px;background-color:#004000;-webkit-box-shadow:0 2px 15px 0 rgba(0,0,0,.6);box-shadow:0 2px 15px 0 rgba(0,0,0,.6);-moz-box-shadow:0 2px 15px 0 rgba(0,0,0,.6);z-index:9999;margin:0;padding:0}#covid19{padding:0 25px;display:none}#covid19:target{padding:0 50px;display:inline}#alto{max-height:50px;width:100%;background-color:#00f}</style>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+        <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
     </head>
     <body>
-        <h1 align="center">TheCrafters001 - Redefining Free</h1>
-        <hr>
-        <h3>Hey, sorry!</h3>
-        <p>My website is currently under constuction. Please come again soon!</p>
-
-        <div id="prueba">
-            <h3 class="widget-title"><a class="popup" href="#covid19">COVID-19</a><a class="cerrar" style="color:white;" href="#">CLOSE</a></h3>
-            <div id="covid19">
-              <p style="color:#fff;">So, everyone is freaking out about COVID-19. If you want to know my opinion on the matter, please click the button below.</p>
-              <form action="/covid19.html">
-                <button type="submit">Click here!</button>
-              </form>
+        <section class="hero is-info is-fullheight">
+            <div class="hero-head">
+                <nav class="navbar">
+                    <div class="container">
+                        <div class="navbar-brand">
+                            <a class="navbar-item" href="/">
+                            <h1 style="font-size:30px;color:white;">TheCrafters001</h1>
+                            </a>
+                            <span class="navbar-burger burger" data-target="navbarMenu">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            </span>
+                        </div>
+                        <div id="navbarMenu" class="navbar-menu">
+                            <div class="navbar-end">
+                                <span class="navbar-item">
+                                <a class="button is-white is-outlined" href="/">
+                                <span class="icon">
+                                <i class="fa fa-home"></i>
+                                </span>
+                                <span>Home</span>
+                                </a>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
             </div>
-        </div>
+            <div class="hero-body">
+                <div class="container has-text-centered">
+                    <div class="column is-6 is-offset-3">
+                        <h1 class="title">
+                            Coming Soon
+                        </h1>
+                        <h2 class="subtitle">
+                            I am currently building a new website to help make it easier to access my stuff!
+                        </h2>
+                    </div>
+                </div>
+            </div>
+        </section>
         <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-	    <script src="/FancyBox/jquery.fancybox.min.js"></script>
+        <script src="/FancyBox/jquery.fancybox.min.js"></script>
     </body>
 </html>
