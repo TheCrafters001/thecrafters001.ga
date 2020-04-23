@@ -3,12 +3,33 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-04-22T20:10:49-04:00</updated>
+    <updated>2020-04-22T20:15:10-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>How do I access old site stuff (ie: games, software, etc.)</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/how-do-i-access-old-site-stuff-ie-games-software-etc.html"/>
+        <id>https://thecrafters001.ga/how-do-i-access-old-site-stuff-ie-games-software-etc.html</id>
+            <category term="Help"/>
+
+        <updated>2020-04-22T20:14:53-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Well, I am working on that. I plan to make hidden post that contain the links to other hidden post that have software/games/etc in them. But it will take some time. Once it is up am running, I will be sure to post about it!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Well, I am working on that. I plan to make hidden post that contain the links to other hidden post that have software/games/etc in them. But it will take some time. Once it is up am running, I will be sure to post about it!
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>New Website Design</title>
         <author>
