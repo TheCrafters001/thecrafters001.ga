@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TheCrafters001",
+    "description": "",
+    "home_page_url": "https://thecrafters001.ga",
+    "feed_url": "https://thecrafters001.ga/feed.json",
+    "user_comment": "",
+    "icon": "https://thecrafters001.ga/media/website/Avatar_New2.png",
+    "author": {
+        "name": "TheCrafters001"
+    },
+    "items": [
+        {
+            "id": "https://thecrafters001.ga/new-website-design.html",
+            "url": "https://thecrafters001.ga/new-website-design.html",
+            "title": "New Website Design",
+            "summary": "Hi! I have redesigned the website!",
+            "content_html": "Hi! I have redesigned the website!",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-21T21:49:10-04:00",
+            "date_modified": "2020-04-21T21:49:54-04:00"
+        }
+    ]
+}

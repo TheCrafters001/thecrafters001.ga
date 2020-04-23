@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TheCrafters001</title>
+    <link href="https://thecrafters001.ga/feed.xml" rel="self" />
+    <link href="https://thecrafters001.ga" />
+    <updated>2020-04-22T20:10:49-04:00</updated>
+    <author>
+        <name>TheCrafters001</name>
+    </author>
+    <id>https://thecrafters001.ga</id>
+
+    <entry>
+        <title>New Website Design</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/new-website-design.html"/>
+        <id>https://thecrafters001.ga/new-website-design.html</id>
+
+        <updated>2020-04-21T21:49:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Hi! I have redesigned the website!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Hi! I have redesigned the website!
+            ]]>
+        </content>
+    </entry>
+</feed>
