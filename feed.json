@@ -11,21 +11,18 @@
     },
     "items": [
         {
-            "id": "https://thecrafters001.ga/added-some-but-not-all-softwar-and-games/",
-            "url": "https://thecrafters001.ga/added-some-but-not-all-softwar-and-games/",
-            "title": "Added Some But Not All Software and Games",
-            "summary": "Hi! I have added some software and games to the software and games links at the top of the page.",
-            "content_html": "Hi! I have added some software and games to the software and games links at the top of the page.Please use these links to take you to the official game/software pages. Some pages don't exist yet, just try clicking on the name of the software/game and see if it takes you to a new page. If it doesn't, then I have not added it to here yet.!",
+            "id": "https://thecrafters001.ga/most-games-and-software-have-been-added/",
+            "url": "https://thecrafters001.ga/most-games-and-software-have-been-added/",
+            "title": "Most Games and Software Have Been Added!",
+            "summary": "I have added most of my Software and Games back to my site. I will not add all of them as most of them are either canceled or no-longer supported.",
+            "content_html": "<p>I have added most of my Software and Games back to my site. I will not add all of them as most of them are either canceled or no-longer supported.</p>",
             "author": {
                 "name": "TheCrafters001"
             },
             "tags": [
-                   "Software",
-                   "Help",
-                   "Games"
             ],
-            "date_published": "2020-04-23T08:20:15-04:00",
-            "date_modified": "2020-04-23T08:25:56-04:00"
+            "date_published": "2020-04-24T12:44:25-04:00",
+            "date_modified": "2020-04-24T12:44:25-04:00"
         },
         {
             "id": "https://thecrafters001.ga/how-do-i-access-old-site-stuff-ie-games-software-etc/",
