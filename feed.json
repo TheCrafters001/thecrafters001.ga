@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://thecrafters001.ga/get-your-team-in-delta-green/",
+            "url": "https://thecrafters001.ga/get-your-team-in-delta-green/",
+            "title": "Get Your Team in Delta Green!",
+            "summary": "Hi! I want you to come up with a team to be put into Delta Green! Your team has to be under these guidelines, however. You must not have your team over lvl 70. You can have all 6 pokemon NO LEGENDARIES OR MYTHICAL POKEMON.",
+            "content_html": "<figure class=\"post__image\"></figure>\n<p >Hi! I want you to come up with a team to be put into Delta Green!</p>\n<p>Your team has to be under these guidelines, however.</p>\n<ul>\n<li>\n<p>You must not have your team over lvl 70.</p>\n</li>\n<li>\n<p>You can have all 6 pokemon</p>\n</li>\n<li>\n<p>NO LEGENDARIES OR MYTHICAL POKEMON.</p>\n</li>\n<li>\n<p>You can create a custom sprite using the one below.</p>\n</li>\n<li>\n<p>You must state what trainer class you are (custom classes can be considered)</p>\n</li>\n<li>\n<p>Because of limits in the editor, IVs can be edited, but EVs cannot.</p>\n</li>\n<li>\n<p>You must state what gender your Pokemon are (makes it easier on my life)</p>\n</li>\n</ul>\n<p>That is about it. No custom types are available in the game, and you are limited to pokemon from Gen 1 to Gen 5. This also means that Fairy type does not exist.</p>\n<p>Happy Team Building!</p>\n<figure class=\"post__image\"><img src=\"https://thecrafters001.ga/media/posts/19/trchar005.png\" alt=\"\" width=\"128\" height=\"192\"></figure>\n<p><img src=\"https://thecrafters001.ga/media/posts/19/trainer004.png\" alt=\"\" width=\"128\" height=\"128\"></p>",
+            "image": "https://thecrafters001.ga/media/posts/19/deltagreen_banner2.png",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-01T16:20:48-04:00",
+            "date_modified": "2020-05-01T16:24:23-04:00"
+        },
+        {
             "id": "https://thecrafters001.ga/what-im-doing-about-covid-19/",
             "url": "https://thecrafters001.ga/what-im-doing-about-covid-19/",
             "title": "What I&#x27;m Doing about COVID-19",
