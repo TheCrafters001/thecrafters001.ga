@@ -3,12 +3,39 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-05-02T22:01:26-04:00</updated>
+    <updated>2020-05-02T22:41:50-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>Flash Player Two Version 1.3.0.0 released</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/flash-player-two-version-1300-released/"/>
+        <id>https://thecrafters001.ga/flash-player-two-version-1300-released/</id>
+
+        <updated>2020-05-02T22:41:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                    An update for Flash Player Two has been released.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                An update for Flash Player Two has been released.
+<p>The following changes include:</p>
+<ul>
+<li>Updated help files</li>
+<li>Added Help link to Media Player Controller</li>
+<li>Added 64 Bit support</li>
+<li>Updated Copyright Year</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Get Your Team in Delta Green!</title>
         <author>
