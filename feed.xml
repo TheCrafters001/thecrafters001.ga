@@ -3,12 +3,40 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-05-06T17:56:43-04:00</updated>
+    <updated>2020-05-12T14:45:01-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>The Adventure of Block reset</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/the-adventure-of-block-reset/"/>
+        <id>https://thecrafters001.ga/the-adventure-of-block-reset/</id>
+            <category term="The Adventure of Block"/>
+            <category term="Original Game"/>
+            <category term="Games"/>
+
+        <updated>2020-05-12T14:44:01-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I have decided to reset the "The Adventure of Block" project.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                I have decided to reset the "The Adventure of Block" project.
+<h2 id="mcetoc_1e852mhdc0">Reason</h2>
+<p>The reason why I have decided to do this, is because I am not very good at makeing assets for RPG Maker MV. I will use a lot of the default RPG Maker MV envirement sprites, but I will use some of my custom assets.</p>
+<p>Sorry.</p>
+<p>However, the current demo is still avaliable to play.</p>
+<p>You can play it on the Games page.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Flash Player 2 1.3.0.1 is the last version!</title>
         <author>
@@ -16,8 +44,9 @@
         </author>
         <link href="https://thecrafters001.ga/flash-player-2-1301-is-the-last-version/"/>
         <id>https://thecrafters001.ga/flash-player-2-1301-is-the-last-version/</id>
+            <category term="Flash Player 2"/>
 
-        <updated>2020-05-03T19:38:11-04:00</updated>
+        <updated>2020-05-12T14:44:17-04:00</updated>
             <summary>
                 <![CDATA[
                     Flash Player 2 1.3.0.1 is the last version!
@@ -95,8 +124,10 @@
         </author>
         <link href="https://thecrafters001.ga/get-your-team-in-delta-green/"/>
         <id>https://thecrafters001.ga/get-your-team-in-delta-green/</id>
+            <category term="fan-game"/>
+            <category term="Games"/>
 
-        <updated>2020-05-01T16:24:23-04:00</updated>
+        <updated>2020-05-12T14:44:40-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thecrafters001.ga/media/posts/19/deltagreen_banner2.png" alt="" />
