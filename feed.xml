@@ -3,12 +3,37 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-05-15T11:07:49-04:00</updated>
+    <updated>2020-05-15T16:28:59-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>The Adventure of Block Demo 0.0.2</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/the-adventure-of-block-demo-002/"/>
+        <id>https://thecrafters001.ga/the-adventure-of-block-demo-002/</id>
+            <category term="Update"/>
+            <category term="The Adventure of Block"/>
+            <category term="Original Game"/>
+            <category term="Games"/>
+            <category term="Changelog"/>
+
+        <updated>2020-05-15T16:28:47-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Development reset - Initial Release
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Development reset - Initial Release</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Adventure of Block reset</title>
         <author>
