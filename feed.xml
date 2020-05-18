@@ -3,12 +3,37 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-05-15T16:28:59-04:00</updated>
+    <updated>2020-05-18T17:51:09-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>TheCrafters001 Direct Has Gotten An Upgrade!</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/thecrafters001-direct-has-gotten-an-upgrade/"/>
+        <id>https://thecrafters001.ga/thecrafters001-direct-has-gotten-an-upgrade/</id>
+            <category term="Update"/>
+            <category term="TheCrafters001 Direct"/>
+
+        <updated>2020-05-18T17:50:57-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thecrafters001.ga/media/posts/28/direct.thecrafters001.ga_-1.png" alt="" />
+                    My (not so) monthly video series lives on! Expect a new video this month on the brand new website that has just been pushed! Check out previous directs here!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thecrafters001.ga/media/posts/28/direct.thecrafters001.ga_-1.png" alt="" />
+                <p>My (not so) monthly video series lives on! Expect a new video this month on the brand new website that has just been pushed!</p>
+<p>Check out <a href="https://direct.thecrafters001.ga/" title="https://direct.thecrafters001.ga/" target="_blank" rel="sponsored noopener noreferrer">previous directs here</a>!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Adventure of Block Demo 0.0.2</title>
         <author>
@@ -269,26 +294,6 @@
         <content type="html">
             <![CDATA[
                 Well, I am working on that. I plan to make hidden post that contain the links to other hidden post that have software/games/etc in them. But it will take some time. Once it is up am running, I will be sure to post about it!
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>New Website Design</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/new-website-design/"/>
-        <id>https://thecrafters001.ga/new-website-design/</id>
-
-        <updated>2020-04-21T21:49:54-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Hi! I have redesigned the website!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Hi! I have redesigned the website!
             ]]>
         </content>
     </entry>

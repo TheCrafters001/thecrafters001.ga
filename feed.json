@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://thecrafters001.ga/thecrafters001-direct-has-gotten-an-upgrade/",
+            "url": "https://thecrafters001.ga/thecrafters001-direct-has-gotten-an-upgrade/",
+            "title": "TheCrafters001 Direct Has Gotten An Upgrade!",
+            "summary": "My (not so) monthly video series lives on! Expect a new video this month on the brand new website that has just been pushed! Check out previous directs here!",
+            "content_html": "<p>My (not so) monthly video series lives on! Expect a new video this month on the brand new website that has just been pushed!</p>\n<p>Check out <a href=\"https://direct.thecrafters001.ga/\" title=\"https://direct.thecrafters001.ga/\" target=\"_blank\" rel=\"sponsored noopener noreferrer\">previous directs here</a>!</p>",
+            "image": "https://thecrafters001.ga/media/posts/28/direct.thecrafters001.ga_-1.png",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+                   "Update",
+                   "TheCrafters001 Direct"
+            ],
+            "date_published": "2020-05-18T17:50:57-04:00",
+            "date_modified": "2020-05-18T17:50:57-04:00"
+        },
+        {
             "id": "https://thecrafters001.ga/the-adventure-of-block-demo-002/",
             "url": "https://thecrafters001.ga/the-adventure-of-block-demo-002/",
             "title": "The Adventure of Block Demo 0.0.2",
@@ -156,20 +173,6 @@
             ],
             "date_published": "2020-04-22T20:14:53-04:00",
             "date_modified": "2020-04-22T20:14:53-04:00"
-        },
-        {
-            "id": "https://thecrafters001.ga/new-website-design/",
-            "url": "https://thecrafters001.ga/new-website-design/",
-            "title": "New Website Design",
-            "summary": "Hi! I have redesigned the website!",
-            "content_html": "Hi! I have redesigned the website!",
-            "author": {
-                "name": "TheCrafters001"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-04-21T21:49:10-04:00",
-            "date_modified": "2020-04-21T21:49:54-04:00"
         }
     ]
 }
