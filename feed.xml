@@ -3,12 +3,32 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-05-18T17:51:09-04:00</updated>
+    <updated>2020-05-27T10:56:53-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>Ads Added To Website</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/ads-added-to-website/"/>
+        <id>https://thecrafters001.ga/ads-added-to-website/</id>
+
+        <updated>2020-05-27T10:51:56-04:00</updated>
+            <summary>
+                <![CDATA[
+                    [{"id":1555941466744,"type":"publii-paragraph","content":"Look, I know I hate ads, and I know I said I would never show ads on my website, but hear me out.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590590604614,"type":"publii-paragraph","content":"These ads will only display at the end of post, that means they will also appear at the end of pages as well,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                [{"id":1555941466744,"type":"publii-paragraph","content":"Look, I know I hate ads, and I know I said I would never show ads on my website, but hear me out.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590590604614,"type":"publii-paragraph","content":"These ads will only display at the end of post, that means they will also appear at the end of pages as well, but they are non-intrusive. Plus they are not those crazy ads you get at some shady website, these ads are literally 350x500 images. That is it. They only look like this:","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590591022568,"type":"publii-html","content":"<div class=\"ad-container\"></div>","config":{"advanced":{"cssClasses":"","id":""}}},{"id":1590591063683,"type":"publii-paragraph","content":"That is all.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590591069611,"type":"publii-paragraph","content":"Nothing more, nothing less. Oh, and before you say I am a sell out, all I am doing, is just adding \"ads\" to things I think deserve more attention. I am not getting paid to do this.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>TheCrafters001 Direct Has Gotten An Upgrade!</title>
         <author>
@@ -273,27 +293,6 @@
         <content type="html">
             <![CDATA[
                 <p>I have added most of my Software and Games back to my site. I will not add all of them as most of them are either canceled or no-longer supported.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How do I access old site stuff (ie: games, software, etc.)</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/how-do-i-access-old-site-stuff-ie-games-software-etc/"/>
-        <id>https://thecrafters001.ga/how-do-i-access-old-site-stuff-ie-games-software-etc/</id>
-            <category term="Help"/>
-
-        <updated>2020-04-22T20:14:53-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Well, I am working on that. I plan to make hidden post that contain the links to other hidden post that have software/games/etc in them. But it will take some time. Once it is up am running, I will be sure to post about it!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Well, I am working on that. I plan to make hidden post that contain the links to other hidden post that have software/games/etc in them. But it will take some time. Once it is up am running, I will be sure to post about it!
             ]]>
         </content>
     </entry>
