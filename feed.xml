@@ -3,12 +3,56 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-05-27T13:35:50-04:00</updated>
+    <updated>2020-05-29T17:35:05-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>Old Post Without Tags Now Have Tags</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/old-post-without-tags-now-have-tags/"/>
+        <id>https://thecrafters001.ga/old-post-without-tags-now-have-tags/</id>
+            <category term="Help"/>
+
+        <updated>2020-05-29T17:32:03-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I have gone back and made some old post that did not have tags, have tags.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I have gone back and made some old post that did not have tags, have tags.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>New Project: EasyInno.</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/new-project-easyinno/"/>
+        <id>https://thecrafters001.ga/new-project-easyinno/</id>
+            <category term="Software"/>
+            <category term="Inno Setup"/>
+            <category term="EasyInno"/>
+
+        <updated>2020-05-29T17:09:08-04:00</updated>
+            <summary>
+                <![CDATA[
+                    EasyInno is a simple IDE that allows you to make Inno Setup Scripts with ease! More about the project will be revealed as the project is being worked on.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>EasyInno is a simple IDE that allows you to make Inno Setup Scripts with ease! More about the project will be revealed as the project is being worked on.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>TheCrafters001 Direct Has Gotten An Upgrade!</title>
         <author>
@@ -227,8 +271,9 @@
         </author>
         <link href="https://thecrafters001.ga/what-im-doing-about-covid-19/"/>
         <id>https://thecrafters001.ga/what-im-doing-about-covid-19/</id>
+            <category term="COVID-19"/>
 
-        <updated>2020-04-26T20:52:23-04:00</updated>
+        <updated>2020-05-29T17:31:18-04:00</updated>
             <summary>
                 <![CDATA[
                     <p>Hi, I know that COVID-19 is a touchy subject right now, but I have to cover it.</p>
@@ -253,47 +298,6 @@
 <h2 id="mcetoc_1e6shp0dh2">Conclusion</h2>
 <p>I will not keep you reading for much longer, as everyone's time is currently nothing with all this going on in the world. I will be updating Delta Green as soon as I feel like it is ready to be updated. I know this is a hard time that we are all living in, but there is not much we can do right now, so please, stay safe!</p>
 <p> - TheCrafters001</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Most Games and Software Have Been Added!</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/most-games-and-software-have-been-added/"/>
-        <id>https://thecrafters001.ga/most-games-and-software-have-been-added/</id>
-
-        <updated>2020-04-24T12:44:25-04:00</updated>
-            <summary>
-                <![CDATA[
-                    I have added most of my Software and Games back to my site. I will not add all of them as most of them are either canceled or no-longer supported.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I have added most of my Software and Games back to my site. I will not add all of them as most of them are either canceled or no-longer supported.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How do I access old site stuff (ie: games, software, etc.)</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/how-do-i-access-old-site-stuff-ie-games-software-etc/"/>
-        <id>https://thecrafters001.ga/how-do-i-access-old-site-stuff-ie-games-software-etc/</id>
-            <category term="Help"/>
-
-        <updated>2020-04-22T20:14:53-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Well, I am working on that. I plan to make hidden post that contain the links to other hidden post that have software/games/etc in them. But it will take some time. Once it is up am running, I will be sure to post about it!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Well, I am working on that. I plan to make hidden post that contain the links to other hidden post that have software/games/etc in them. But it will take some time. Once it is up am running, I will be sure to post about it!
             ]]>
         </content>
     </entry>
