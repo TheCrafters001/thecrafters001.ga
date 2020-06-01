@@ -3,12 +3,33 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-06-01T13:14:53-04:00</updated>
+    <updated>2020-06-01T13:36:49-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>Support Email Fully Functional.</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/support-email-fully-functional/"/>
+        <id>https://thecrafters001.ga/support-email-fully-functional/</id>
+            <category term="Contact"/>
+
+        <updated>2020-06-01T13:28:19-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Hi! My support emails have been setup properly, and are now fully functional! To view them you can go to the Contact Me page and scroll down to Email Support!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi! My support emails have been setup properly, and are now fully functional! To view them you can go to the <a href="https://thecrafters001.ga/contact-me/">Contact Me</a> page and scroll down to Email Support!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Old Post Without Tags Now Have Tags</title>
         <author>
@@ -261,43 +282,6 @@
 <p>Happy Team Building!</p>
 <figure class="post__image"><img src="https://thecrafters001.ga/media/posts/19/trchar005.png" alt="" width="128" height="192"></figure>
 <p><img src="https://thecrafters001.ga/media/posts/19/trainer004.png" alt="" width="128" height="128"></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>What I&#x27;m Doing about COVID-19</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/what-im-doing-about-covid-19/"/>
-        <id>https://thecrafters001.ga/what-im-doing-about-covid-19/</id>
-            <category term="COVID-19"/>
-
-        <updated>2020-05-29T17:31:18-04:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Hi, I know that COVID-19 is a touchy subject right now, but I have to cover it.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hi, I know that COVID-19 is a touchy subject right now, but I have to cover it.</p>
-
-<p>I know that everyone is worried about getting it, and there are a few points that I would like to make in this article.</p>
-<h2 id="mcetoc_1e6sgt1cf0">How it affects my projects</h2>
-<p>Well because I am at home almost always now, I have no choice but to work on my projects or watch videos on YouTube. So I have decided to take this time to resume proper development of <a href="https://thecrafters001.ga/pokemon-delta-green/">Pokémon Delta Green</a> and start a new project, <a href="https://forest-os.thecrafters001.ga/">Forest-OS</a>. But this is not the only thing I have to cover.</p>
-<h3 id="mcetoc_1e6sh49490">Pokémon Delta Green Updates</h3>
-<p>Now that I have more time to work on Pokémon Delta Green, I have more time to make more quality updates, meaning that the time between updates has gone up. I believe that my projects should have quality over quantity, and I want to keep that stand point strong. A lot of other game companies spit out games too quick for consumers to handle, but I am slowly working on Delta Green. That is why the game has gone nearly 4 years in development, and has had 3 resets in that time. Expect more on Delta Green soon!</p>
-<h3 id="mcetoc_1e6shhn9a1">What is Forest-OS?</h3>
-<p>Forest-OS is an operating system built on VisualBasic on the .NET Framework! I plan to make this the first ever OS to interact with Windows in a big way! Forest-OS is not a shell replacement for Windows, it is an application. It helps the user by making the Windows experience better. This is an open source project using GNU GPL V3.0! You can check out the <a href="https://forest-os.thecrafters001.ga/">project page here</a>, and the <a href="https://github.com/TheCrafters001/Forest-OS">GitHub page here</a>.</p>
-<h2 id="mcetoc_1e6shlkia0">When will I be happy with my website?</h2>
-<p>I ask this to myself all the time, I keep updating my website to have new styles and I think the one that I have works the best for me.</p>
-<h2 id="mcetoc_1e6shnoi01">What happened to Directs?</h2>
-<p>There will be an update on <a href="https://direct.thecrafters001.ga/">the website</a> soon, look out for it!</p>
-<h2 id="mcetoc_1e6shp0dh2">Conclusion</h2>
-<p>I will not keep you reading for much longer, as everyone's time is currently nothing with all this going on in the world. I will be updating Delta Green as soon as I feel like it is ready to be updated. I know this is a hard time that we are all living in, but there is not much we can do right now, so please, stay safe!</p>
-<p> - TheCrafters001</p>
             ]]>
         </content>
     </entry>
