@@ -3,12 +3,63 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-06-01T13:36:49-04:00</updated>
+    <updated>2020-06-01T14:36:29-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>I am Learning Python and Node.JS!</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/i-am-learning-python-and-nodejs/"/>
+        <id>https://thecrafters001.ga/i-am-learning-python-and-nodejs/</id>
+            <category term="Software"/>
+            <category term="Python"/>
+            <category term="Node.JS"/>
+
+        <updated>2020-06-01T14:36:06-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I am learning Python, and am going to learn how to use Node.JS using a couple of tutorials on YouTube. Specifically the "Node.js A to Z" by James Murphy and the "Learn Python - Full Course for Beginners" by freeCodeCamp.org. But until I complete them, you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am learning <a href="https://www.python.org/">Python</a>, and am going to learn how to use <a href="https://nodejs.org/">Node.JS</a> using a couple of tutorials on YouTube. Specifically the "<em><a href="https://www.youtube.com/watch?v=rSHL_lYY_Xc" rel="nofollow ugc">Node.js A to Z</a></em>" by <a href="james murphy" rel="nofollow ugc">James Murphy</a> and the "<em><a href="https://www.youtube.com/watch?v=rfscVS0vtbw" rel="nofollow ugc">Learn Python - Full Course for Beginners</a></em>" by <a href="http://freecodecamp.org" rel="nofollow ugc">freeCodeCamp.org</a>. But until I complete them, you are just going to have to live with my VB.NET software, sorry.</p>
+<p>But with python I can make neat little applications. Don't judge me for the code below, as I am just learning the language.</p>
+<p><code>user_age = input("Enter your age: ")<br>user_name = input("Enter your name: ")<br>print("Hi, " + user_name + "! You are " + user_age + "-years-old")</code></p>
+<p>This currently is my most basic understanding of Python.</p>
+<p>So, yeah, I'm working on it.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TheCrafters001 Direct has ended</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/thecrafters001-direct-has-ended/"/>
+        <id>https://thecrafters001.ga/thecrafters001-direct-has-ended/</id>
+            <category term="TheCrafters001 Direct"/>
+
+        <updated>2020-06-01T14:36:15-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>So, I am sorry to say this, but after long consideration, I have decided to kill off TheCrafters001 Direct</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>So, I am sorry to say this, but after long consideration, I have decided to kill off TheCrafters001 Direct</p>
+
+<p>The reason being is that I never really updated it. But hey, I am going to look on the bright side, I am learning <a href="https://www.python.org/">Python</a>, and am going to learn how to use <a href="https://nodejs.org/">Node.JS</a> using a couple of tutorials on YouTube. Specifically the "<em><a href="https://www.youtube.com/watch?v=rSHL_lYY_Xc" rel="nofollow ugc">Node.js A to Z</a></em>" by <a href="james murphy" rel="nofollow ugc">James Murphy</a> and the "<em><a href="https://www.youtube.com/watch?v=rfscVS0vtbw" rel="nofollow ugc">Learn Python - Full Course for Beginners</a></em>" by <a href="http://freecodecamp.org" rel="nofollow ugc">freeCodeCamp.org</a>. But until I complete them, you are just going to have to live with my VB.NET software, sorry.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Support Email Fully Functional.</title>
         <author>
@@ -71,31 +122,6 @@
         <content type="html">
             <![CDATA[
                 <p>EasyInno is a simple IDE that allows you to make Inno Setup Scripts with ease! More about the project will be revealed as the project is being worked on.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>TheCrafters001 Direct Has Gotten An Upgrade!</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/thecrafters001-direct-has-gotten-an-upgrade/"/>
-        <id>https://thecrafters001.ga/thecrafters001-direct-has-gotten-an-upgrade/</id>
-            <category term="Update"/>
-            <category term="TheCrafters001 Direct"/>
-
-        <updated>2020-05-18T17:50:57-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://thecrafters001.ga/media/posts/28/direct.thecrafters001.ga_-1.png" alt="" />
-                    My (not so) monthly video series lives on! Expect a new video this month on the brand new website that has just been pushed! Check out previous directs here!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://thecrafters001.ga/media/posts/28/direct.thecrafters001.ga_-1.png" alt="" />
-                <p>My (not so) monthly video series lives on! Expect a new video this month on the brand new website that has just been pushed!</p>
-<p>Check out <a href="https://direct.thecrafters001.ga/" title="https://direct.thecrafters001.ga/" target="_blank" rel="sponsored noopener noreferrer">previous directs here</a>!</p>
             ]]>
         </content>
     </entry>
@@ -229,59 +255,6 @@
 <li>Added 64 Bit support</li>
 <li>Updated Copyright Year</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Get Your Team in Delta Green!</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/get-your-team-in-delta-green/"/>
-        <id>https://thecrafters001.ga/get-your-team-in-delta-green/</id>
-            <category term="fan-game"/>
-            <category term="Games"/>
-
-        <updated>2020-05-12T14:44:40-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://thecrafters001.ga/media/posts/19/deltagreen_banner2.png" alt="" />
-                    Hi! I want you to come up with a team to be put into Delta Green! Your team has to be under these guidelines, however. You must not have your team over lvl 70. You can have all 6 pokemon NO LEGENDARIES OR MYTHICAL POKEMON.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://thecrafters001.ga/media/posts/19/deltagreen_banner2.png" alt="" />
-                <figure class="post__image"></figure>
-<p >Hi! I want you to come up with a team to be put into Delta Green!</p>
-<p>Your team has to be under these guidelines, however.</p>
-<ul>
-<li>
-<p>You must not have your team over lvl 70.</p>
-</li>
-<li>
-<p>You can have all 6 pokemon</p>
-</li>
-<li>
-<p>NO LEGENDARIES OR MYTHICAL POKEMON.</p>
-</li>
-<li>
-<p>You can create a custom sprite using the one below.</p>
-</li>
-<li>
-<p>You must state what trainer class you are (custom classes can be considered)</p>
-</li>
-<li>
-<p>Because of limits in the editor, IVs can be edited, but EVs cannot.</p>
-</li>
-<li>
-<p>You must state what gender your Pokemon are (makes it easier on my life)</p>
-</li>
-</ul>
-<p>That is about it. No custom types are available in the game, and you are limited to pokemon from Gen 1 to Gen 5. This also means that Fairy type does not exist.</p>
-<p>Happy Team Building!</p>
-<figure class="post__image"><img src="https://thecrafters001.ga/media/posts/19/trchar005.png" alt="" width="128" height="192"></figure>
-<p><img src="https://thecrafters001.ga/media/posts/19/trainer004.png" alt="" width="128" height="128"></p>
             ]]>
         </content>
     </entry>

@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://thecrafters001.ga/i-am-learning-python-and-nodejs/",
+            "url": "https://thecrafters001.ga/i-am-learning-python-and-nodejs/",
+            "title": "I am Learning Python and Node.JS!",
+            "summary": "I am learning Python, and am going to learn how to use Node.JS using a couple of tutorials on YouTube. Specifically the \"Node.js A to Z\" by James Murphy and the \"Learn Python - Full Course for Beginners\" by freeCodeCamp.org. But until I complete them, you&hellip;",
+            "content_html": "<p>I am learning <a href=\"https://www.python.org/\">Python</a>, and am going to learn how to use <a href=\"https://nodejs.org/\">Node.JS</a> using a couple of tutorials on YouTube. Specifically the \"<em><a href=\"https://www.youtube.com/watch?v=rSHL_lYY_Xc\" rel=\"nofollow ugc\">Node.js A to Z</a></em>\" by <a href=\"james murphy\" rel=\"nofollow ugc\">James Murphy</a> and the \"<em><a href=\"https://www.youtube.com/watch?v=rfscVS0vtbw\" rel=\"nofollow ugc\">Learn Python - Full Course for Beginners</a></em>\" by <a href=\"http://freecodecamp.org\" rel=\"nofollow ugc\">freeCodeCamp.org</a>. But until I complete them, you are just going to have to live with my VB.NET software, sorry.</p>\n<p>But with python I can make neat little applications. Don't judge me for the code below, as I am just learning the language.</p>\n<p><code>user_age = input(\"Enter your age: \")<br>user_name = input(\"Enter your name: \")<br>print(\"Hi, \" + user_name + \"! You are \" + user_age + \"-years-old\")</code></p>\n<p>This currently is my most basic understanding of Python.</p>\n<p>So, yeah, I'm working on it.</p>",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+                   "Software",
+                   "Python",
+                   "Node.JS"
+            ],
+            "date_published": "2020-06-01T14:36:06-04:00",
+            "date_modified": "2020-06-01T14:36:06-04:00"
+        },
+        {
+            "id": "https://thecrafters001.ga/thecrafters001-direct-has-ended/",
+            "url": "https://thecrafters001.ga/thecrafters001-direct-has-ended/",
+            "title": "TheCrafters001 Direct has ended",
+            "summary": "<p>So, I am sorry to say this, but after long consideration, I have decided to kill off TheCrafters001 Direct</p>\n",
+            "content_html": "<p>So, I am sorry to say this, but after long consideration, I have decided to kill off TheCrafters001 Direct</p>\n\n<p>The reason being is that I never really updated it. But hey, I am going to look on the bright side, I am learning <a href=\"https://www.python.org/\">Python</a>, and am going to learn how to use <a href=\"https://nodejs.org/\">Node.JS</a> using a couple of tutorials on YouTube. Specifically the \"<em><a href=\"https://www.youtube.com/watch?v=rSHL_lYY_Xc\" rel=\"nofollow ugc\">Node.js A to Z</a></em>\" by <a href=\"james murphy\" rel=\"nofollow ugc\">James Murphy</a> and the \"<em><a href=\"https://www.youtube.com/watch?v=rfscVS0vtbw\" rel=\"nofollow ugc\">Learn Python - Full Course for Beginners</a></em>\" by <a href=\"http://freecodecamp.org\" rel=\"nofollow ugc\">freeCodeCamp.org</a>. But until I complete them, you are just going to have to live with my VB.NET software, sorry.</p>",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+                   "TheCrafters001 Direct"
+            ],
+            "date_published": "2020-06-01T14:25:43-04:00",
+            "date_modified": "2020-06-01T14:36:15-04:00"
+        },
+        {
             "id": "https://thecrafters001.ga/support-email-fully-functional/",
             "url": "https://thecrafters001.ga/support-email-fully-functional/",
             "title": "Support Email Fully Functional.",
@@ -56,23 +88,6 @@
             ],
             "date_published": "2020-05-29T17:09:08-04:00",
             "date_modified": "2020-05-29T17:09:08-04:00"
-        },
-        {
-            "id": "https://thecrafters001.ga/thecrafters001-direct-has-gotten-an-upgrade/",
-            "url": "https://thecrafters001.ga/thecrafters001-direct-has-gotten-an-upgrade/",
-            "title": "TheCrafters001 Direct Has Gotten An Upgrade!",
-            "summary": "My (not so) monthly video series lives on! Expect a new video this month on the brand new website that has just been pushed! Check out previous directs here!",
-            "content_html": "<p>My (not so) monthly video series lives on! Expect a new video this month on the brand new website that has just been pushed!</p>\n<p>Check out <a href=\"https://direct.thecrafters001.ga/\" title=\"https://direct.thecrafters001.ga/\" target=\"_blank\" rel=\"sponsored noopener noreferrer\">previous directs here</a>!</p>",
-            "image": "https://thecrafters001.ga/media/posts/28/direct.thecrafters001.ga_-1.png",
-            "author": {
-                "name": "TheCrafters001"
-            },
-            "tags": [
-                   "Update",
-                   "TheCrafters001 Direct"
-            ],
-            "date_published": "2020-05-18T17:50:57-04:00",
-            "date_modified": "2020-05-18T17:50:57-04:00"
         },
         {
             "id": "https://thecrafters001.ga/the-adventure-of-block-demo-002/",
@@ -160,23 +175,6 @@
             ],
             "date_published": "2020-05-02T22:41:42-04:00",
             "date_modified": "2020-05-03T19:29:14-04:00"
-        },
-        {
-            "id": "https://thecrafters001.ga/get-your-team-in-delta-green/",
-            "url": "https://thecrafters001.ga/get-your-team-in-delta-green/",
-            "title": "Get Your Team in Delta Green!",
-            "summary": "Hi! I want you to come up with a team to be put into Delta Green! Your team has to be under these guidelines, however. You must not have your team over lvl 70. You can have all 6 pokemon NO LEGENDARIES OR MYTHICAL POKEMON.",
-            "content_html": "<figure class=\"post__image\"></figure>\n<p >Hi! I want you to come up with a team to be put into Delta Green!</p>\n<p>Your team has to be under these guidelines, however.</p>\n<ul>\n<li>\n<p>You must not have your team over lvl 70.</p>\n</li>\n<li>\n<p>You can have all 6 pokemon</p>\n</li>\n<li>\n<p>NO LEGENDARIES OR MYTHICAL POKEMON.</p>\n</li>\n<li>\n<p>You can create a custom sprite using the one below.</p>\n</li>\n<li>\n<p>You must state what trainer class you are (custom classes can be considered)</p>\n</li>\n<li>\n<p>Because of limits in the editor, IVs can be edited, but EVs cannot.</p>\n</li>\n<li>\n<p>You must state what gender your Pokemon are (makes it easier on my life)</p>\n</li>\n</ul>\n<p>That is about it. No custom types are available in the game, and you are limited to pokemon from Gen 1 to Gen 5. This also means that Fairy type does not exist.</p>\n<p>Happy Team Building!</p>\n<figure class=\"post__image\"><img src=\"https://thecrafters001.ga/media/posts/19/trchar005.png\" alt=\"\" width=\"128\" height=\"192\"></figure>\n<p><img src=\"https://thecrafters001.ga/media/posts/19/trainer004.png\" alt=\"\" width=\"128\" height=\"128\"></p>",
-            "image": "https://thecrafters001.ga/media/posts/19/deltagreen_banner2.png",
-            "author": {
-                "name": "TheCrafters001"
-            },
-            "tags": [
-                   "fan-game",
-                   "Games"
-            ],
-            "date_published": "2020-05-01T16:20:48-04:00",
-            "date_modified": "2020-05-12T14:44:40-04:00"
         }
     ]
 }
