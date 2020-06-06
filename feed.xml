@@ -3,12 +3,45 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-06-04T10:16:58-04:00</updated>
+    <updated>2020-06-06T18:34:15-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>Introducing My New Logo!</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/introducing-my-new-logo/"/>
+        <id>https://thecrafters001.ga/introducing-my-new-logo/</id>
+
+        <updated>2020-06-06T18:34:02-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Hi! I am super happy to show you something I have made.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi! I am super happy to show you something I have made.</p>
+
+<p>My old logo was just plain and simple. Nothing wrong with it, I think just plain text got a little boring. I mean, here. Look at this.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://thecrafters001.ga/media/posts/37/gallery/TC001.png" ><img src="https://thecrafters001.ga/media/posts/37/gallery/TC001-thumbnail.png" alt="WhiteText" width="500" height="200"></a>
+<figcaption>Old White Logo</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://thecrafters001.ga/media/posts/37/gallery/TC001_Black.png" ><img src="https://thecrafters001.ga/media/posts/37/gallery/TC001_Black-thumbnail.png" alt="BlackText" width="600" height="300"></a>
+<figcaption>Old Black Logo</figcaption>
+</figure>
+</div>
+<p>Does it not look boring? So, I have made a new one! Have a look.</p>
+<p><img class="post__image post__image--center" src="https://thecrafters001.ga/media/posts/37/Logo_Full.png" alt="TheCrafters001 Logo" width="600" height="300">I find it much better than just some text. While, yes, I am using the same font, I have changed it up a bit. I have updated my website to fit these changes, even the icon in the tab has change! I am happy with this change, but hey, I like it. You may hate it, I don't care if you do. I am keeping it like this for a while, so... sorry if you hate it.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>I am Learning Python and Node.JS!</title>
         <author>
@@ -223,37 +256,6 @@
 <ul>
 <li>Fixed a bug where you get an error for trying to run the Media Player</li>
 <li>Fixed a help file link</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Flash Player Two Version 1.3.0.0 released</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/flash-player-two-version-1300-released/"/>
-        <id>https://thecrafters001.ga/flash-player-two-version-1300-released/</id>
-            <category term="Update"/>
-            <category term="Software"/>
-            <category term="Flash Player 2"/>
-            <category term="Changelog"/>
-
-        <updated>2020-05-03T19:29:14-04:00</updated>
-            <summary>
-                <![CDATA[
-                    An update for Flash Player Two has been released.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                An update for Flash Player Two has been released.
-<p>The following changes include:</p>
-<ul>
-<li>Updated help files</li>
-<li>Added Help link to Media Player Controller</li>
-<li>Added 64 Bit support</li>
-<li>Updated Copyright Year</li>
 </ul>
             ]]>
         </content>
