@@ -3,7 +3,7 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-06-06T22:41:27-04:00</updated>
+    <updated>2020-06-09T15:27:15-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
@@ -17,15 +17,17 @@
         <link href="https://thecrafters001.ga/introducing-my-new-logo/"/>
         <id>https://thecrafters001.ga/introducing-my-new-logo/</id>
 
-        <updated>2020-06-06T18:34:02-04:00</updated>
+        <updated>2020-06-09T15:23:20-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://thecrafters001.ga/media/posts/37/Logo_Full-2.png" alt="" />
                     <p>Hi! I am super happy to show you something I have made.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://thecrafters001.ga/media/posts/37/Logo_Full-2.png" alt="" />
                 <p>Hi! I am super happy to show you something I have made.</p>
 
 <p>My old logo was just plain and simple. Nothing wrong with it, I think just plain text got a little boring. I mean, here. Look at this.</p>
@@ -146,14 +148,16 @@
             <category term="Inno Setup"/>
             <category term="EasyInno"/>
 
-        <updated>2020-05-29T17:09:08-04:00</updated>
+        <updated>2020-06-09T15:24:15-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://thecrafters001.ga/media/posts/30/EasyInno-Splash.png" alt="" />
                     EasyInno is a simple IDE that allows you to make Inno Setup Scripts with ease! More about the project will be revealed as the project is being worked on.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://thecrafters001.ga/media/posts/30/EasyInno-Splash.png" alt="" />
                 <p>EasyInno is a simple IDE that allows you to make Inno Setup Scripts with ease! More about the project will be revealed as the project is being worked on.</p>
             ]]>
         </content>

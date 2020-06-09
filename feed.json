@@ -16,13 +16,14 @@
             "title": "Introducing My New Logo!",
             "summary": "<p>Hi! I am super happy to show you something I have made.</p>\n",
             "content_html": "<p>Hi! I am super happy to show you something I have made.</p>\n\n<p>My old logo was just plain and simple. Nothing wrong with it, I think just plain text got a little boring. I mean, here. Look at this.</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://thecrafters001.ga/media/posts/37/gallery/TC001.png\" ><img src=\"https://thecrafters001.ga/media/posts/37/gallery/TC001-thumbnail.png\" alt=\"WhiteText\" width=\"500\" height=\"200\"></a>\n<figcaption>Old White Logo</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://thecrafters001.ga/media/posts/37/gallery/TC001_Black.png\" ><img src=\"https://thecrafters001.ga/media/posts/37/gallery/TC001_Black-thumbnail.png\" alt=\"BlackText\" width=\"600\" height=\"300\"></a>\n<figcaption>Old Black Logo</figcaption>\n</figure>\n</div>\n<p>Does it not look boring? So, I have made a new one! Have a look.</p>\n<p><img class=\"post__image post__image--center\" src=\"https://thecrafters001.ga/media/posts/37/Logo_Full.png\" alt=\"TheCrafters001 Logo\" width=\"600\" height=\"300\">I find it much better than just some text. While, yes, I am using the same font, I have changed it up a bit. I have updated my website to fit these changes, even the icon in the tab has change! I am happy with this change, but hey, I like it. You may hate it, I don't care if you do. I am keeping it like this for a while, so... sorry if you hate it.</p>",
+            "image": "https://thecrafters001.ga/media/posts/37/Logo_Full-2.png",
             "author": {
                 "name": "TheCrafters001"
             },
             "tags": [
             ],
             "date_published": "2020-06-06T18:31:08-04:00",
-            "date_modified": "2020-06-06T18:34:02-04:00"
+            "date_modified": "2020-06-09T15:23:20-04:00"
         },
         {
             "id": "https://thecrafters001.ga/i-am-learning-python-and-nodejs/",
@@ -92,6 +93,7 @@
             "title": "New Project: EasyInno.",
             "summary": "EasyInno is a simple IDE that allows you to make Inno Setup Scripts with ease! More about the project will be revealed as the project is being worked on.",
             "content_html": "<p>EasyInno is a simple IDE that allows you to make Inno Setup Scripts with ease! More about the project will be revealed as the project is being worked on.</p>",
+            "image": "https://thecrafters001.ga/media/posts/30/EasyInno-Splash.png",
             "author": {
                 "name": "TheCrafters001"
             },
@@ -101,7 +103,7 @@
                    "EasyInno"
             ],
             "date_published": "2020-05-29T17:09:08-04:00",
-            "date_modified": "2020-05-29T17:09:08-04:00"
+            "date_modified": "2020-06-09T15:24:15-04:00"
         },
         {
             "id": "https://thecrafters001.ga/the-adventure-of-block-demo-002/",
