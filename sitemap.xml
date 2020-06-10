@@ -57,10 +57,6 @@
 <lastmod>2020-04-22T20:14:53-04:00</lastmod>
 </url>
 <url>
-<loc>https://thecrafters001.ga/i-am-learning-python-and-nodejs/</loc>
-<lastmod>2020-06-01T14:36:06-04:00</lastmod>
-</url>
-<url>
 <loc>https://thecrafters001.ga/introducing-my-new-logo/</loc>
 <lastmod>2020-06-09T15:23:20-04:00</lastmod>
 <image:image>
@@ -109,7 +105,11 @@
 </url>
 <url>
 <loc>https://thecrafters001.ga/pokemon-delta-green/</loc>
-<lastmod>2020-04-29T08:09:11-04:00</lastmod>
+<lastmod>2020-06-09T16:12:57-04:00</lastmod>
+<image:image>
+<image:loc>https://thecrafters001.ga/media\posts\5/deltagreen_banner2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://thecrafters001.ga/software/</loc>
