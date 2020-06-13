@@ -3,12 +3,37 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-06-11T21:16:08-04:00</updated>
+    <updated>2020-06-13T12:03:41-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>I&#x27;m doing the GMTK 2020 Game Jam!</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/im-doing-the-gmtk-2020-game-jam/"/>
+        <id>https://thecrafters001.ga/im-doing-the-gmtk-2020-game-jam/</id>
+            <category term="Original Game"/>
+            <category term="Game Jam"/>
+
+        <updated>2020-06-13T12:02:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thecrafters001.ga/media/posts/40/maxresdefault.jpg" alt="" />
+                    Hi! I am doing the GMTK 2020 Game Jam on Itch.IO. While I am waiting on the Jam to start, I will be working another software, that I have yet to announce, but can be found on my GitHub. I do not own the GMTK&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thecrafters001.ga/media/posts/40/maxresdefault.jpg" alt="" />
+                <p>Hi! I am doing the <a href="https://itch.io/jam/gmtk-2020" rel="ugc">GMTK 2020 Game Jam on Itch.IO</a>. While I am waiting on the Jam to start, I will be working another software, that I have yet to announce, but can be found on my <a href="https://github.com/TheCrafters001" rel="nofollow sponsored ugc">GitHub</a>.</p>
+<p class="msg msg--info">I do not own the GMTK Game Jam. The GMTK Game Jams are owned by GMTK (Game Maker's Tool Kit). Please show support for the jam. If you able to make games, why not consider joining the GMTK Game Jam? For more information on what the Game Jam is about, please visit the Itch.IO Page linked above. Thank you! Game Jam Logo by GMTK.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Meet Kattu, The EasyInno Snake.</title>
         <author>
@@ -247,34 +272,6 @@
         <content type="html">
             <![CDATA[
                 Flash Player 2 1.3.0.1 is the last version!1.3.0.1 is the last version of Flash Player 2. There will be no more updates.
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Flash Player 2 - 1.3.0.1 - Minor Updates</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/flash-player-2-1301-minor-updates/"/>
-        <id>https://thecrafters001.ga/flash-player-2-1301-minor-updates/</id>
-            <category term="Update"/>
-            <category term="Software"/>
-            <category term="Flash Player 2"/>
-            <category term="Changelog"/>
-
-        <updated>2020-05-03T19:29:53-04:00</updated>
-            <summary>
-                <![CDATA[
-                    The changes include:Fixed a bug where you get an error for trying to run the Media PlayerFixed a help file link
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>The changes include:</p>
-<ul>
-<li>Fixed a bug where you get an error for trying to run the Media Player</li>
-<li>Fixed a help file link</li>
-</ul>
             ]]>
         </content>
     </entry>
