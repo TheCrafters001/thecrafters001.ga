@@ -3,12 +3,61 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-06-14T10:08:11-04:00</updated>
+    <updated>2020-06-14T11:13:07-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>Updates To Website Coming.</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/updates-to-website-coming/"/>
+        <id>https://thecrafters001.ga/updates-to-website-coming/</id>
+            <category term="fan-game"/>
+            <category term="Windows Parody"/>
+            <category term="Websites"/>
+            <category term="Update"/>
+            <category term="The Adventure of Block"/>
+            <category term="Software"/>
+            <category term="Original Game"/>
+            <category term="OS"/>
+            <category term="Inno Setup"/>
+            <category term="Games"/>
+            <category term="Game Jam"/>
+            <category term="Flash Player 2"/>
+            <category term="EasyInno"/>
+            <category term="Changelog"/>
+
+        <updated>2020-06-14T11:09:20-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Hi. I will be redoing some of the page structuring for the website. Mainly these changes will only effect software and game pages, not post. The first changes are to the Navigation Bar and to the Software page. Other changes that are coming will also&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi. I will be redoing some of the page structuring for the website. Mainly these changes will only effect software and game pages, not post. The first changes are to the Navigation Bar and to the Software page. Other changes that are coming will also be listed here.</p>
+<h2>Navigation Bar</h2>
+<p>The navigation bar will be updated to more fit a format that is easier for me people to understand. While not all changes will go into effect instantly, it will still have some changes.</p>
+<h2>Software Page</h2>
+<p>The software page will now be split up into categories, the "Solo Programs" category, and a series category.</p>
+<h2>Game Page</h2>
+<p>The game page will get a similar treatment to the software page, but instead of "Solo Programs" and a series category, they will get the following:</p>
+<ul>
+<li>Original Game</li>
+<li>Fan-Game</li>
+<li>Jam-Game</li>
+</ul>
+<h2>Blog Structure</h2>
+<p>You may have already noticed that the way that the post are displayed on a page has been changed, that was the first step, but now I have finished with those changes.</p>
+<h2>Questions</h2>
+<p>If you have questions, feel free to <a href="https://thecrafters001.ga/contact-me/">contact me</a>, or visit the Q&amp;A section on each page.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>I&#x27;m doing the GMTK 2020 Game Jam!</title>
         <author>
@@ -251,27 +300,6 @@
 <p>Sorry.</p>
 <p>However, the current demo is still avaliable to play.</p>
 <p>You can play it on the Games page.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Flash Player 2 1.3.0.1 is the last version!</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/flash-player-2-1301-is-the-last-version/"/>
-        <id>https://thecrafters001.ga/flash-player-2-1301-is-the-last-version/</id>
-            <category term="Flash Player 2"/>
-
-        <updated>2020-05-12T14:44:17-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Flash Player 2 1.3.0.1 is the last version!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Flash Player 2 1.3.0.1 is the last version!1.3.0.1 is the last version of Flash Player 2. There will be no more updates.
             ]]>
         </content>
     </entry>
