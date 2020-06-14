@@ -3,7 +3,7 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-06-14T11:13:07-04:00</updated>
+    <updated>2020-06-14T15:12:29-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
@@ -184,48 +184,6 @@
         </content>
     </entry>
     <entry>
-        <title>Support Email Fully Functional.</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/support-email-fully-functional/"/>
-        <id>https://thecrafters001.ga/support-email-fully-functional/</id>
-            <category term="Contact"/>
-
-        <updated>2020-06-01T13:28:19-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Hi! My support emails have been setup properly, and are now fully functional! To view them you can go to the Contact Me page and scroll down to Email Support!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hi! My support emails have been setup properly, and are now fully functional! To view them you can go to the <a href="https://thecrafters001.ga/contact-me/">Contact Me</a> page and scroll down to Email Support!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Old Post Without Tags Now Have Tags</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/old-post-without-tags-now-have-tags/"/>
-        <id>https://thecrafters001.ga/old-post-without-tags-now-have-tags/</id>
-            <category term="Help"/>
-
-        <updated>2020-05-29T17:32:03-04:00</updated>
-            <summary>
-                <![CDATA[
-                    I have gone back and made some old post that did not have tags, have tags.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I have gone back and made some old post that did not have tags, have tags.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>New Project: EasyInno.</title>
         <author>
             <name>TheCrafters001</name>
@@ -300,6 +258,55 @@
 <p>Sorry.</p>
 <p>However, the current demo is still avaliable to play.</p>
 <p>You can play it on the Games page.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Flash Player 2 1.3.0.1 is the last version!</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/flash-player-2-1301-is-the-last-version/"/>
+        <id>https://thecrafters001.ga/flash-player-2-1301-is-the-last-version/</id>
+            <category term="Flash Player 2"/>
+
+        <updated>2020-05-12T14:44:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Flash Player 2 1.3.0.1 is the last version!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Flash Player 2 1.3.0.1 is the last version!1.3.0.1 is the last version of Flash Player 2. There will be no more updates.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Flash Player 2 - 1.3.0.1 - Minor Updates</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/flash-player-2-1301-minor-updates/"/>
+        <id>https://thecrafters001.ga/flash-player-2-1301-minor-updates/</id>
+            <category term="Update"/>
+            <category term="Software"/>
+            <category term="Flash Player 2"/>
+            <category term="Changelog"/>
+
+        <updated>2020-05-03T19:29:53-04:00</updated>
+            <summary>
+                <![CDATA[
+                    The changes include:Fixed a bug where you get an error for trying to run the Media PlayerFixed a help file link
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The changes include:</p>
+<ul>
+<li>Fixed a bug where you get an error for trying to run the Media Player</li>
+<li>Fixed a help file link</li>
+</ul>
             ]]>
         </content>
     </entry>
