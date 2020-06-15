@@ -3,12 +3,35 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga/feed.xml" rel="self" />
     <link href="https://thecrafters001.ga" />
-    <updated>2020-06-14T21:18:04-04:00</updated>
+    <updated>2020-06-15T15:30:04-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.ga</id>
 
+    <entry>
+        <title>EasyHTML! An easy-to-use HTML Editor.</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.ga/easyhtml-an-easy-to-use-html-editor/"/>
+        <id>https://thecrafters001.ga/easyhtml-an-easy-to-use-html-editor/</id>
+
+        <updated>2020-06-15T15:23:19-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thecrafters001.ga/media/posts/44/EasyHTML_Icon.png" alt="" />
+                    A new software has just been announced.Check out this software page here.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thecrafters001.ga/media/posts/44/EasyHTML_Icon.png" alt="" />
+                <h2 class="align-center">A new software has just been announced.</h2>
+<p>Check out this <a href="https://thecrafters001.ga/easyhtml/">software page here</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Updates To Website Coming.</title>
         <author>
@@ -279,34 +302,6 @@
         <content type="html">
             <![CDATA[
                 Flash Player 2 1.3.0.1 is the last version!1.3.0.1 is the last version of Flash Player 2. There will be no more updates.
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Flash Player 2 - 1.3.0.1 - Minor Updates</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.ga/flash-player-2-1301-minor-updates/"/>
-        <id>https://thecrafters001.ga/flash-player-2-1301-minor-updates/</id>
-            <category term="Update"/>
-            <category term="Software"/>
-            <category term="Flash Player 2"/>
-            <category term="Changelog"/>
-
-        <updated>2020-05-03T19:29:53-04:00</updated>
-            <summary>
-                <![CDATA[
-                    The changes include:Fixed a bug where you get an error for trying to run the Media PlayerFixed a help file link
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>The changes include:</p>
-<ul>
-<li>Fixed a bug where you get an error for trying to run the Media Player</li>
-<li>Fixed a help file link</li>
-</ul>
             ]]>
         </content>
     </entry>
