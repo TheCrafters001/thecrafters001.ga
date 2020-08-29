@@ -1,0 +1,71 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TheCrafters001",
+    "description": "Making free software and games! All Open-Source!",
+    "home_page_url": "https://thecrafters001.ga",
+    "items": [
+        {
+            "id": "https://thecrafters001.ga/08/29/2020/Why-is-Pokemon-Delta-Green-Taking-So-Long-To-Make/",
+            "url": "https://thecrafters001.ga/08/29/2020/Why-is-Pokemon-Delta-Green-Taking-So-Long-To-Make/",
+            "title": "Why is Pokémon Delta Green Taking So Long To Make?",
+            "date_published": "2020-08-29T15:06:00.000Z",
+            "content_html": "<p>So… This is a question that has been bothering me for a while. Pokémon Fan Games are hard to make. But I am not making a ROM hack, so why is it taking so long? First is the fact that we really don’t have a story. I mean, the story we <em><strong>DO</strong></em> have is only one and a half pages long. But that is not the only thing that we are tring to figure out, we just also ended up to make the starter (not starters) an Eevee. Don’t beleave me? Here is a snippet of code from the game:</p>\n<figure class=\"highlight plain\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">@&gt;Text: \\bBut I do have one left. I think it will make a good </span><br><span class=\"line\">:     : partner for you! Here you go!</span><br><span class=\"line\">@&gt;Script: pbAddPokemon(:EEVEE,5)</span><br><span class=\"line\">@&gt;Control Switches: [0076: NoPokemonSelected] &#x3D; OFF</span><br></pre></td></tr></table></figure>\n<p>Now, you may have noticed that I keep saying “we” in the post. I am refering to me and Frozentual. Frozentual is the person who builds the trainers’ teams in the game. But if you couldn’t tell, we have no idea what we are doing.</p>\n<blockquote><p>HOW TO WRITE SCRTIPT FOR POKMONE GAME<br>?!<br>I ASM SO CIKNFUYSED</p>\n<footer><strong>@Frozentual</strong><cite><a href=\"https://twitter.com/Frozentual/status/1299441089233981440\">twitter.com/Frozentual/status/1299441089233981440</a></cite></footer></blockquote>\n\n<p>Another thing.<br>We are also using a Game Engine that, while it is popular for making fan-games, is hardly used for game development anymore. Don’t get me wrong, <a href=\"https://www.rpgmakerweb.com/products/rpg-maker-xp\">RPG Maker XP</a> is a good engine, it is just… “old”. <a href=\"https://www.rpgmakerweb.com/products/rpg-maker-mz\">Especially now that the new version of RPG Maker just came out on the 20th</a>. But hey. I like the engine. And now I think it is time to end the post because I am running out of things to talk about.</p>\n<p>Thank you for reading.<br><img src=\"/images/Logo_Full_White.png\" alt=\"Logo\"></p>\n",
+            "tags": [
+                "Pokémon",
+                "Delta Green",
+                "Pokémon Delta Green",
+                "Fan Game"
+            ]
+        },
+        {
+            "id": "https://thecrafters001.ga/08/28/2020/Welcome-to-My-New-Website-Again/",
+            "url": "https://thecrafters001.ga/08/28/2020/Welcome-to-My-New-Website-Again/",
+            "title": "Welcome to My New Website (Again)",
+            "date_published": "2020-08-29T01:47:00.000Z",
+            "content_html": "<p>Yep.</p>\n",
+            "tags": [
+                "Website News"
+            ]
+        },
+        {
+            "id": "https://thecrafters001.ga/08/26/2020/Fixed-a-bug-on-the-website/",
+            "url": "https://thecrafters001.ga/08/26/2020/Fixed-a-bug-on-the-website/",
+            "title": "Fixed a bug on the website!",
+            "date_published": "2020-08-27T01:46:00.000Z",
+            "content_html": "<p>There was a bug that caused the twitter embed (on the right) to go <b><i>ALL</i></b> the way to the end of my feed, causing the website to look overly extended. Now it should no longer do that, and only extend down 2000px down. Oh, and now there are links on the home page for the software and games categories.</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/08/26/2020/Added-new-Game-Updater-Page/",
+            "url": "https://thecrafters001.ga/08/26/2020/Added-new-Game-Updater-Page/",
+            "title": "Added new Game Updater Page",
+            "date_published": "2020-08-27T01:45:00.000Z",
+            "content_html": "<p>So, I updated the website, and now there is a page for Game Updater. I am adding pages for software, and games that I make, but they are being added slowly, so yeah. Anyways, visit the home page to get to the page!</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/08/21/2020/Updated-Blog-Page/",
+            "url": "https://thecrafters001.ga/08/21/2020/Updated-Blog-Page/",
+            "title": "Updated Blog Page",
+            "date_published": "2020-08-22T01:45:00.000Z",
+            "content_html": "<p>Alright. I updated the blog page (the page you are on now) to now update how high the IFrame is when you look at the page. To be honest though, I have no idea if it works. This post was mainly created to test it out.</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/08/21/2020/GameJolt-is-Down-till-Noon-EST-8-21-2020/",
+            "url": "https://thecrafters001.ga/08/21/2020/GameJolt-is-Down-till-Noon-EST-8-21-2020/",
+            "title": "GameJolt is Down till Noon EST 8/21/2020",
+            "date_published": "2020-08-22T01:44:00.000Z",
+            "content_html": "<p>Fun.</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/08/20/2020/Welcome-to-my-new-website/",
+            "url": "https://thecrafters001.ga/08/20/2020/Welcome-to-my-new-website/",
+            "title": "Welcome to my new website",
+            "date_published": "2020-08-21T01:42:00.000Z",
+            "content_html": "<p>Welcome to my new website! Heavily based on the code from <a href=\"http://frozentual.thecrafters001.ga/\" target=\"_blank\">Frozentual’s Website</a>. I think it is nice. It has a True Dark Mode. (The only mode you can use here.) What do you think? I think it is neat. Anyway. Bye. (PS: There is a twitter feed on the Home and Blog pages!)</p>\n",
+            "tags": []
+        }
+    ]
+}

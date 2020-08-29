@@ -8,6 +8,27 @@
     </url>
     
     <url>
+        <loc>https://thecrafters001.ga/about/</loc>
+        <lastmod>2020-08-29T17:52:23.964Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://thecrafters001.ga/policy/privacy/</loc>
+        <lastmod>2020-08-29T17:47:22.751Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://thecrafters001.ga/policy/cookie/</loc>
+        <lastmod>2020-08-29T17:46:34.647Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://thecrafters001.ga/games/delta-green/</loc>
         <lastmod>2020-08-29T16:02:10.670Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -45,13 +66,6 @@
     <url>
         <loc>https://thecrafters001.ga/software/forest-oe/</loc>
         <lastmod>2020-08-29T01:30:34.133Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://thecrafters001.ga/about/</loc>
-        <lastmod>2020-08-29T01:21:45.878Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

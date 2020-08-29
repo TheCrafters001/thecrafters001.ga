@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://thecrafters001.ga</id>
+    <title>TheCrafters001 • Posts by &#34;website news&#34; category</title>
+    <link href="https://thecrafters001.ga" />
+    <updated>2020-08-29T01:47:00.000Z</updated>
+    <category term="Website News" />
+    <category term="Pokémon" />
+    <category term="Delta Green" />
+    <category term="Pokémon Delta Green" />
+    <category term="Fan Game" />
+    <entry>
+        <id>https://thecrafters001.ga/08/28/2020/Welcome-to-My-New-Website-Again/</id>
+        <title>Welcome to My New Website (Again)</title>
+        <link rel="alternate" href="https://thecrafters001.ga/08/28/2020/Welcome-to-My-New-Website-Again/"/>
+        <content type="html">&lt;p&gt;Yep.&lt;/p&gt;
+</content>
+        <category term="Website News" />
+        <updated>2020-08-29T01:47:00.000Z</updated>
+    </entry>
+</feed>
