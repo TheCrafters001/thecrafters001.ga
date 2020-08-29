@@ -52,5 +52,38 @@
             <description><![CDATA[ &lt;p&gt;Welcome to my new website! Heavily based on the code from &lt;a href=&#34;http://frozentual.thecrafters001.ga/&#34; target=&#34;_blank&#34;&gt;Frozentual’s Website&lt;/a&gt;. I think it is nice. It has a True Dark Mode. (The only mode you can use here.) What do you think? I think it is neat. Anyway. Bye. (PS: There is a twitter feed on the Home and Blog pages!)&lt;/p&gt;
  ]]></description>
         </item>
+        <item>
+            <guid isPermalink="true">https://thecrafters001.ga/10/21/2018/New-comment-System/</guid>
+            <title>New comment System!</title>
+            <link>https://thecrafters001.ga/10/21/2018/New-comment-System/</link>
+            <pubDate>Sun, 21 Oct 2018 10:39:00 -0400</pubDate>
+            <description><![CDATA[ &lt;p&gt;So I have found a new comment system I can use! Hope you like it!&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/</guid>
+            <title>Website Closed preview started!</title>
+            <link>https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/</link>
+            <pubDate>Mon, 15 Oct 2018 09:59:00 -0400</pubDate>
+            <description><![CDATA[ &lt;p&gt;Website is now on a closed preview session for 24 hours.&lt;/p&gt;
+&lt;p&gt;Timer Moved&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://thecrafters001.ga/10/15/2018/Website-Unsuspended/</guid>
+            <title>Website Unsuspended</title>
+            <link>https://thecrafters001.ga/10/15/2018/Website-Unsuspended/</link>
+            <pubDate>Mon, 15 Oct 2018 09:58:00 -0400</pubDate>
+            <description><![CDATA[ &lt;p&gt;Website is now viewable again.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://thecrafters001.ga/10/10/2018/Website-Migration/</guid>
+            <title>Website Migration</title>
+            <link>https://thecrafters001.ga/10/10/2018/Website-Migration/</link>
+            <pubDate>Wed, 10 Oct 2018 07:00:00 -0400</pubDate>
+            <description><![CDATA[ &lt;p&gt;Website migration started to the new w3.css system has started.&lt;/p&gt;
+ ]]></description>
+        </item>
     </channel>
 </rss>

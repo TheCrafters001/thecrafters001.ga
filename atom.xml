@@ -3,12 +3,23 @@
     <id>https://thecrafters001.ga</id>
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga" />
-    <updated>2020-08-29T15:06:00.000Z</updated>
+    <updated>2020-08-29T19:22:00.000Z</updated>
     <category term="Website News" />
     <category term="Pokémon" />
     <category term="Delta Green" />
     <category term="Pokémon Delta Green" />
     <category term="Fan Game" />
+    <entry>
+        <id>https://thecrafters001.ga/08/29/2020/Added-Some-Really-Old-Post-from-2018/</id>
+        <title>Added Some Really Old Post from 2018!</title>
+        <link rel="alternate" href="https://thecrafters001.ga/08/29/2020/Added-Some-Really-Old-Post-from-2018/"/>
+        <content type="html">&lt;p&gt;Thanks to the power of the &lt;a href=&#34;https://web.archive.org/web/20181102020746/https://thecrafters001.ga/&#34;&gt;Wayback Machine&lt;/a&gt;, I was able to get back some old, and I mean &lt;em&gt;&lt;strong&gt;OLD&lt;/strong&gt;&lt;/em&gt;, post from my website. The link I gave leads back to that archive. 2018 is when I still was working hard on Delta Green, and TheCrafters001 OS. One of those doesn’t exist anymore, but what can I say. It was really more of what I am making with &lt;a href=&#34;/software/forest-oe&#34;&gt;Forest-OE&lt;/a&gt;. But, back to the post. I have added them back to my website in the &lt;a href=&#34;/categories/Old-News/&#34;&gt;Old News catagory&lt;/a&gt;. Anyway, that is all for this post.&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Logo_Full_White.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="Website News" />
+        <updated>2020-08-29T19:22:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://thecrafters001.ga/08/29/2020/Why-is-Pokemon-Delta-Green-Taking-So-Long-To-Make/</id>
         <title>Why is Pokémon Delta Green Taking So Long To Make?</title>
@@ -76,5 +87,46 @@
         <content type="html">&lt;p&gt;Welcome to my new website! Heavily based on the code from &lt;a href=&#34;http://frozentual.thecrafters001.ga/&#34; target=&#34;_blank&#34;&gt;Frozentual’s Website&lt;/a&gt;. I think it is nice. It has a True Dark Mode. (The only mode you can use here.) What do you think? I think it is neat. Anyway. Bye. (PS: There is a twitter feed on the Home and Blog pages!)&lt;/p&gt;
 </content>
         <updated>2020-08-21T01:42:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://thecrafters001.ga/11/01/2018/Reviews-are-shutting-down/</id>
+        <title>Reviews are shutting down.</title>
+        <link rel="alternate" href="https://thecrafters001.ga/11/01/2018/Reviews-are-shutting-down/"/>
+        <content type="html">&lt;p&gt;Reviews will &lt;code&gt;close&lt;/code&gt; on &lt;code&gt;11/2/2018 @ 3:30 PM&lt;/code&gt;&lt;/p&gt;
+</content>
+        <updated>2018-11-01T17:25:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://thecrafters001.ga/10/21/2018/New-comment-System/</id>
+        <title>New comment System!</title>
+        <link rel="alternate" href="https://thecrafters001.ga/10/21/2018/New-comment-System/"/>
+        <content type="html">&lt;p&gt;So I have found a new comment system I can use! Hope you like it!&lt;/p&gt;
+</content>
+        <updated>2018-10-21T14:39:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/</id>
+        <title>Website Closed preview started!</title>
+        <link rel="alternate" href="https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/"/>
+        <content type="html">&lt;p&gt;Website is now on a closed preview session for 24 hours.&lt;/p&gt;
+&lt;p&gt;Timer Moved&lt;/p&gt;
+</content>
+        <updated>2018-10-15T13:59:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://thecrafters001.ga/10/15/2018/Website-Unsuspended/</id>
+        <title>Website Unsuspended</title>
+        <link rel="alternate" href="https://thecrafters001.ga/10/15/2018/Website-Unsuspended/"/>
+        <content type="html">&lt;p&gt;Website is now viewable again.&lt;/p&gt;
+</content>
+        <updated>2018-10-15T13:58:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://thecrafters001.ga/10/10/2018/Website-Migration/</id>
+        <title>Website Migration</title>
+        <link rel="alternate" href="https://thecrafters001.ga/10/10/2018/Website-Migration/"/>
+        <content type="html">&lt;p&gt;Website migration started to the new w3.css system has started.&lt;/p&gt;
+</content>
+        <updated>2018-10-10T11:00:00.000Z</updated>
     </entry>
 </feed>

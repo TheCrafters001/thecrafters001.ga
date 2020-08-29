@@ -5,6 +5,16 @@
     "home_page_url": "https://thecrafters001.ga",
     "items": [
         {
+            "id": "https://thecrafters001.ga/08/29/2020/Added-Some-Really-Old-Post-from-2018/",
+            "url": "https://thecrafters001.ga/08/29/2020/Added-Some-Really-Old-Post-from-2018/",
+            "title": "Added Some Really Old Post from 2018!",
+            "date_published": "2020-08-29T19:22:00.000Z",
+            "content_html": "<p>Thanks to the power of the <a href=\"https://web.archive.org/web/20181102020746/https://thecrafters001.ga/\">Wayback Machine</a>, I was able to get back some old, and I mean <em><strong>OLD</strong></em>, post from my website. The link I gave leads back to that archive. 2018 is when I still was working hard on Delta Green, and TheCrafters001 OS. One of those doesn’t exist anymore, but what can I say. It was really more of what I am making with <a href=\"/software/forest-oe\">Forest-OE</a>. But, back to the post. I have added them back to my website in the <a href=\"/categories/Old-News/\">Old News catagory</a>. Anyway, that is all for this post.</p>\n<p>Thanks for reading!</p>\n<p><img src=\"/images/Logo_Full_White.png\" alt=\"Logo\"></p>\n",
+            "tags": [
+                "Website News"
+            ]
+        },
+        {
             "id": "https://thecrafters001.ga/08/29/2020/Why-is-Pokemon-Delta-Green-Taking-So-Long-To-Make/",
             "url": "https://thecrafters001.ga/08/29/2020/Why-is-Pokemon-Delta-Green-Taking-So-Long-To-Make/",
             "title": "Why is Pokémon Delta Green Taking So Long To Make?",
@@ -65,6 +75,46 @@
             "title": "Welcome to my new website",
             "date_published": "2020-08-21T01:42:00.000Z",
             "content_html": "<p>Welcome to my new website! Heavily based on the code from <a href=\"http://frozentual.thecrafters001.ga/\" target=\"_blank\">Frozentual’s Website</a>. I think it is nice. It has a True Dark Mode. (The only mode you can use here.) What do you think? I think it is neat. Anyway. Bye. (PS: There is a twitter feed on the Home and Blog pages!)</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/11/01/2018/Reviews-are-shutting-down/",
+            "url": "https://thecrafters001.ga/11/01/2018/Reviews-are-shutting-down/",
+            "title": "Reviews are shutting down.",
+            "date_published": "2018-11-01T17:25:00.000Z",
+            "content_html": "<p>Reviews will <code>close</code> on <code>11/2/2018 @ 3:30 PM</code></p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/10/21/2018/New-comment-System/",
+            "url": "https://thecrafters001.ga/10/21/2018/New-comment-System/",
+            "title": "New comment System!",
+            "date_published": "2018-10-21T14:39:00.000Z",
+            "content_html": "<p>So I have found a new comment system I can use! Hope you like it!</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/",
+            "url": "https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/",
+            "title": "Website Closed preview started!",
+            "date_published": "2018-10-15T13:59:00.000Z",
+            "content_html": "<p>Website is now on a closed preview session for 24 hours.</p>\n<p>Timer Moved</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/10/15/2018/Website-Unsuspended/",
+            "url": "https://thecrafters001.ga/10/15/2018/Website-Unsuspended/",
+            "title": "Website Unsuspended",
+            "date_published": "2018-10-15T13:58:00.000Z",
+            "content_html": "<p>Website is now viewable again.</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/10/10/2018/Website-Migration/",
+            "url": "https://thecrafters001.ga/10/10/2018/Website-Migration/",
+            "title": "Website Migration",
+            "date_published": "2018-10-10T11:00:00.000Z",
+            "content_html": "<p>Website migration started to the new w3.css system has started.</p>\n",
             "tags": []
         }
     ]

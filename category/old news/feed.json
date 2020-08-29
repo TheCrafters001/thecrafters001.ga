@@ -43,6 +43,38 @@
             "date_published": "2020-08-21T01:42:00.000Z",
             "content_html": "<p>Welcome to my new website! Heavily based on the code from <a href=\"http://frozentual.thecrafters001.ga/\" target=\"_blank\">Frozentual’s Website</a>. I think it is nice. It has a True Dark Mode. (The only mode you can use here.) What do you think? I think it is neat. Anyway. Bye. (PS: There is a twitter feed on the Home and Blog pages!)</p>\n",
             "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/10/21/2018/New-comment-System/",
+            "url": "https://thecrafters001.ga/10/21/2018/New-comment-System/",
+            "title": "New comment System!",
+            "date_published": "2018-10-21T14:39:00.000Z",
+            "content_html": "<p>So I have found a new comment system I can use! Hope you like it!</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/",
+            "url": "https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/",
+            "title": "Website Closed preview started!",
+            "date_published": "2018-10-15T13:59:00.000Z",
+            "content_html": "<p>Website is now on a closed preview session for 24 hours.</p>\n<p>Timer Moved</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/10/15/2018/Website-Unsuspended/",
+            "url": "https://thecrafters001.ga/10/15/2018/Website-Unsuspended/",
+            "title": "Website Unsuspended",
+            "date_published": "2018-10-15T13:58:00.000Z",
+            "content_html": "<p>Website is now viewable again.</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://thecrafters001.ga/10/10/2018/Website-Migration/",
+            "url": "https://thecrafters001.ga/10/10/2018/Website-Migration/",
+            "title": "Website Migration",
+            "date_published": "2018-10-10T11:00:00.000Z",
+            "content_html": "<p>Website migration started to the new w3.css system has started.</p>\n",
+            "tags": []
         }
     ]
 }
