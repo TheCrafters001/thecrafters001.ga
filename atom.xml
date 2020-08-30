@@ -3,7 +3,7 @@
     <id>https://thecrafters001.ga</id>
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.ga" />
-    <updated>2020-08-30T14:31:00.000Z</updated>
+    <updated>2020-08-30T14:46:00.000Z</updated>
     <category term="Website News" />
     <category term="Website Update" />
     <category term="Hexo" />
@@ -16,6 +16,23 @@
     <category term="Pokémon Delta Green" />
     <category term="Fan Game" />
     <entry>
+        <id>https://thecrafters001.ga/08/30/2020/A-note-about-comments-on-my-site/</id>
+        <title>A note about comments on my site.</title>
+        <link rel="alternate" href="https://thecrafters001.ga/08/30/2020/A-note-about-comments-on-my-site/"/>
+        <content type="html">&lt;p&gt;Making a post on the main page, without visiting the post, will result in your comment not displaying on the main page. Also, if you make a comment on the post (not on the main page), it will result in the comment only displaying on the post.&lt;/p&gt;
+
+&lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
+
+		&lt;script&gt;
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render(&#34;gitalk-container&#34;);
+	    &lt;/script&gt;</content>
+        <updated>2020-08-30T14:46:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://thecrafters001.ga/08/30/2020/GiTalk-has-Been-Added-to-the-Website/</id>
         <title>GiTalk has Been Added to the Website!</title>
         <link rel="alternate" href="https://thecrafters001.ga/08/30/2020/GiTalk-has-Been-Added-to-the-Website/"/>
@@ -25,7 +42,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -71,7 +88,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -93,7 +110,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -112,7 +129,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -137,7 +154,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -158,7 +175,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -176,7 +193,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -193,7 +210,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -210,7 +227,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -227,7 +244,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -244,7 +261,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -261,7 +278,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -278,7 +295,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -296,7 +313,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -313,7 +330,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -330,7 +347,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
