@@ -8,6 +8,20 @@
     </url>
     
     <url>
+        <loc>https://thecrafters001.ga/gamejolt/community/tf2/</loc>
+        <lastmod>2020-08-30T16:10:13.601Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://thecrafters001.ga/about/</loc>
+        <lastmod>2020-08-30T15:54:19.625Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://thecrafters001.ga/games/</loc>
         <lastmod>2020-08-30T00:12:21.328Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,13 +31,6 @@
     <url>
         <loc>https://thecrafters001.ga/software/</loc>
         <lastmod>2020-08-30T00:12:11.167Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://thecrafters001.ga/about/</loc>
-        <lastmod>2020-08-29T17:52:23.964Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
