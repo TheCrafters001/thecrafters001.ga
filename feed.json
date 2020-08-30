@@ -5,6 +5,17 @@
     "home_page_url": "https://thecrafters001.ga",
     "items": [
         {
+            "id": "https://thecrafters001.ga/08/30/2020/An-update-to-the-TF2-GameJolt-Community-Rules-has-been-made/",
+            "url": "https://thecrafters001.ga/08/30/2020/An-update-to-the-TF2-GameJolt-Community-Rules-has-been-made/",
+            "title": "An update to the TF2 GameJolt Community Rules has been made.",
+            "date_published": "2020-08-30T21:16:00.000Z",
+            "content_html": "<p>Due to a recent event, I have updated the rules on the TF2 GameJolt Community. The changes are the following:</p>\n<ul>\n<li>Added a new rule, please check <a href=\"/gamejolt/community/tf2/\">the rules page to see it</a>.</li>\n<li>Added a line at the bottom of the rules page that states that the community is also subject to the GameJolt Site Guidelines</li>\n</ul>\n<p>Please read over the rules carefully. These changes were made to help ensure the safety of the community, and the members in it.</p>\n\n<div id=\"gitalk-container\"></div>\n<script src=\"https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js\"></script><link rel=\"stylesheet\" href=\"https://unpkg.com/gitalk/dist/gitalk.css\"><script src=\"https://unpkg.com/gitalk/dist/gitalk.min.js\"></script>\n\n\t\t<script>\n\t\tvar gitalkConfig = {\"clientID\":\"1ee99b59f661ba2c70d4\",\"clientSecret\":\"44379937dd4de9437db1c4d986ec7289ce69765e\",\"repo\":\"TheCrafters001\",\"owner\":\"TheCrafters001\",\"admin\":[\"TheCrafters001\"],\"distractionFreeMode\":true};\n\t    gitalkConfig.id = md5(location.pathname);\n\t\tvar gitalk = new Gitalk(gitalkConfig);\n\t    gitalk.render(\"gitalk-container\");\n\t    </script>",
+            "tags": [
+                "GameJolt",
+                "TF2"
+            ]
+        },
+        {
             "id": "https://thecrafters001.ga/08/30/2020/A-note-about-comments-on-my-site/",
             "url": "https://thecrafters001.ga/08/30/2020/A-note-about-comments-on-my-site/",
             "title": "A note about comments on my site.",
