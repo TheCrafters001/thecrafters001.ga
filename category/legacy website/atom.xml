@@ -5,6 +5,7 @@
     <link href="https://thecrafters001.ga" />
     <updated>2018-11-01T17:25:00.000Z</updated>
     <category term="Website News" />
+    <category term="Website Update" />
     <category term="Hexo" />
     <category term="CMS" />
     <category term="Website" />
@@ -19,7 +20,16 @@
         <title>Reviews are shutting down.</title>
         <link rel="alternate" href="https://thecrafters001.ga/11/01/2018/Reviews-are-shutting-down/"/>
         <content type="html">&lt;p&gt;Reviews will &lt;code&gt;close&lt;/code&gt; on &lt;code&gt;11/2/2018 @ 3:30 PM&lt;/code&gt;&lt;/p&gt;
-</content>
+
+&lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
+
+		&lt;script&gt;
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render(&#34;gitalk-container&#34;);
+	    &lt;/script&gt;</content>
         <updated>2018-11-01T17:25:00.000Z</updated>
     </entry>
     <entry>
@@ -27,7 +37,16 @@
         <title>New comment System!</title>
         <link rel="alternate" href="https://thecrafters001.ga/10/21/2018/New-comment-System/"/>
         <content type="html">&lt;p&gt;So I have found a new comment system I can use! Hope you like it!&lt;/p&gt;
-</content>
+
+&lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
+
+		&lt;script&gt;
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render(&#34;gitalk-container&#34;);
+	    &lt;/script&gt;</content>
         <updated>2018-10-21T14:39:00.000Z</updated>
     </entry>
     <entry>
@@ -36,7 +55,16 @@
         <link rel="alternate" href="https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/"/>
         <content type="html">&lt;p&gt;Website is now on a closed preview session for 24 hours.&lt;/p&gt;
 &lt;p&gt;Timer Moved&lt;/p&gt;
-</content>
+
+&lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
+
+		&lt;script&gt;
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render(&#34;gitalk-container&#34;);
+	    &lt;/script&gt;</content>
         <updated>2018-10-15T13:59:00.000Z</updated>
     </entry>
     <entry>
@@ -44,7 +72,16 @@
         <title>Website Unsuspended</title>
         <link rel="alternate" href="https://thecrafters001.ga/10/15/2018/Website-Unsuspended/"/>
         <content type="html">&lt;p&gt;Website is now viewable again.&lt;/p&gt;
-</content>
+
+&lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
+
+		&lt;script&gt;
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render(&#34;gitalk-container&#34;);
+	    &lt;/script&gt;</content>
         <updated>2018-10-15T13:58:00.000Z</updated>
     </entry>
     <entry>
@@ -52,7 +89,16 @@
         <title>Website Migration</title>
         <link rel="alternate" href="https://thecrafters001.ga/10/10/2018/Website-Migration/"/>
         <content type="html">&lt;p&gt;Website migration started to the new w3.css system has started.&lt;/p&gt;
-</content>
+
+&lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
+
+		&lt;script&gt;
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render(&#34;gitalk-container&#34;);
+	    &lt;/script&gt;</content>
         <updated>2018-10-10T11:00:00.000Z</updated>
     </entry>
 </feed>

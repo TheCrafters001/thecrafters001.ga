@@ -157,7 +157,7 @@
   </li>
         <li class="menu-item menu-item-archives">
 
-    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">15</span></a>
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">16</span></a>
 
   </li>
         <li class="menu-item menu-item-sitemap">
@@ -209,16 +209,16 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">15</span>
+          <span class="site-state-item-count">16</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
-        <span class="site-state-item-count">8</span>
+        <span class="site-state-item-count">9</span>
         <span class="site-state-item-name">categories</span>
       </div>
       <div class="site-state-item site-state-tags">
-        <span class="site-state-item-count">10</span>
+        <span class="site-state-item-count">11</span>
         <span class="site-state-item-name">tags</span>
       </div>
   </nav>
@@ -372,6 +372,15 @@
 <p>This is an example of the clean and push method. Anyway, I am getting off track, so let me get back on track. Hexo supports custom theming! Sadly, most of the themes you will find are in a foreign language. For mine, I use a theme called <a target="_blank" rel="noopener" href="https://theme-next.org/">NexT</a>. It has a included Dark theme, so I thought I would use it, and I am really happy with the way it came out. By default, Hexo comes with a theme that the Hexo team made, called Landscape. But if you arn’t happy with any of the themes that come with Hexo, they allow you to make your own! <a target="_blank" rel="noopener" href="https://hexo.io/docs/themes.html">They even provide documentation on how to make one</a>! But, I don’t think I will make my own theme for Hexo. If I do, it would not look good anyway, as I am not good with Swig, the default rendering engine. But hey, that is me.</p>
 <p>Aside from that, I reall like Hexo. It is super simple to use, and understand. I am not going to get into specifics on how the file structure works, all I know is that I can add a new MD file in the &UnderBar;post folder, and start writing. Personally, I just like to use the admin backend that is <code>hexo-admin</code>. Who am I to stop you from doing you, though. Most of this may have just been a rant, but I honestly do like Hexo. Hexo is a cool little program that uses the <a target="_blank" rel="noopener" href="https://nodejs.org/">Node.JS backend</a>. While I am still trying to learn NodeJS, I just think it is a cool little program. Anyway, I am going to end this post here before I start rambling again. So, thank you for reading, and I hope you have a nice rest of your day.</p>
 
+<div id="gitalk-container"></div>
+<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+		<script>
+		var gitalkConfig = {"clientID":"1ee99b59f661ba2c70d4","clientSecret":"44379937dd4de9437db1c4d986ec7289ce69765e","repo":"TheCrafters001","owner":"TheCrafters001","admin":["TheCrafters001"],"distractionFreeMode":false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render("gitalk-container");
+	    </script>
     </div>
 
     
@@ -445,6 +454,9 @@
                 </a>
             </div>
             <div class="post-nav-item">
+                <a href="/08/30/2020/GiTalk-has-Been-Added-to-the-Website/" rel="next" title="GiTalk has Been Added to the Website!">
+                  GiTalk has Been Added to the Website! <i class="fa fa-chevron-right"></i>
+                </a>
             </div>
           </div>
     </footer>

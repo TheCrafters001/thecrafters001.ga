@@ -5,6 +5,7 @@
     <link href="https://thecrafters001.ga" />
     <updated>2020-08-30T00:13:00.000Z</updated>
     <category term="Website News" />
+    <category term="Website Update" />
     <category term="Hexo" />
     <category term="CMS" />
     <category term="Website" />
@@ -47,7 +48,16 @@
 
 &lt;p&gt;This is an example of the clean and push method. Anyway, I am getting off track, so let me get back on track. Hexo supports custom theming! Sadly, most of the themes you will find are in a foreign language. For mine, I use a theme called &lt;a href=&#34;https://theme-next.org/&#34;&gt;NexT&lt;/a&gt;. It has a included Dark theme, so I thought I would use it, and I am really happy with the way it came out. By default, Hexo comes with a theme that the Hexo team made, called Landscape. But if you arn’t happy with any of the themes that come with Hexo, they allow you to make your own! &lt;a href=&#34;https://hexo.io/docs/themes.html&#34;&gt;They even provide documentation on how to make one&lt;/a&gt;! But, I don’t think I will make my own theme for Hexo. If I do, it would not look good anyway, as I am not good with Swig, the default rendering engine. But hey, that is me.&lt;/p&gt;
 &lt;p&gt;Aside from that, I reall like Hexo. It is super simple to use, and understand. I am not going to get into specifics on how the file structure works, all I know is that I can add a new MD file in the &amp;UnderBar;post folder, and start writing. Personally, I just like to use the admin backend that is &lt;code&gt;hexo-admin&lt;/code&gt;. Who am I to stop you from doing you, though. Most of this may have just been a rant, but I honestly do like Hexo. Hexo is a cool little program that uses the &lt;a href=&#34;https://nodejs.org/&#34;&gt;Node.JS backend&lt;/a&gt;. While I am still trying to learn NodeJS, I just think it is a cool little program. Anyway, I am going to end this post here before I start rambling again. So, thank you for reading, and I hope you have a nice rest of your day.&lt;/p&gt;
-</content>
+
+&lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
+
+		&lt;script&gt;
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render(&#34;gitalk-container&#34;);
+	    &lt;/script&gt;</content>
         <category term="Hexo" />
         <category term="CMS" />
         <category term="Website" />
