@@ -150,7 +150,7 @@
   </li>
         <li class="menu-item menu-item-archives">
 
-    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">14</span></a>
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">15</span></a>
 
   </li>
         <li class="menu-item menu-item-sitemap">
@@ -202,16 +202,16 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">14</span>
+          <span class="site-state-item-count">15</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
-        <span class="site-state-item-count">6</span>
+        <span class="site-state-item-count">8</span>
         <span class="site-state-item-name">categories</span>
       </div>
       <div class="site-state-item site-state-tags">
-        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-count">10</span>
         <span class="site-state-item-name">tags</span>
       </div>
   </nav>
@@ -280,6 +280,111 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://thecrafters001.ga/08/29/2020/Hexo-a-Node-JS-Powered-CMS/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/Avatar_New2.png">
+      <meta itemprop="name" content="TheCrafters001">
+      <meta itemprop="description" content="Making free software and games! All Open-Source!">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="TheCrafters001">
+    </span>
+
+    
+    
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/08/29/2020/Hexo-a-Node-JS-Powered-CMS/" class="post-title-link" itemprop="url">Hexo, a Node.JS Powered CMS.</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+      
+
+      <time title="Created: 08/29/2020 20:13:00 / Modified: 21:08:12" itemprop="dateCreated datePublished" datetime="2020-08-29T20:13:00-04:00">08/29/2020</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/Node-JS/" itemprop="url" rel="index"><span itemprop="name">Node.JS</span></a>
+        </span>
+          , 
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/Node-JS/Hexo/" itemprop="url" rel="index"><span itemprop="name">Hexo</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>Alright, first off, I am going to say this: I don’t own Hexo. But I do like the utility, and I recently just build a new website for it. This post will allow me to reflect on what I think about it.</p>
+<p>First off. The ease of use. I know that sounds weird, but it is true. It is super easy to install with the simple 5 line initialization script. This is what the script is:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">hexo init blog</span><br><span class="line">cd blog</span><br><span class="line">npm install</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<p>That is it. That is the whole script. Thing is, if you want to create a new blog, you don’t need to use the <code>npm install hexo-cli -g</code> every time. It is a one time command that installs it to the whole system. So if you wanted to make a new blog (without installing Hexo), all you need to type is: </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">hexo init blog</span><br><span class="line">cd blog</span><br><span class="line">npm install</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<p>Now, I know that the command line is intimidating to some people, but this makes it super simple.</p>
+<p>The next part is the amount of plugins. While 359 plugins (at the time of writing this) does not sound like a lot, they are all powerfull. I made this article using a plugin called <a target="_blank" rel="noopener" href="https://github.com/jaredly/hexo-admin"><code>hexo-admin</code></a>. The back end is really easy to navigate, and it won’t get pushed with the rest of the site, when you push it to any static website hosting services. Speaking of which, Hexo supports deploying to Static Hostings, as it generates Static files (no dynamic files are generated, for details on that, visit <a target="_blank" rel="noopener" href="http://hexo.io/">hexo.io</a>), and allows you to deploy it using one simple command.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>This is how you deploy it to a hosting. I have it setup in the config file (&UnderBar;config.yml) to push to a GitHub repo, <a target="_blank" rel="noopener" href="https://github.com/TheCrafters001/TheCrafters001">which is how I am hosting my website</a>. Hexo allows for other types of deployment, with the following Static Hostings:</p>
+<ul>
+<li>Git</li>
+<li>Heroku</li>
+<li>Netlify</li>
+<li>Rsync</li>
+<li>OpenShift</li>
+<li>FTPSync</li>
+<li>SFTP</li>
+<li>Vercel</li>
+<li>21YunBox</li>
+<li>Bip</li>
+</ul>
+<p>I find it nice that you can push to may different hostings. It allows for flexability. Not only that, if you host a website in multiple places, you are able to push changes to all of the ones at once. All thanks to a few lines in the &UnderBar;config.yml file. I have mine setup to push to my repo, which is really fast. However, you will need to clean the <code>public</code> folder if you want to push any changes that you have made. The plus side, is they even built in a command for that.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>This is an example of the clean and push method. Anyway, I am getting off track, so let me get back on track. Hexo supports custom theming! Sadly, most of the themes you will find are in a foreign language. For mine, I use a theme called <a target="_blank" rel="noopener" href="https://theme-next.org/">NexT</a>. It has a included Dark theme, so I thought I would use it, and I am really happy with the way it came out. By default, Hexo comes with a theme that the Hexo team made, called Landscape. But if you arn’t happy with any of the themes that come with Hexo, they allow you to make your own! <a target="_blank" rel="noopener" href="https://hexo.io/docs/themes.html">They even provide documentation on how to make one</a>! But, I don’t think I will make my own theme for Hexo. If I do, it would not look good anyway, as I am not good with Swig, the default rendering engine. But hey, that is me.</p>
+<p>Aside from that, I reall like Hexo. It is super simple to use, and understand. I am not going to get into specifics on how the file structure works, all I know is that I can add a new MD file in the &UnderBar;post folder, and start writing. Personally, I just like to use the admin backend that is <code>hexo-admin</code>. Who am I to stop you from doing you, though. Most of this may have just been a rant, but I honestly do like Hexo. Hexo is a cool little program that uses the <a target="_blank" rel="noopener" href="https://nodejs.org/">Node.JS backend</a>. While I am still trying to learn NodeJS, I just think it is a cool little program. Anyway, I am going to end this post here before I start rambling again. So, thank you for reading, and I hope you have a nice rest of your day.</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="https://thecrafters001.ga/08/29/2020/Added-New-Legacy-Website-Category/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -309,7 +414,7 @@
       <span class="post-meta-item-text">Posted on</span>
       
 
-      <time title="Created: 08/29/2020 19:26:02 / Modified: 19:27:08" itemprop="dateCreated datePublished" datetime="2020-08-29T19:26:02-04:00">08/29/2020</time>
+      <time title="Created: 08/29/2020 19:26:02 / Modified: 20:13:29" itemprop="dateCreated datePublished" datetime="2020-08-29T19:26:02-04:00">08/29/2020</time>
     </span>
 
   
@@ -322,7 +427,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <p>So, yeah. The 2018 website archive now has it’s own category. You can visit <a href="/categories/Legacy-Website/">here</a></p>
+          <p>So, yeah. The 2018 website archive now has it’s own category. You can visit <a href="/categories/Legacy-Website/">here</a>.</p>
 
       
     </div>
@@ -954,85 +1059,6 @@
     
     <div class="post-body" itemprop="articleBody">
           <p>Welcome to my new website! Heavily based on the code from <a href="http://frozentual.thecrafters001.ga/" target="_blank">Frozentual’s Website</a>. I think it is nice. It has a True Dark Mode. (The only mode you can use here.) What do you think? I think it is neat. Anyway. Bye. (PS: There is a twitter feed on the Home and Blog pages!)</p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-  
-  
-  
-
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="https://thecrafters001.ga/11/01/2018/Reviews-are-shutting-down/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/Avatar_New2.png">
-      <meta itemprop="name" content="TheCrafters001">
-      <meta itemprop="description" content="Making free software and games! All Open-Source!">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="TheCrafters001">
-    </span>
-
-    
-    
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/11/01/2018/Reviews-are-shutting-down/" class="post-title-link" itemprop="url">Reviews are shutting down.</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 11/01/2018 13:25:00" itemprop="dateCreated datePublished" datetime="2018-11-01T13:25:00-04:00">11/01/2018</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">Edited on</span>
-        <time title="Modified: 08/29/2020 19:24:43" itemprop="dateModified" datetime="2020-08-29T19:24:43-04:00">08/29/2020</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">In</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/Legacy-Website/" itemprop="url" rel="index"><span itemprop="name">Legacy Website</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>Reviews will <code>close</code> on <code>11/2/2018 @ 3:30 PM</code></p>
 
       
     </div>
