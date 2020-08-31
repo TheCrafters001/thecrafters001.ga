@@ -13,10 +13,11 @@
     <category term="Website" />
     <category term="Node" />
     <category term="JS" />
+    <category term="RPG Maker XP" />
+    <category term="Fan Game" />
     <category term="Pokémon" />
     <category term="Delta Green" />
     <category term="Pokémon Delta Green" />
-    <category term="Fan Game" />
     <entry>
         <id>https://thecrafters001.ga/08/29/2020/Why-is-Pokemon-Delta-Green-Taking-So-Long-To-Make/</id>
         <title>Why is Pokémon Delta Green Taking So Long To Make?</title>
@@ -39,10 +40,10 @@
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
 	    &lt;/script&gt;</content>
+        <category term="Fan Game" />
         <category term="Pokémon" />
         <category term="Delta Green" />
         <category term="Pokémon Delta Green" />
-        <category term="Fan Game" />
         <updated>2020-08-29T15:06:00.000Z</updated>
     </entry>
 </feed>

@@ -16,18 +16,19 @@
         <category>Website</category>
         <category>Node</category>
         <category>JS</category>
+        <category>RPG Maker XP</category>
+        <category>Fan Game</category>
         <category>Pokémon</category>
         <category>Delta Green</category>
         <category>Pokémon Delta Green</category>
-        <category>Fan Game</category>
         <item>
             <guid isPermalink="true">https://thecrafters001.ga/08/29/2020/Why-is-Pokemon-Delta-Green-Taking-So-Long-To-Make/</guid>
             <title>Why is Pokémon Delta Green Taking So Long To Make?</title>
             <link>https://thecrafters001.ga/08/29/2020/Why-is-Pokemon-Delta-Green-Taking-So-Long-To-Make/</link>
+            <category>Fan Game</category>
             <category>Pokémon</category>
             <category>Delta Green</category>
             <category>Pokémon Delta Green</category>
-            <category>Fan Game</category>
             <pubDate>Sat, 29 Aug 2020 11:06:00 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;So… This is a question that has been bothering me for a while. Pokémon Fan Games are hard to make. But I am not making a ROM hack, so why is it taking so long? First is the fact that we really don’t have a story. I mean, the story we &lt;em&gt;&lt;strong&gt;DO&lt;/strong&gt;&lt;/em&gt; have is only one and a half pages long. But that is not the only thing that we are tring to figure out, we just also ended up to make the starter (not starters) an Eevee. Don’t beleave me? Here is a snippet of code from the game:&lt;/p&gt;
 &lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;@&amp;gt;Text: \bBut I do have one left. I think it will make a good &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;:     : partner for you! Here you go!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;@&amp;gt;Script: pbAddPokemon(:EEVEE,5)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;@&amp;gt;Control Switches: [0076: NoPokemonSelected] &amp;#x3D; OFF&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
