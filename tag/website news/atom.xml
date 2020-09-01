@@ -3,7 +3,7 @@
     <id>https://thecrafters001.ga</id>
     <title>TheCrafters001 • Posts by &#34;website news&#34; tag</title>
     <link href="https://thecrafters001.ga" />
-    <updated>2020-08-29T19:22:00.000Z</updated>
+    <updated>2020-09-01T11:41:00.000Z</updated>
     <category term="Website News" />
     <category term="GameJolt" />
     <category term="TF2" />
@@ -20,6 +20,24 @@
     <category term="Pokémon" />
     <category term="Delta Green" />
     <category term="Pokémon Delta Green" />
+    <entry>
+        <id>https://thecrafters001.ga/09/01/2020/I-made-a-wiki/</id>
+        <title>I made a wiki!</title>
+        <link rel="alternate" href="https://thecrafters001.ga/09/01/2020/I-made-a-wiki/"/>
+        <content type="html">&lt;p&gt;Yep. I made a wiki that anyone can edit. It is powered by &lt;a href=&#34;https://dynalon.github.io/mdwiki/&#34;&gt;MDWiki&lt;/a&gt;. All you need to do is follow the &lt;a href=&#34;https://wiki.thecrafters001.ga/#!index.md#Rules&#34;&gt;rules&lt;/a&gt;, and you will be fine :D&lt;/p&gt;
+
+&lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
+
+		&lt;script&gt;
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render(&#34;gitalk-container&#34;);
+	    &lt;/script&gt;</content>
+        <category term="Website News" />
+        <updated>2020-09-01T11:41:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://thecrafters001.ga/08/29/2020/Added-Some-Really-Old-Post-from-2018/</id>
         <title>Added Some Really Old Post from 2018!</title>
