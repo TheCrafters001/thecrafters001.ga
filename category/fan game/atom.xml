@@ -39,7 +39,7 @@
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
@@ -59,13 +59,13 @@
 &lt;footer&gt;&lt;strong&gt;@Frozentual&lt;/strong&gt;&lt;cite&gt;&lt;a href=&#34;https://twitter.com/Frozentual/status/1299441089233981440&#34;&gt;twitter.com/Frozentual/status/1299441089233981440&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
 
 &lt;p&gt;Another thing.&lt;br&gt;We are also using a Game Engine that, while it is popular for making fan-games, is hardly used for game development anymore. Don’t get me wrong, &lt;a href=&#34;https://www.rpgmakerweb.com/products/rpg-maker-xp&#34;&gt;RPG Maker XP&lt;/a&gt; is a good engine, it is just… “old”. &lt;a href=&#34;https://www.rpgmakerweb.com/products/rpg-maker-mz&#34;&gt;Especially now that the new version of RPG Maker just came out on the 20th&lt;/a&gt;. But hey. I like the engine. And now I think it is time to end the post because I am running out of things to talk about.&lt;/p&gt;
-&lt;p&gt;Thank you for reading.&lt;br&gt;&lt;img src=&#34;/images/Logo_Full_White.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Thank you for reading.&lt;br&gt;&lt;img src=&#34;/images/Logo_Full.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;
 
 &lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
 		&lt;script&gt;
-		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:true};
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
 	    gitalkConfig.id = md5(location.pathname);
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);

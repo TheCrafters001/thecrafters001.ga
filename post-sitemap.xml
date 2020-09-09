@@ -8,8 +8,16 @@
     </url>
 
     <url>
-        <loc>https://thecrafters001.ga/09/04/2020/Artwork-Archive/</loc>
-        <lastmod>2020-09-04T23:42:31.785Z</lastmod>
+        <loc>https://thecrafters001.ga/08/29/2020/Why-is-Pokemon-Delta-Green-Taking-So-Long-To-Make/</loc>
+        <lastmod>2020-09-09T01:00:24.426Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://thecrafters001.ga/08/29/2020/Added-Some-Really-Old-Post-from-2018/</loc>
+        <lastmod>2020-09-09T00:59:57.380Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,7 +25,15 @@
 
     <url>
         <loc>https://thecrafters001.ga/09/02/2020/Keep-Control-is-getting-Remastered/</loc>
-        <lastmod>2020-09-03T01:27:47.257Z</lastmod>
+        <lastmod>2020-09-09T00:59:30.161Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://thecrafters001.ga/09/04/2020/Artwork-Archive/</loc>
+        <lastmod>2020-09-04T23:42:31.785Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -122,22 +138,6 @@
     <url>
         <loc>https://thecrafters001.ga/10/10/2018/Website-Migration/</loc>
         <lastmod>2020-08-29T23:23:37.941Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://thecrafters001.ga/08/29/2020/Added-Some-Really-Old-Post-from-2018/</loc>
-        <lastmod>2020-08-29T19:30:37.198Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://thecrafters001.ga/08/29/2020/Why-is-Pokemon-Delta-Green-Taking-So-Long-To-Make/</loc>
-        <lastmod>2020-08-29T15:37:16.361Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
