@@ -11,8 +11,6 @@
         <category>GameJolt</category>
         <category>TF2</category>
         <category>Art</category>
-        <category>Tanner Helland</category>
-        <category>Music</category>
         <category>Website Update</category>
         <category>Hexo</category>
         <category>CMS</category>
@@ -28,18 +26,17 @@
         <category>Free</category>
         <category>Game</category>
         <category>Games</category>
-        <category>RPG Maker XP</category>
-        <category>Fan Game</category>
         <category>Pokémon</category>
         <category>Delta Green</category>
         <category>Pokémon Delta Green</category>
+        <category>Fan Game</category>
         <item>
             <guid isPermalink="true">https://thecrafters001.ga/09/01/2020/I-made-a-wiki/</guid>
             <title>I made a wiki!</title>
             <link>https://thecrafters001.ga/09/01/2020/I-made-a-wiki/</link>
             <category>Website News</category>
             <pubDate>Tue, 01 Sep 2020 07:41:00 -0400</pubDate>
-            <description><![CDATA[ &lt;p&gt;Yep. I made a wiki that anyone can edit. It is powered by &lt;a href=&#34;https://dynalon.github.io/mdwiki/&#34;&gt;MDWiki&lt;/a&gt;. All you need to do is follow the &lt;a href=&#34;https://wiki.thecrafters001.ga/#!index.md#Rules&#34;&gt;rules&lt;/a&gt;, and you will be fine :D&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;Yep. &lt;a id=&#34;more&#34;&gt;&lt;/a&gt; I made a wiki that anyone can edit. It is powered by &lt;a href=&#34;https://dynalon.github.io/mdwiki/&#34;&gt;MDWiki&lt;/a&gt;. All you need to do is follow the &lt;a href=&#34;https://wiki.thecrafters001.ga/#!index.md#Rules&#34;&gt;rules&lt;/a&gt;, and you will be fine :D&lt;/p&gt;
 
 &lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
@@ -57,7 +54,7 @@
             <link>https://thecrafters001.ga/08/29/2020/Added-Some-Really-Old-Post-from-2018/</link>
             <category>Website News</category>
             <pubDate>Sat, 29 Aug 2020 15:22:00 -0400</pubDate>
-            <description><![CDATA[ &lt;p&gt;Thanks to the power of the &lt;a href=&#34;https://web.archive.org/web/20181102020746/https://thecrafters001.ga/&#34;&gt;Wayback Machine&lt;/a&gt;, I was able to get back some old, and I mean &lt;em&gt;&lt;strong&gt;OLD&lt;/strong&gt;&lt;/em&gt;, post from my website. The link I gave leads back to that archive. 2018 is when I still was working hard on Delta Green, and TheCrafters001 OS. One of those doesn’t exist anymore, but what can I say. It was really more of what I am making with &lt;a href=&#34;/software/forest-oe&#34;&gt;Forest-OE&lt;/a&gt;. But, back to the post. I have added them back to my website in the &lt;a href=&#34;/categories/Old-News/&#34;&gt;Old News catagory&lt;/a&gt;. Anyway, that is all for this post.&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;Thanks to the power of the &lt;a href=&#34;https://web.archive.org/web/20181102020746/https://thecrafters001.ga/&#34;&gt;Wayback Machine&lt;/a&gt;, I was able to get back some old, and I mean &lt;em&gt;&lt;strong&gt;OLD&lt;/strong&gt;&lt;/em&gt;, post from my website. &lt;a id=&#34;more&#34;&gt;&lt;/a&gt; The link I gave leads back to that archive. 2018 is when I still was working hard on Delta Green, and TheCrafters001 OS. One of those doesn’t exist anymore, but what can I say. It was really more of what I am making with &lt;a href=&#34;/software/forest-oe&#34;&gt;Forest-OE&lt;/a&gt;. But, back to the post. I have added them back to my website in the &lt;a href=&#34;/categories/Old-News/&#34;&gt;Old News catagory&lt;/a&gt;. Anyway, that is all for this post.&lt;/p&gt;
 &lt;p&gt;Thanks for reading!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/images/Logo_Full.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;
 
@@ -77,7 +74,7 @@
             <link>https://thecrafters001.ga/08/28/2020/Welcome-to-My-New-Website-Again/</link>
             <category>Website News</category>
             <pubDate>Fri, 28 Aug 2020 21:47:00 -0400</pubDate>
-            <description><![CDATA[ &lt;p&gt;Yep.&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;Yep.&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;

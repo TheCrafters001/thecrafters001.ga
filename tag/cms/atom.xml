@@ -8,8 +8,6 @@
     <category term="GameJolt" />
     <category term="TF2" />
     <category term="Art" />
-    <category term="Tanner Helland" />
-    <category term="Music" />
     <category term="Website Update" />
     <category term="Hexo" />
     <category term="CMS" />
@@ -25,16 +23,15 @@
     <category term="Free" />
     <category term="Game" />
     <category term="Games" />
-    <category term="RPG Maker XP" />
-    <category term="Fan Game" />
     <category term="Pokémon" />
     <category term="Delta Green" />
     <category term="Pokémon Delta Green" />
+    <category term="Fan Game" />
     <entry>
         <id>https://thecrafters001.ga/08/29/2020/Hexo-a-Node-JS-Powered-CMS/</id>
         <title>Hexo, a Node.JS Powered CMS.</title>
         <link rel="alternate" href="https://thecrafters001.ga/08/29/2020/Hexo-a-Node-JS-Powered-CMS/"/>
-        <content type="html">&lt;p&gt;Alright, first off, I am going to say this: I don’t own Hexo. But I do like the utility, and I recently just build a new website for it. This post will allow me to reflect on what I think about it.&lt;/p&gt;
+        <content type="html">&lt;p&gt;Alright, first off, I am going to say this: I don’t own Hexo. But I do like the utility, and I recently just build a new website for it. This post will allow me to reflect on what I think about it. &lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;First off. The ease of use. I know that sounds weird, but it is true. It is super easy to install with the simple 5 line initialization script. This is what the script is:&lt;/p&gt;
 &lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install hexo-cli -g&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hexo init blog&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;cd blog&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;npm install&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 

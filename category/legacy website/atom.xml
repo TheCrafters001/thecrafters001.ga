@@ -8,8 +8,6 @@
     <category term="GameJolt" />
     <category term="TF2" />
     <category term="Art" />
-    <category term="Tanner Helland" />
-    <category term="Music" />
     <category term="Website Update" />
     <category term="Hexo" />
     <category term="CMS" />
@@ -25,17 +23,15 @@
     <category term="Free" />
     <category term="Game" />
     <category term="Games" />
-    <category term="RPG Maker XP" />
-    <category term="Fan Game" />
     <category term="Pokémon" />
     <category term="Delta Green" />
     <category term="Pokémon Delta Green" />
+    <category term="Fan Game" />
     <entry>
         <id>https://thecrafters001.ga/11/01/2018/Reviews-are-shutting-down/</id>
         <title>Reviews are shutting down.</title>
         <link rel="alternate" href="https://thecrafters001.ga/11/01/2018/Reviews-are-shutting-down/"/>
-        <content type="html">&lt;p&gt;Reviews will &lt;code&gt;close&lt;/code&gt; on &lt;code&gt;11/2/2018 @ 3:30 PM&lt;/code&gt;&lt;/p&gt;
-
+        <content type="html">&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;Reviews will ```close``` on ```11/2/2018 @ 3:30 PM```
 &lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
@@ -51,8 +47,7 @@
         <id>https://thecrafters001.ga/10/21/2018/New-comment-System/</id>
         <title>New comment System!</title>
         <link rel="alternate" href="https://thecrafters001.ga/10/21/2018/New-comment-System/"/>
-        <content type="html">&lt;p&gt;So I have found a new comment system I can use! Hope you like it!&lt;/p&gt;
-
+        <content type="html">&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;So I have found a new comment system I can use! Hope you like it!
 &lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
@@ -68,7 +63,8 @@
         <id>https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/</id>
         <title>Website Closed preview started!</title>
         <link rel="alternate" href="https://thecrafters001.ga/10/15/2018/Website-Closed-preview-started/"/>
-        <content type="html">&lt;p&gt;Website is now on a closed preview session for 24 hours.&lt;/p&gt;
+        <content type="html">&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;Website is now on a closed preview session for 24 hours.
+
 &lt;p&gt;Timer Moved&lt;/p&gt;
 
 &lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
@@ -86,8 +82,7 @@
         <id>https://thecrafters001.ga/10/15/2018/Website-Unsuspended/</id>
         <title>Website Unsuspended</title>
         <link rel="alternate" href="https://thecrafters001.ga/10/15/2018/Website-Unsuspended/"/>
-        <content type="html">&lt;p&gt;Website is now viewable again.&lt;/p&gt;
-
+        <content type="html">&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;Website is now viewable again.
 &lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
@@ -103,8 +98,7 @@
         <id>https://thecrafters001.ga/10/10/2018/Website-Migration/</id>
         <title>Website Migration</title>
         <link rel="alternate" href="https://thecrafters001.ga/10/10/2018/Website-Migration/"/>
-        <content type="html">&lt;p&gt;Website migration started to the new w3.css system has started.&lt;/p&gt;
-
+        <content type="html">&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;Website migration started to the new w3.css system has started.
 &lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
 
