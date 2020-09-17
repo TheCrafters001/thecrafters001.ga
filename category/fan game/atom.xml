@@ -8,6 +8,10 @@
     <category term="GameJolt" />
     <category term="TF2" />
     <category term="Art" />
+    <category term="Fan Game" />
+    <category term="Delta Green" />
+    <category term="Game News" />
+    <category term="Games" />
     <category term="Website Update" />
     <category term="Hexo" />
     <category term="CMS" />
@@ -22,11 +26,8 @@
     <category term="jRPG" />
     <category term="Free" />
     <category term="Game" />
-    <category term="Games" />
     <category term="Pokémon" />
-    <category term="Delta Green" />
     <category term="Pokémon Delta Green" />
-    <category term="Fan Game" />
     <entry>
         <id>https://thecrafters001.ga/09/15/2020/Delta-Green-On-Hold-Until-Early-Next-Year/</id>
         <title>Delta Green On Hold Until Early Next Year</title>
@@ -42,6 +43,10 @@
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
 	    &lt;/script&gt;</content>
+        <category term="Fan Game" />
+        <category term="Delta Green" />
+        <category term="Game News" />
+        <category term="Games" />
         <updated>2020-09-15T18:57:00.000Z</updated>
     </entry>
     <entry>
@@ -66,10 +71,10 @@
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
 	    &lt;/script&gt;</content>
-        <category term="Pokémon" />
-        <category term="Delta Green" />
-        <category term="Pokémon Delta Green" />
         <category term="Fan Game" />
+        <category term="Delta Green" />
+        <category term="Pokémon" />
+        <category term="Pokémon Delta Green" />
         <updated>2020-08-29T15:06:00.000Z</updated>
     </entry>
 </feed>

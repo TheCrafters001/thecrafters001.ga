@@ -8,6 +8,10 @@
     <category term="GameJolt" />
     <category term="TF2" />
     <category term="Art" />
+    <category term="Fan Game" />
+    <category term="Delta Green" />
+    <category term="Game News" />
+    <category term="Games" />
     <category term="Website Update" />
     <category term="Hexo" />
     <category term="CMS" />
@@ -22,11 +26,8 @@
     <category term="jRPG" />
     <category term="Free" />
     <category term="Game" />
-    <category term="Games" />
     <category term="Pokémon" />
-    <category term="Delta Green" />
     <category term="Pokémon Delta Green" />
-    <category term="Fan Game" />
     <entry>
         <id>https://thecrafters001.ga/09/02/2020/Keep-Control-is-getting-Remastered/</id>
         <title>Keep Control is getting Remastered!</title>
@@ -45,6 +46,7 @@
 		var gitalk = new Gitalk(gitalkConfig);
 	    gitalk.render(&#34;gitalk-container&#34;);
 	    &lt;/script&gt;</content>
+        <category term="Games" />
         <category term="Keep Control" />
         <category term="GMTK 2020 GameJam" />
         <category term="Jam Game" />
@@ -53,7 +55,6 @@
         <category term="jRPG" />
         <category term="Free" />
         <category term="Game" />
-        <category term="Games" />
         <updated>2020-09-03T01:19:00.000Z</updated>
     </entry>
 </feed>

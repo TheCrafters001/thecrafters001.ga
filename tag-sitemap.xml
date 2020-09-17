@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://thecrafters001.ga/tags/Games/</loc>
+        <lastmod>2020-09-17T23:18:17.181Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://thecrafters001.ga/tags/Game-News/</loc>
+        <lastmod>2020-09-17T23:18:17.181Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://thecrafters001.ga/tags/Delta-Green/</loc>
+        <lastmod>2020-09-17T23:18:17.181Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://thecrafters001.ga/tags/Fan-Game/</loc>
+        <lastmod>2020-09-17T23:18:17.181Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://thecrafters001.ga/tags/Website-News/</loc>
         <lastmod>2020-09-16T01:52:19.297Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -10,21 +38,7 @@
     </url>
 
     <url>
-        <loc>https://thecrafters001.ga/tags/Fan-Game/</loc>
-        <lastmod>2020-09-16T01:52:04.658Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://thecrafters001.ga/tags/Pokemon-Delta-Green/</loc>
-        <lastmod>2020-09-16T01:52:04.658Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://thecrafters001.ga/tags/Delta-Green/</loc>
         <lastmod>2020-09-16T01:52:04.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -89,13 +103,6 @@
     <url>
         <loc>https://thecrafters001.ga/tags/GameJolt/</loc>
         <lastmod>2020-09-16T01:50:53.402Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://thecrafters001.ga/tags/Games/</loc>
-        <lastmod>2020-09-16T01:49:59.111Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://thecrafters001.ga</id>
+    <title>TheCrafters001 • Posts by &#34;game news&#34; tag</title>
+    <link href="https://thecrafters001.ga" />
+    <updated>2020-09-15T18:57:00.000Z</updated>
+    <category term="Website News" />
+    <category term="GameJolt" />
+    <category term="TF2" />
+    <category term="Art" />
+    <category term="Fan Game" />
+    <category term="Delta Green" />
+    <category term="Game News" />
+    <category term="Games" />
+    <category term="Website Update" />
+    <category term="Hexo" />
+    <category term="CMS" />
+    <category term="Website" />
+    <category term="Node" />
+    <category term="JS" />
+    <category term="Keep Control" />
+    <category term="GMTK 2020 GameJam" />
+    <category term="Jam Game" />
+    <category term="Remastered" />
+    <category term="RPG" />
+    <category term="jRPG" />
+    <category term="Free" />
+    <category term="Game" />
+    <category term="Pokémon" />
+    <category term="Pokémon Delta Green" />
+    <entry>
+        <id>https://thecrafters001.ga/09/15/2020/Delta-Green-On-Hold-Until-Early-Next-Year/</id>
+        <title>Delta Green On Hold Until Early Next Year</title>
+        <link rel="alternate" href="https://thecrafters001.ga/09/15/2020/Delta-Green-On-Hold-Until-Early-Next-Year/"/>
+        <content type="html">&lt;p&gt;Hi everyone. I am sorry to say that this game is going on hold until early next year. &lt;a id=&#34;more&#34;&gt;&lt;/a&gt; Right now I just need a break from it. I have been working non-stop on this game for over 4 years. I want to be able to work on some more original projects from now until early 2021. There will be an announcement popping up when I feel like I am ready to bring this game back. I may work on it from time to time, but I just need a break for the most part. I know this announcement is hard to take in, and I know there are supports for this game - and I thank you if you do - I just feel like I need this. I have informed the rest of the people working on this game about this. I guess I will end the post here. For the Delta Green game - see you next year.&lt;/p&gt;
+
+&lt;div id=&#34;gitalk-container&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/gitalk/dist/gitalk.css&#34;&gt;&lt;script src=&#34;https://unpkg.com/gitalk/dist/gitalk.min.js&#34;&gt;&lt;/script&gt;
+
+		&lt;script&gt;
+		var gitalkConfig = {&#34;clientID&#34;:&#34;1ee99b59f661ba2c70d4&#34;,&#34;clientSecret&#34;:&#34;44379937dd4de9437db1c4d986ec7289ce69765e&#34;,&#34;repo&#34;:&#34;TheCrafters001&#34;,&#34;owner&#34;:&#34;TheCrafters001&#34;,&#34;admin&#34;:[&#34;TheCrafters001&#34;],&#34;distractionFreeMode&#34;:false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render(&#34;gitalk-container&#34;);
+	    &lt;/script&gt;</content>
+        <category term="Fan Game" />
+        <category term="Delta Green" />
+        <category term="Game News" />
+        <category term="Games" />
+        <updated>2020-09-15T18:57:00.000Z</updated>
+    </entry>
+</feed>
