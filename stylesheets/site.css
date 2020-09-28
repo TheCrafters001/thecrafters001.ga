@@ -1,0 +1,176 @@
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-family: "Work Sans", sans-serif;
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.6rem;
+  color: #04092E;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: #FFC9E2;
+  transition: 0.1s linear;
+}
+a:hover {
+  color: #ff96c7;
+}
+
+p {
+  margin: 2rem 0;
+  line-height: 1.4em;
+}
+p:last-of-type {
+  margin-bottom: 0;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 70rem;
+}
+
+.button {
+  display: inline-block;
+  padding: 1.2rem 3.3rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #04092E;
+  background: #FFC9E2;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.button.login {
+  margin-top: 2rem;
+}
+.button:hover {
+  color: white;
+  background-color: #ff96c7;
+}
+
+.header {
+  padding: 6rem 2rem;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  background: #04092E;
+}
+@media screen and (min-width: 960px) {
+  .header {
+    display: flex;
+    min-height: 100vh;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+}
+.header h1, .header h2 {
+  margin-bottom: 4rem;
+  max-width: 100%;
+  line-height: 1.1em;
+  text-transform: uppercase;
+}
+.header h1 {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: center;
+  font-family: "Monoton", cursive;
+  font-size: 6rem;
+  font-weight: normal;
+  width: 1350px;
+  color: #FFC9E2;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media screen and (min-width: 960px) {
+  .header h1 {
+    font-size: 10rem;
+  }
+}
+.header h2 {
+  font-size: 1.8rem;
+  font-weight: 800;
+  letter-spacing: 0.4rem;
+}
+@media screen and (min-width: 960px) {
+  .header h2 {
+    font-size: 3rem;
+  }
+}
+.header div {
+  font-size: 1.6rem;
+  line-height: 1.4em;
+}
+@media screen and (min-width: 960px) {
+  .header div {
+    font-size: 1.8rem;
+  }
+}
+.header small {
+  display: block;
+  margin-top: 4rem;
+}
+
+section {
+  padding: 4rem;
+}
+section header {
+  margin-bottom: 4rem;
+}
+section a {
+  color: #ff63ab;
+}
+section a:hover {
+  color: #ff3090;
+}
+
+form {
+  text-align: left;
+  font-size: 1.8rem;
+}
+form .field {
+  margin-bottom: 2rem;
+}
+form label {
+  display: block;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+}
+form input,
+form textarea {
+  font-family: inherit;
+  font-size: inherit;
+}
+form input:not([type=submit]),
+form textarea {
+  width: 100%;
+  padding: 1rem;
+  color: #04092E;
+  border: 1px solid #04092E;
+  outline: 0;
+}
+form textarea {
+  height: 12rem;
+}
+
+footer {
+  padding: 2rem;
+}
+footer img {
+  max-width: 10rem;
+}
+
+/*# sourceMappingURL=site.css.map*/
