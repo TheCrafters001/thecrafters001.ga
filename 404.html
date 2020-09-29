@@ -40,26 +40,12 @@
         </div>
     </noscript>
     <div class="uk-container">
-        <h1>Blog Page Updated</h1>
-        <div class="meta">Posted on 09/29/2020  6:06 PM by TheCrafters001</div>
-        <div class="fullpost"><p>So, I have updated the blog, to now include a link to a full blog page. I know that originally it was weird not having them, but now it does, so yay, all happy.<br>
-Oh, and I moved the comments to each post.</p>
-</div>
-    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-    <div id="gitalk-container"></div>
-    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-    <script>
-        const gitalk = new Gitalk({
-            clientID: '1ee99b59f661ba2c70d4',
-            clientSecret: '44379937dd4de9437db1c4d986ec7289ce69765e',
-            repo: 'TheCrafters001',      // The repository of store comments,
-            owner: 'TheCrafters001',
-            admin: ['TheCrafters001'],
-            id: location.pathname,      // Ensure uniqueness and length less than 50
-            distractionFreeMode: false  // Facebook-like distraction free mode
-        })
-        gitalk.render('gitalk-container')
-    </script>
+        <p>Sorry, but the page your are looking for,</p>
+        <p id="page"></p>
+        <p>does not exist. Or it did, but it doesn't anymore.</p>
+        <script>
+            document.getElementById("page").innerHTML = window.location.href
+        </script>
     </div>
 
         <div class="uk-container uk-padding">
