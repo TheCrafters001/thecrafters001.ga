@@ -32,50 +32,26 @@
 
         </div>
     </nav>
-<div class="uk-container">
-    <h1>Blog</h1>
-        <article class="post">
-            <h3><a href="/posts/blog-page-updated-28">Blog Page Updated</a></h3>
-            <div class="meta">Posted on 09/29/2020  6:06 PM by TheCrafters001</div>
-            <div class="summary"><p>In short, I added links to everything.</p>
- | <a href="/posts/blog-page-updated-28">Read More</a></div>
-            <hr>
-        </article>
-        <article class="post">
-            <h3><a href="/posts/that-was-a-disappointment-27">That was a disappointment.</a></h3>
-            <div class="meta">Posted on 09/29/2020  5:16 PM by TheCrafters001</div>
-            <div class="summary"><p>In short, I didn't like the Pokémon Presents today.</p>
- | <a href="/posts/that-was-a-disappointment-27">Read More</a></div>
-            <hr>
-        </article>
-        <article class="post">
-            <h3><a href="/posts/pok-mon-presents-9-29-2020-9-am-est-26">Pokémon Presents 9/29/2020, 9 AM EST</a></h3>
-            <div class="meta">Posted on 09/29/2020  8:13 AM by TheCrafters001</div>
-            <div class="summary"><p>More info for the Pokémon Sw/Sh DLC is coming out today! WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO - Transmission Ended -</p> | <a href="/posts/pok-mon-presents-9-29-2020-9-am-est-26">Read More</a></div>
-            <hr>
-        </article>
-        <article class="post">
-            <h3><a href="/posts/game-jolt-drama-25">GameJolt Drama</a></h3>
-            <div class="meta">Posted on 09/28/2020  8:54 PM by TheCrafters001</div>
-            <div class="summary"><p>Please just stop with the drama already.</p>
- | <a href="/posts/game-jolt-drama-25">Read More</a></div>
-            <hr>
-        </article>
-        <article class="post">
-            <h3><a href="/posts/updated-software-and-games-pages-23">Updated Software and Games Pages</a></h3>
-            <div class="meta">Posted on 09/28/2020  3:58 PM by TheCrafters001</div>
-            <div class="summary"><p>So, I updated the software and Game pages [...]</p>
- | <a href="/posts/updated-software-and-games-pages-23">Read More</a></div>
-            <hr>
-        </article>
-        <article class="post">
-            <h3><a href="/posts/ugh-another-website-update-6">Ugh! Another Website Update?!</a></h3>
-            <div class="meta">Posted on 09/28/2020 12:28 PM by TheCrafters001</div>
-            <div class="summary"><p>Sorry.</p>
- | <a href="/posts/ugh-another-website-update-6">Read More</a></div>
-            <hr>
-        </article>
-</div>
+    <div class="uk-container">
+        <h1>Ugh! Another Website Update?!</h1>
+        <div class="meta">Posted on 09/28/2020 12:28 PM by TheCrafters001</div>
+        <div class="fullpost"><p>Yeah, I updated the website design again. However I have WAY more control over what I can do. I know it is annoying to have to deal with the website changing every three months, but I am happy with the way that <a href="http://vapid.com" rel="noopener noreferrer" target="_blank">Vapid</a> generates the site! So I think this will be the final design for a while.</p></div>
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <div id="gitalk-container"></div>
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+        const gitalk = new Gitalk({
+            clientID: '1ee99b59f661ba2c70d4',
+            clientSecret: '44379937dd4de9437db1c4d986ec7289ce69765e',
+            repo: 'TheCrafters001',      // The repository of store comments,
+            owner: 'TheCrafters001',
+            admin: ['TheCrafters001'],
+            id: location.pathname,      // Ensure uniqueness and length less than 50
+            distractionFreeMode: false  // Facebook-like distraction free mode
+        })
+        gitalk.render('gitalk-container')
+    </script>
+    </div>
 
         <div class="uk-container uk-padding">
 			<p><a href="/">Home</a> | <a href="/blog">Blog</a> | <a href="/contact">Contact Me</a></p>
