@@ -22,16 +22,50 @@
 </head>
 
 <body>
-    <nav class="uk-navbar-container uk-margin" uk-navbar>
-        <div class="uk-navbar-left">
-            <a class="uk-navbar-item uk-logo" href="/">TheCrafters001</a>
-                <a class="uk-navbar-item" href="/software.html">Software</a>
-<a class="uk-navbar-item" href="/games.html">Games</a>
-<a class="uk-navbar-item" href="/blog.html">Blog</a>
-<a class="uk-navbar-item" href="/contact.html">Contact Me</a>
+    <div class="uk-section uk-padding-remove-vertical uk-section-secondary">
+        <div class="uk-container">
+            <div class="uk-grid uk-margin-remove-top">
+                <div class="uk-width-1-2 uk-width-expand@m">
+                    <div class="uk-flex uk-flex-middle">
+                        <a class="uk-logo uk-navbar-item" href="/">
+            TheCrafters001
+          </a>
+                    </div>
+                </div>
+                <div class="uk-width-1-2 uk-width-auto@m">
+                    <nav class="uk-navbar-container uk-navbar-transparent uk-visible@m" uk-navbar>
+                        <ul class="uk-navbar-nav">
+                            <li><a class="uk-navbar-item" href="/software.html">Software</a></li>
+<li><a class="uk-navbar-item" href="/games.html">Games</a></li>
+<li><a class="uk-navbar-item" href="/blog.html">Blog</a></li>
+<li><a class="uk-navbar-item" href="/contact.html">Contact Me</a></li>
 
+                        </ul>
+                    </nav>
+                    <div class="uk-height-1-1 uk-flex uk-flex-right uk-flex-middle uk-hidden@m">
+                        <a class="uk-button" href="#modal-mobile-nav" uk-toggle>
+                            <span uk-navbar-toggle-icon></span>
+                        </a>
+                    </div>
+                    <div id="modal-mobile-nav" class="uk-modal-full" uk-modal>
+                        <div class="uk-modal-dialog uk-flex uk-flex-center uk-flex-middle" uk-height-viewport>
+                            <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+                            <div class="uk-width-large uk-padding-large">
+                                <ul class="uk-nav-primary uk-nav-parent-icon" uk-nav>
+                                    <li><a class="uk-navbar-item" href="/software.html">Software</a></li>
+<li><a class="uk-navbar-item" href="/games.html">Games</a></li>
+<li><a class="uk-navbar-item" href="/blog.html">Blog</a></li>
+<li><a class="uk-navbar-item" href="/contact.html">Contact Me</a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-    </nav>
+    </div>
+    <br>
     <noscript>
         <div class="">
             <div class="uk-container uk-padding-small uk-border-rounded uk-alert-primary" uk-alert>
@@ -43,16 +77,51 @@
     <h1>Welcome to TheCrafters001's Website!</h1>
       <p>Hi! Welcome to my website! I hope you can find what you are looking for! I am a hobbyist software and game developer. I make a bunch of Open-Source programs! You can find them on the Software and Games pages! Note that I don't accept friend request on any social media sites.</p><p>When I develop games, the main engine I use is RPG Maker. I have RPG Maker XP and RPG Maker MV.</p><p>When I develop software, I use Visual Studio, with the language VB.NET (Visual Basic using .NET Framework), and I use <a href="https://jrsoftware.org/isinfo.php" rel="noopener noreferrer" target="_blank">Inno Setup</a> to make installers.</p><p>That is all I have to say for now, enjoy looking around!</p>
 </div>
+<br>
+<!--FOOTER-->
+<footer class="uk-section-secondary">
+    <div class="uk-container uk-section">
+        <div class="uk-grid uk-child-width-1-3@l" data-uk-grid>
+            <div>
+                <h4>TheCrafters001</h4>
+                <ul class="uk-list uk-list-bullet">
+                    <li><a href="https://r.thecrafters001.ga/gamejolt/" title="GameJolt">GameJolt</a></li>
+                    <li><a href="https://r.thecrafters001.ga/itch/" title="itch">Itch.IO</a></li>
+                    <li><a href="https://r.thecrafters001.ga/github/" title="GitHub">GitHub</a></li>
+                    <li><a href="https://r.thecrafters001.ga/indiedb/" title="IndieDB">IndieDB</a></li>
+                    <li><a href="https://r.thecrafters001.ga/listing.html" title="Redirect Listing">Redirect Listing</a></li>
+                </ul>
+            </div>
 
-        <div class="uk-container uk-padding">
-			<p><a href="/">Home</a> | <a href="/blog">Blog</a> | <a href="/contact">Contact Me</a></p>
-            <p class="uk-link-muted"><a href="/policy/privacy.html">Privacy Policy</a> | <a href="/policy/cookie.html">Cookie Policy</a><br>
-                Powered by <a href="http://vapid.com">Vapid</a> | &copy; 2017<script>new Date().getFullYear()>2017&&document.write("-"+new Date().getFullYear());</script>, TheCrafters001.</p>
+            <div>
+                <h4>Social Media</h4>
+                <a href="https://r.thecrafters001.ga/twitter/" class="uk-icon-button  uk-margin-small-right" data-uk-icon="twitter"></a>
+                <a href="https://www.youtube.com/channel/UCvUj341-DGS3F-cLxxDEjxg" class="uk-icon-button  uk-margin-small-right" data-uk-icon="youtube"></a>
+                <a href="https://r.thecrafters001.ga/github/" class="uk-icon-button  uk-margin-small-right" data-uk-icon="github"></a>
+            </div>
         </div>
-        <!--Start of Tawk.to Script-->
-        <script type="text/javascript">var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5f63cad7f0e7167d00116158/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();</script>
-        <!--End of Tawk.to Script-->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.5.4/js/uikit.min.js" integrity="sha256-8QekXFS5Mxv+c4TrPQY01b+3GUCDKMEtUT4hwe79u+U=" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.5.4/js/uikit-icons.min.js" integrity="sha256-ePbnCL/UfOwc7bXqeMgyTNf6wM1HoqaY1ZeDQWYSJ9Y=" crossorigin="anonymous"></script>
-    </body>
+    </div>
+    <div class="uk-section uk-section-xsmall" style="background-color: rgba(0,0,0,0.15)">
+        <div class="uk-container">
+            <div class="uk-grid uk-child-width-1-2@s uk-text-center uk-text-left@s" data-uk-grid>
+                <div class="uk-text-small uk-text-muted">
+                    Copyright &copy; 2017<script>new Date().getFullYear()>2017&&document.write("-"+new Date().getFullYear());</script>, TheCrafters001
+                </div>
+                <div class="uk-text-small uk-text-muted uk-text-center uk-text-right@s">
+                    Powered by <a href="http://vapid.com/">Vapid</a> | Built with <a href="http://getuikit.com" title="Visit UIkit 3 site" target="_blank" data-uk-tooltip><span data-uk-icon="uikit"></span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--/FOOTER-->
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5f63cad7f0e7167d00116158/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();
+</script>
+<!--End of Tawk.to Script-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.5.4/js/uikit.min.js" integrity="sha256-8QekXFS5Mxv+c4TrPQY01b+3GUCDKMEtUT4hwe79u+U=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.5.4/js/uikit-icons.min.js" integrity="sha256-ePbnCL/UfOwc7bXqeMgyTNf6wM1HoqaY1ZeDQWYSJ9Y=" crossorigin="anonymous"></script>
+</body>
+
 </html>

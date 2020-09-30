@@ -74,10 +74,35 @@
         </div>
     </noscript>
     <div class="uk-container">
-        <h1>Contact Me!</h1>
-          <h2>Live Chat</h2><p><a href="https://tawk.to/chat/5f63cad7f0e7167d00116158/default" rel="noopener noreferrer" target="_blank" style="color: rgb(37, 143, 184);">Chat to me!</a>*</p><p>*= If you see nothing, I am not online.</p><h2>Knowledge Base</h2><p><a href="https://thecrafters001.tawk.help/" rel="noopener noreferrer" target="_blank" style="color: rgb(37, 143, 184);">Visit the KB!</a></p><h2>Email</h2><ul><li>Report Abuse: abuse@thecrafters001.ga</li><li>General Support: support@thecrafters001.ga</li><li>Game Support*: games@thecrafters001.ga</li><li>Delta Green Support: delta-green@thecrafters001.ga</li><li>Questions? ask@thecrafters001.ga</li></ul><p>* = Pokémon Delta Green must get help over a specific email, not the Game Support Email</p><h2>Social</h2><ul><li><a href="https://r.thecrafters001.ga/gamejolt/" rel="noopener noreferrer" target="_blank">GameJolt</a></li><li><a href="https://r.thecrafters001.ga/itch/" rel="noopener noreferrer" target="_blank">Itch</a></li><li><a href="https://r.thecrafters001.ga/steam/" rel="noopener noreferrer" target="_blank">Steam</a></li><li><a href="https://r.thecrafters001.ga/nexus/" rel="noopener noreferrer" target="_blank">Nexus Mods</a></li><li><a href="https://r.thecrafters001.ga/indiedb/" rel="noopener noreferrer" target="_blank">IndieDB</a></li><li><a href="https://r.thecrafters001.ga/github/" rel="noopener noreferrer" target="_blank">GitHub</a></li><li><a href="https://r.thecrafters001.ga/twitter/" rel="noopener noreferrer" target="_blank">Twitter</a></li><li><a href="https://www.youtube.com/channel/UCvUj341-DGS3F-cLxxDEjxg" rel="noopener noreferrer" target="_blank">YouTube</a></li><li><a href="https://r.thecrafters001.ga/loquacious/" rel="noopener noreferrer" target="_blank">Loquacious</a></li><li><a href="https://codepen.io/TheCrafters001" rel="noopener noreferrer" target="_blank">Codepen</a></li></ul><p>Note: All links that lead outside this website are subject to a different privacy policy. Please look at their policies and Terms of Service.</p>
-          <h1>Contact Form</h1>
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfeDslD4DZ33nnwTOMWJJWe02WRQU_6aaGMMQEA0JYChrpAg/viewform?embedded=true" width="100%" height="1350" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <h1>What Is with the Layout Changes?</h1>
+        <div class="meta">Posted on 09/30/2020 12:23 PM by TheCrafters001</div>
+        <div class="fullpost"><p>Look. I know I keep changing the layout. I know it is weird, and that it really isn't necessary. But I am still learning <a href="http://getuikit.com/"><span data-uk-icon="uikit"></span> UIKit</a>. so... yeah. Expect this site to go through lots of changes as I get the ground work built for it.<br>
+You may have noticed I have a proper footer now too. I know my makeshift footer was nice, so here is the code to it.</p>
+<pre><code class="language-html">        &lt;div class=&quot;uk-container uk-padding&quot;&gt;
+			&lt;p&gt;&lt;a href=&quot;/&quot;&gt;Home&lt;/a&gt; | &lt;a href=&quot;/blog&quot;&gt;Blog&lt;/a&gt; | &lt;a href=&quot;/contact&quot;&gt;Contact Me&lt;/a&gt;&lt;/p&gt;
+            &lt;p class=&quot;uk-link-muted&quot;&gt;&lt;a href=&quot;/policy/privacy.html&quot;&gt;Privacy Policy&lt;/a&gt; | &lt;a href=&quot;/policy/cookie.html&quot;&gt;Cookie Policy&lt;/a&gt;&lt;br&gt;
+                Powered by &lt;a href=&quot;http://vapid.com&quot;&gt;Vapid&lt;/a&gt;
+        &lt;/div&gt;
+</code></pre>
+<p>But now I have a more complex footer, and I like the way these style of footers look.<br>
+And my navbar was updated too. I honestly just wanted a dark navbar. I also shifted everything to the right.</p>
+<p>One last thing. Expect the games, software, and blog pages to get updated soon.</p>
+</div>
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <div id="gitalk-container"></div>
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+        const gitalk = new Gitalk({
+            clientID: '1ee99b59f661ba2c70d4',
+            clientSecret: '44379937dd4de9437db1c4d986ec7289ce69765e',
+            repo: 'TheCrafters001',      // The repository of store comments,
+            owner: 'TheCrafters001',
+            admin: ['TheCrafters001'],
+            id: location.pathname,      // Ensure uniqueness and length less than 50
+            distractionFreeMode: false  // Facebook-like distraction free mode
+        })
+        gitalk.render('gitalk-container')
+    </script>
     </div>
 <br>
 <!--FOOTER-->
