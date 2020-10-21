@@ -38,30 +38,45 @@
       </header>
       <section id="pageContent">
          
-<main role="main">
-    <article>
-        <h1>Banner (Version 5) (Current)</h1>
-        <div class="meta">Drawn by TheCrafters001</div>
-        <img src="/uploads/branding-0e6d525a5fcad16e12c2a649dfb08373.png" required="true">
-    </article>
-    <article>
-        <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-        <div id="gitalk-container"></div>
-        <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-        <script>
-            const gitalk = new Gitalk({
-                clientID: '1ee99b59f661ba2c70d4',
-                clientSecret: '44379937dd4de9437db1c4d986ec7289ce69765e',
-                repo: 'TheCrafters001',      // The repository of store comments,
-                owner: 'TheCrafters001',
-                admin: ['TheCrafters001'],
-                id: location.pathname,      // Ensure uniqueness and length less than 50
-                distractionFreeMode: false  // Facebook-like distraction free mode
-            })
-            gitalk.render('gitalk-container')
-        </script>
-    </article>
-</main>
+<div class="uk-container">
+        <h1>Vapid</h1>
+            <img src="/uploads/a9373_ccw9_q_001-79704dc34a61f1d9e85fbc08ff75f8e3.png?w=100&h=100" width="100" height="100">
+        <p>Rating out of 10: 10/10</p>
+        <div class="summary"><p>I love this program. It allows me the convenience of a CMS, but also the complexity of HTML! Just being able to easily code a website using Vapid is amazing! Like, the code for having partial website parts that can be easily added is so cool! And all it is, is a little manipulation of HTML. All I need for the header for my website is this:</p>
+<pre><code>{{part part/header}}
+</code></pre>
+<p>And that is why if you look at the raw code to my website it is so messy, but I am not the one generating it, so I think that is fine. What I love is that if I want it formatted the way I want it, I can format it in any way I want. Like, here is a snippet of code I actually use for my website!</p>
+<pre><code class="language-html">{{&gt; part/header}}
+&lt;div class=&quot;uk-container&quot;&gt;
+    &lt;h1&gt;Blog&lt;/h1&gt;
+    &lt;table class=&quot;uk-table uk-table-justify uk-table-divider&quot;&gt;
+        &lt;thead&gt;
+            &lt;tr&gt;
+                &lt;th class=&quot;uk-width-small&quot;&gt;Post Title&lt;/th&gt;
+                &lt;th class=&quot;uk-width-small&quot;&gt;Date Created&lt;/th&gt;
+                &lt;th&gt;Author&lt;/th&gt;
+                &lt;th&gt;Software Summary&lt;/th&gt;
+                &lt;th&gt;Read More&lt;/th&gt;
+            &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+    {{#section posts label=&quot;Blog Posts&quot; multiple=true}}
+        &lt;tr&gt;
+            &lt;td&gt;{{title}}&lt;/td&gt;
+            &lt;td&gt;{{_created_at format=&quot;%m/%d/%Y %l:%M %p&quot;}} EST&lt;/td&gt;
+            &lt;td&gt;{{postAuthor label=&quot;Author&quot;}}&lt;/td&gt;
+            &lt;td&gt;{{summary type=html editor=markdown long=true required=true}}&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;{{_permalink}}&quot; class=&quot;uk-button uk-button-primary&quot; type=&quot;button&quot;&gt;Read More&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    {{/section}}
+    &lt;/tbody&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
+{{&gt; part/footer}}
+</code></pre>
+<p>It is really simple, and I love it! I am using it to generate this website right now! The one you are reading this on. Like it?</p>
+</div>
+</div>
 </section>
 <br>
 <footer>
