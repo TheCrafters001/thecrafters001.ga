@@ -38,9 +38,37 @@
       </header>
       <section id="pageContent">
          
-    <h1>Search</h1>
-    <div class="gcse-search"></div>
-    <script async src="https://cse.google.com/cse.js?cx=000489069758585219747:trijnmnsext"></script>
+<script language="JavaScript1.3" type="text/javascript" src="/js/search_form.js"></script>
+<main role="main">
+    <article>
+        <div>
+            <h1><span style="font-size:30px;">Internal Search</span> <span style="font-size:15px;">Experimental</span></h1>
+        </div>        
+        <hr>
+        <form name="jse_Form" onsubmit="search_form(jse_Form);return false">
+            <input type="text" name="d">
+            <input type="button" value="Search" onclick="search_form(jse_Form)">
+        </form>
+        <p><b>Note</b>: all searches on this website, are for internal parts of my website, meaning that you will not get any ads!</p>
+    </article>
+    <article>
+        <div>
+            <h1><span style="font-size:30px;">External Site Search</span></h1>
+        </div>        
+        <hr>
+        <script type="text/javascript" src="/js/external.js"></script>
+        <form name="searchForm">
+            <input style="background: dddddd" name="searchText" type="text">
+            <select style="background: dddddd" name="whichEngine">
+                <option selected>DuckDuckGo</option>
+                <option>Google</option>
+            </select>
+            <input type="button" value="Search" onClick="startSearch()">
+        </form>
+        <span style="font-size:10px;">Script by <a href="http://www.mbnet.fi/~foo/">Jari Aarniala</a>, <a href="mailto:foo@mbnet.fi">foo@mbnet.fi</a></span>
+        <p><b>Note</b>: all searches from external engines are out of my hands, so your search results may have ads in them, you are also leaving my site, thus you will be subject to that website's privacy policy</p>
+    </article>
+</main>
 </section>
 <br>
 <footer>
@@ -52,5 +80,6 @@
    var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5f63cad7f0e7167d00116158/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();
 </script>
 <!--End of Tawk.to Script-->
+<link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"thin","corners":"small","colors":{"popup":{"background":"#222222","text":"#ffffff","border":"#b5e1a0"},"button":{"background":"#b5e1a0","text":"#000000"}},"position":"bottom-right","content":{"href":"http://thecrafters001.ga/policy/cookie"}})});</script>
 </body>
 </html>

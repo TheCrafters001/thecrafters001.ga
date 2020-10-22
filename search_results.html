@@ -38,28 +38,26 @@
       </header>
       <section id="pageContent">
          
+<script language="JavaScript1.3" type="text/javascript" src="/js/search_form.js"></script>
+<script language="JavaScript1.3" type="text/javascript" src="/js/search.js"></script>
 <main role="main">
     <article>
-        <h1>Logo (White)</h1>
-        <div class="meta">Drawn by TheCrafters001</div>
-        <img src="/uploads/logo_full_white-d1f038cd554dd2327ed1a0f5450df47e.png" required="true">
-    </article>
-    <article>
-        <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-        <div id="gitalk-container"></div>
-        <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-        <script>
-            const gitalk = new Gitalk({
-                clientID: '1ee99b59f661ba2c70d4',
-                clientSecret: '44379937dd4de9437db1c4d986ec7289ce69765e',
-                repo: 'TheCrafters001',      // The repository of store comments,
-                owner: 'TheCrafters001',
-                admin: ['TheCrafters001'],
-                id: location.pathname,      // Ensure uniqueness and length less than 50
-                distractionFreeMode: false  // Facebook-like distraction free mode
-            })
-            gitalk.render('gitalk-container')
-        </script>
+        <div>
+            <h1><span style="font-size:30px;">Search</span> <span style="font-size:15px;">Experimental</span></h1>
+        </div>        
+        <hr>
+        <form name="jse_Form" onsubmit="search_form(jse_Form);return false">
+            <input type="text" name="d">
+            <input type="button" value="Go" onClick="search_form(jse_Form)">
+        </form>
+        <script language="JavaScript1.3" type="text/javascript">return_query()</script>
+        <script language="JavaScript1.3" type="text/javascript">num_jse()</script> page(s) found
+        <hr>
+        <p>
+            <script language="JavaScript1.3" type="text/javascript">
+                out_jse()
+            </script>
+        </p>
     </article>
 </main>
 </section>
