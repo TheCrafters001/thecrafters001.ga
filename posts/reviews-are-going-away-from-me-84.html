@@ -31,7 +31,6 @@
 <li><a href="/games.html">Games</a></li>
 <li><a href="/art.html">Art</a></li>
 <li><a href="/blog.html">Blog</a></li>
-<li><a href="/reviews.html">Reviews</a></li>
 <li><a href="/search.html">Search</a></li>
 <li><a href="/contact.html">Contact Me</a></li>
       
@@ -39,16 +38,38 @@
         </nav>
     </header>
     <section id="pageContent">
-<div class="uk-container">
-        <h1>Hexo</h1>
-            <img src="/uploads/hexo_logo_png_transparent-8a7f8d4d2ce1898a6c8e358661e744f6.png?w=100&h=100" width="100" height="100">
-        <p>Rating out of 10: 7/10</p>
-        <div class="summary"><p>This program is okay for the most part. It can get the job done, if all you want is a simple front end blog, and making pages is a lot harder using it, but it can do.<br>
-It isn't the best, being that most of what you read for the plugins and templates is in chinese, but it works.<br>
-Now, the program itself isn't chinese, but if you want a blog with a nice template, you might want to have a tab of Google Translate open. Overall, it is okay.<br>
-Bonus is that it can export to GitHub, so that is neat.</p>
-</div>
-</div>
+<main role="main">
+    <article>
+        <h1>Reviews are going away from me.</h1>
+        <div class="meta"><b>Posted on 10/29/2020  7:01 AM by TheCrafters001</b></div>
+        <div class="fullpost"><p>I know that I just added the reviews page for my site, but I am getting rid of it completely, as I do not want to review anything anymore. Know why? Scoring stuff is stupid.<br>
+I won't miss reviews, but I am not going to do them anymore because scoring stuff can really make an impact on how someone sees something, and, if I say something that &quot;<b>hurts</b>&quot; someone, they will then start making comments on how that &quot;<b>Oh, YoU gAvE bLaNk A bAd ScOrE bEcAuSe YoU aRe NoT gOoD aT tHe GaMe</b>&quot; or &quot;<b>Oh, YoU gAvE bLaNk A bAd ScOrE bEcAuSe YoU aRe NoT gOoD aT uSiNg ThE sOfTwArE</b>&quot; and you know what? No body should feel attacked based on <b>PERSONAL OPINION</b>!<br>
+Heck, even someone I watch said they are ditching their scoring system entirely. That video will be put at the end for you to watch, but I think he makes a ton of great points.<br>
+Anyways, I have gotten rid of the reviews on my site already, if you can't tell. I just don't care for them anymore. Back when I reviewed games a long time ago (at least back in 2018), I only ever made 4 reviews before I shutdown that site. Why? Because I got old, real fast. I know there are people who like reviewing games, heck it is even their job (IGN), and I think that is a good job to have, but a lot of the time, most people just look at the score, and just say &quot;This game looks good&quot; or &quot;7.8/10?! This game must be awful.&quot; And that is exactly what happens. I don't look at the score, or even the review. And, even if I do look at the score, I say &quot;Okay, so this person gave it a 7/10. So they like it, but they think it could be just a little better.&quot; I never go on and email them claiming that their opinion is wrong.<br>
+And a lot of the time, people also expect for them to update their reviews when a DLC drops. I have never seen that happen. Just because Pokémon Sword was very lackluster, doesn't mean the DLCs are going to make it better.<br>
+Now, I am going to leave you off with this: If you are going to buy something, and look at the review, and that review is terrible, buy the game anyways, you may be suprised at what <b>YOU</b> like.<br>
+That is all for now. Thanks for reading. - TheCrafters001</p>
+<p>Here is that video I talked about before before.</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lgL8TFQmrFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    </article>
+    <article>
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <div id="gitalk-container"></div>
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+        const gitalk = new Gitalk({
+            clientID: '1ee99b59f661ba2c70d4',
+            clientSecret: '44379937dd4de9437db1c4d986ec7289ce69765e',
+            repo: 'TheCrafters001',      // The repository of store comments,
+            owner: 'TheCrafters001',
+            admin: ['TheCrafters001'],
+            id: location.pathname,      // Ensure uniqueness and length less than 50
+            distractionFreeMode: false  // Facebook-like distraction free mode
+        })
+        gitalk.render('gitalk-container')
+    </script>
+    </article>
+</main>
     </section>
     <br>
     <footer>
