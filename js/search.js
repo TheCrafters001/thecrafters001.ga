@@ -17,7 +17,7 @@ s[3] = "Keep Control - Remastered^/games/keep-control-remastered-22^Can he keep 
 s[4] = "Blog^/blog.html^Check out the progress I am making on my games, software, or just come and look at stuff I randomly post^blog, posts";
 s[5] = "Contact Me^/contact.html^Contact Me^contact, email";
 s[6] = "Art^/art.html^Art page^art";
-s[7] = "";
+s[7] = "Changelogs^/changelogs.html^View changelogs for all my software and games^changes, changelog, games, software";
 
 
 // ---------- end of script properties and sites ----------
