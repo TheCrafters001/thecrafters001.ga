@@ -12,12 +12,16 @@ var s = new Array();
 
 s[0] = "Software^/software.html^Software I have made^software, easyhtml, flash, player, forest-oe, oe, game, updater, minecraft, appdata, remover, showdown, essentials, converter";
 s[1] = "Games^/games.html^Games I have made^games, keep, control, pokémon, delta, green, robo, invaders";
-s[2] = "Keep Control^/games/keep-control-20^Can he keep control of you???^games, keep, control";
-s[3] = "Keep Control - Remastered^/games/keep-control-remastered-22^Can he keep control of you???^games, keep, control, remastered";
-s[4] = "Blog^/blog.html^Check out the progress I am making on my games, software, or just come and look at stuff I randomly post^blog, posts";
-s[5] = "Contact Me^/contact.html^Contact Me^contact, email";
-s[6] = "Art^/art.html^Art page^art";
-s[7] = "Changelogs^/changelogs.html^View changelogs for all my software and games^changes, changelog, games, software";
+s[2] = "Blog^/blog.html^Check out the progress I am making on my games, software, or just come and look at stuff I randomly post^blog, posts";
+s[3] = "Contact Me^/contact.html^Contact Me^contact, email";
+s[4] = "Art^/art.html^Art page^art";
+s[5] = "Changelogs^/changelogs.html^View changelogs for all my software and games^changes, changelog, games, software";
+// Games
+s[6] = "Keep Control^/games/keep-control-20^Can he keep control of you^games, keep, control";
+s[7] = "Keep Control - Remastered^/games/keep-control-remastered-22^Can he keep control of you???^games, keep, control, remastered";
+s[8] = "Platformer^/games/platformer-115?^Just a stupidly simple platformer^games, platformer, platform, 2d, unreal"
+s[9] = "Robo Invaders^/games/robo-invaders-19?^Stop the robots!^Unreal, 2d, games, shooter"
+// Software
 
 
 // ---------- end of script properties and sites ----------
