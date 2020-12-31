@@ -3,7 +3,7 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2020-12-31T17:12:59-05:00</updated>
+    <updated>2020-12-31T17:58:00-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
@@ -41,8 +41,9 @@
         </author>
         <link href="https://thecrafters001.github.io/ugh-another-website-update/"/>
         <id>https://thecrafters001.github.io/ugh-another-website-update/</id>
+            <category term="Old Site"/>
 
-        <updated>2020-12-31T17:12:59-05:00</updated>
+        <updated>2020-12-31T17:58:00-05:00</updated>
             <summary>
                 <![CDATA[
                     Yeah, I updated the website design again. However I have WAY more control over what I can do. I know it is annoying to have to deal with the website changing every three months, but I am happy with the way that Vapid generates the&hellip;
