@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TheCrafters001",
+    "description": "",
+    "home_page_url": "https://thecrafters001.github.io",
+    "feed_url": "https://thecrafters001.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://thecrafters001.github.io/media/website/Logo_Full_White-2.png",
+    "author": {
+        "name": "TheCrafters001"
+    },
+    "items": [
+        {
+            "id": "https://thecrafters001.github.io/new-website/",
+            "url": "https://thecrafters001.github.io/new-website/",
+            "title": "New Website",
+            "summary": "<p>Hi. Me again. I know that this site seems a bit... well... very different.</p>\n",
+            "content_html": "<p>Hi. Me again. I know that this site seems a bit... well... very different.</p>\n\n<p>That is because I actually swapped back to Publii (god, I need to find a solution and stick with it). Anyways... this is my new website. It looks very different. I really want to make my own theme for Publii, but I don't know how, as the code is confusing to look at. Anyways... yeah. That is about it. Right now this is the only thing on the website, aside from one other page, but I kinda need that one.</p>",
+            "image": "https://thecrafters001.github.io/media/posts/1/Banner.png",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-31T16:42:03-05:00",
+            "date_modified": "2020-12-31T16:42:03-05:00"
+        },
+        {
+            "id": "https://thecrafters001.github.io/ugh-another-website-update/",
+            "url": "https://thecrafters001.github.io/ugh-another-website-update/",
+            "title": "Ugh! Another Website Update?!",
+            "summary": "Yeah, I updated the website design again. However I have WAY more control over what I can do. I know it is annoying to have to deal with the website changing every three months, but I am happy with the way that Vapid generates the&hellip;",
+            "content_html": "<p>Yeah, I updated the website design again. However I have WAY more control over what I can do. I know it is annoying to have to deal with the website changing every three months, but I am happy with the way that <a href=\"http://vapid.com\" rel=\"noopener noreferrer\" target=\"_blank\">Vapid</a> generates the site! So I think this will be the final design for a while.</p>",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-28T12:58:00-04:00",
+            "date_modified": "2020-12-31T17:12:59-05:00"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TheCrafters001</title>
+    <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
+    <link href="https://thecrafters001.github.io" />
+    <updated>2020-12-31T17:12:59-05:00</updated>
+    <author>
+        <name>TheCrafters001</name>
+    </author>
+    <id>https://thecrafters001.github.io</id>
+
+    <entry>
+        <title>New Website</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/new-website/"/>
+        <id>https://thecrafters001.github.io/new-website/</id>
+
+        <updated>2020-12-31T16:42:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thecrafters001.github.io/media/posts/1/Banner.png" alt="" />
+                    <p>Hi. Me again. I know that this site seems a bit... well... very different.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thecrafters001.github.io/media/posts/1/Banner.png" alt="" />
+                <p>Hi. Me again. I know that this site seems a bit... well... very different.</p>
+
+<p>That is because I actually swapped back to Publii (god, I need to find a solution and stick with it). Anyways... this is my new website. It looks very different. I really want to make my own theme for Publii, but I don't know how, as the code is confusing to look at. Anyways... yeah. That is about it. Right now this is the only thing on the website, aside from one other page, but I kinda need that one.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ugh! Another Website Update?!</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/ugh-another-website-update/"/>
+        <id>https://thecrafters001.github.io/ugh-another-website-update/</id>
+
+        <updated>2020-12-31T17:12:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Yeah, I updated the website design again. However I have WAY more control over what I can do. I know it is annoying to have to deal with the website changing every three months, but I am happy with the way that Vapid generates the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Yeah, I updated the website design again. However I have WAY more control over what I can do. I know it is annoying to have to deal with the website changing every three months, but I am happy with the way that <a href="http://vapid.com" rel="noopener noreferrer" target="_blank">Vapid</a> generates the site! So I think this will be the final design for a while.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
