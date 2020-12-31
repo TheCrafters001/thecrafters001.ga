@@ -3,12 +3,32 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2020-12-31T17:58:00-05:00</updated>
+    <updated>2020-12-31T18:11:03-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.github.io</id>
 
+    <entry>
+        <title>Site restoration in progress</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/site-restoration-in-progress/"/>
+        <id>https://thecrafters001.github.io/site-restoration-in-progress/</id>
+
+        <updated>2020-12-31T18:11:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I know that the site is currently underwhelming, and I am working on it. You may see progressive updates as time goes on.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I know that the site is currently underwhelming, and I am working on it. You may see progressive updates as time goes on.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>New Website</title>
         <author>

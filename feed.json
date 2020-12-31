@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://thecrafters001.github.io/site-restoration-in-progress/",
+            "url": "https://thecrafters001.github.io/site-restoration-in-progress/",
+            "title": "Site restoration in progress",
+            "summary": "I know that the site is currently underwhelming, and I am working on it. You may see progressive updates as time goes on.",
+            "content_html": "<p>I know that the site is currently underwhelming, and I am working on it. You may see progressive updates as time goes on.</p>",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-31T18:11:03-05:00",
+            "date_modified": "2020-12-31T18:11:03-05:00"
+        },
+        {
             "id": "https://thecrafters001.github.io/new-website/",
             "url": "https://thecrafters001.github.io/new-website/",
             "title": "New Website",
