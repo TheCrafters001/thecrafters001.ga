@@ -3,12 +3,32 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2020-12-31T23:24:45-05:00</updated>
+    <updated>2021-01-01T00:15:26-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.github.io</id>
 
+    <entry>
+        <title>Happy New Year!</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/happy-new-year/"/>
+        <id>https://thecrafters001.github.io/happy-new-year/</id>
+
+        <updated>2021-01-01T00:15:26-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is all the post was.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is all the post was.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Last post for 2020. (A post will be made in 2021.)</title>
         <author>

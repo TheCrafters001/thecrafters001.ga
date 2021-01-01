@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://thecrafters001.github.io/happy-new-year/",
+            "url": "https://thecrafters001.github.io/happy-new-year/",
+            "title": "Happy New Year!",
+            "summary": "This is all the post was.",
+            "content_html": "<p>This is all the post was.</p>",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-01T00:15:26-05:00",
+            "date_modified": "2021-01-01T00:15:26-05:00"
+        },
+        {
             "id": "https://thecrafters001.github.io/last-post-for-2020-a-post-will-be-made-in-2021/",
             "url": "https://thecrafters001.github.io/last-post-for-2020-a-post-will-be-made-in-2021/",
             "title": "Last post for 2020. (A post will be made in 2021.)",
