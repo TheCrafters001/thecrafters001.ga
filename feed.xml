@@ -3,7 +3,7 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2020-12-31T22:36:45-05:00</updated>
+    <updated>2020-12-31T22:38:58-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
@@ -110,9 +110,11 @@
         </author>
         <link href="https://thecrafters001.github.io/the-future-of-thecrafters001-flash-player/"/>
         <id>https://thecrafters001.github.io/the-future-of-thecrafters001-flash-player/</id>
+            <category term="TheCrafters001 Flash Player 2"/>
+            <category term="Software"/>
             <category term="Flash"/>
 
-        <updated>2020-12-31T22:02:43-05:00</updated>
+        <updated>2020-12-31T22:38:58-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>A while ago, I made an announcement that TheCrafters001 Flash Player 3 would be coming, using the Electron Framework.</p>
