@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://thecrafters001.github.io/opensearch-has-a-new-site-design/",
+            "url": "https://thecrafters001.github.io/opensearch-has-a-new-site-design/",
+            "title": "Open{Search}; has a new site design!",
+            "summary": "My custom search engine, Open{Search};, has gotten a new site design. Feel free to check it out here.",
+            "content_html": "<p>My custom search engine, Open{Search};, has gotten a new site design. Feel free to check it out <a href=\"../../../../../../../../../../OpenSearch/\">here</a>.</p>",
+            "image": "https://thecrafters001.github.io/media/posts/18/openSearch.png",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+                   "Website",
+                   "Software",
+                   "Open{Search};"
+            ],
+            "date_published": "2021-01-02T11:58:06-05:00",
+            "date_modified": "2021-01-02T11:58:36-05:00"
+        },
+        {
             "id": "https://thecrafters001.github.io/happy-new-year/",
             "url": "https://thecrafters001.github.io/happy-new-year/",
             "title": "Happy New Year!",

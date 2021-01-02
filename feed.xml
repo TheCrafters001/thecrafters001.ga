@@ -3,12 +3,37 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2021-01-01T00:15:26-05:00</updated>
+    <updated>2021-01-02T11:58:36-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.github.io</id>
 
+    <entry>
+        <title>Open{Search}; has a new site design!</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/opensearch-has-a-new-site-design/"/>
+        <id>https://thecrafters001.github.io/opensearch-has-a-new-site-design/</id>
+            <category term="Website"/>
+            <category term="Software"/>
+            <category term="Open{Search};"/>
+
+        <updated>2021-01-02T11:58:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thecrafters001.github.io/media/posts/18/openSearch.png" alt="" />
+                    My custom search engine, Open{Search};, has gotten a new site design. Feel free to check it out here.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thecrafters001.github.io/media/posts/18/openSearch.png" alt="" />
+                <p>My custom search engine, Open{Search};, has gotten a new site design. Feel free to check it out <a href="../../../../../../../../../../OpenSearch/">here</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Happy New Year!</title>
         <author>
