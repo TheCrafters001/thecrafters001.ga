@@ -3,7 +3,7 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2021-01-02T11:58:36-05:00</updated>
+    <updated>2021-01-02T12:11:50-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
@@ -41,8 +41,9 @@
         </author>
         <link href="https://thecrafters001.github.io/happy-new-year/"/>
         <id>https://thecrafters001.github.io/happy-new-year/</id>
+            <category term="2021"/>
 
-        <updated>2021-01-01T00:15:26-05:00</updated>
+        <updated>2021-01-02T12:11:50-05:00</updated>
             <summary>
                 <![CDATA[
                     This is all the post was.
