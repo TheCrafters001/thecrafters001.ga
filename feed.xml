@@ -3,7 +3,7 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2021-01-02T12:11:50-05:00</updated>
+    <updated>2021-01-05T10:46:48-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
@@ -211,23 +211,555 @@
         </content>
     </entry>
     <entry>
-        <title>Ugh! Another Website Update?!</title>
+        <title>A review of solicus&#x27;s InstallForge.</title>
         <author>
             <name>TheCrafters001</name>
         </author>
-        <link href="https://thecrafters001.github.io/ugh-another-website-update/"/>
-        <id>https://thecrafters001.github.io/ugh-another-website-update/</id>
-            <category term="Old Site"/>
+        <link href="https://thecrafters001.github.io/a-review-of-solicuss-installforge/"/>
+        <id>https://thecrafters001.github.io/a-review-of-solicuss-installforge/</id>
+            <category term="solicus"/>
+            <category term="Software"/>
+            <category term="Reviews"/>
+            <category term="Installer"/>
 
-        <updated>2020-12-31T17:58:00-05:00</updated>
+        <updated>2021-01-05T10:46:29-05:00</updated>
             <summary>
                 <![CDATA[
-                    Yeah, I updated the website design again. However I have WAY more control over what I can do. I know it is annoying to have to deal with the website changing every three months, but I am happy with the way that Vapid generates the&hellip;
+                    Hello again! This review is on InstallForge. Another Installer creation tool. In this review I will specifically be talking about version 1.4.2.21, so later versions may change. First Impression So, my first impression is kinda underwhelming. When you start the program, it takes you to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Yeah, I updated the website design again. However I have WAY more control over what I can do. I know it is annoying to have to deal with the website changing every three months, but I am happy with the way that <a href="http://vapid.com" rel="noopener noreferrer" target="_blank">Vapid</a> generates the site! So I think this will be the final design for a while.</p>
+                <div class="content-viewer fireside-post-article-content" data-v-6e52f394="" data-v-7b7ea4b2="">
+<div data-v-6e52f394="">
+<p>Hello again! This review is on InstallForge. Another Installer creation tool. In this review I will specifically be talking about version 1.4.2.21, so later versions may change.</p>
+<p>First Impression</p>
+<p>So, my first impression is kinda underwhelming. When you start the program, it takes you to General information, where you can put in your Product Name, Version, Company name, Website URL, and supported OSs.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_pwec1kfkvi.png" src="https://m.gjcdn.net/content/700/5034170-ll-zvd4bzkt-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_pwec1kfkvi.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>The UI is easy to understand, at least. So, I am going to fill in some of the basic information. Once you fill in the General information, you go to User Interface, which has 4 options. Wizard Image, Header Image, Show horizontal line, and Enable Visual Styles. The images are a nice touch for branding, but over all, there really isn't much here.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_p3gt6cz2y9.png" src="https://m.gjcdn.net/content/700/5034203-9uza5itj-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_p3gt6cz2y9.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Once you select the user interface options, you get languages. This is if you have multi-language support for you app.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_xvqqqn5fmo.png" src="https://m.gjcdn.net/content/700/5034217-ll-syjfzhdp-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_xvqqqn5fmo.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>I am just going to select all of them for the sake of this review. But there really isn't much of a choice, unless you download more, which I find a shame.</p>
+<p>Now that the General Tab is out of the way, time to get the the good part, the files.</p>
+<p>You can add your files to your app with a simple click of the "Add Files" button, or with the "Add Folder" button. You select the files you want, and then you can change the default Install folder, and have it so if you want to allow the user to change the install path or not. That comes in handy for those who want to install programs on different drives.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_u0vsp2jlls.png" src="https://m.gjcdn.net/content/700/5034256-ll-pfvsyxqd-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_u0vsp2jlls.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Personally, I would prefer a UI like this over what ClickTeam made. It just is more functional that what ClickTeam's Install Creator uses.</p>
+<p>Moving right on to a very interesting feature, they call it "Visual Update Express".</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_uz9fsououq.png" src="https://m.gjcdn.net/content/700/5034282-ll-p9arbnzu-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_uz9fsououq.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>What it allows you to do is include an update program that will search for updates, and apply the updates automatically.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ezgifcom-gif-maker.gif" src="https://i.gjcdn.net/data/fireside/posts/42/88/2637838/media/ezgifcom-gif-maker-tpwnebug.gif" data-is-external-image="true"  alt="ezgifcom-gif-maker.gif" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>I find it really neat, however, due to the <a rel="nofollow noopener" target="_blank" href="https://installforge.net/support/docscategory/visual-update-express/" title="https://installforge.net/support/docscategory/visual-update-express/">lack of documentation</a>, I don't really understand it.</p>
+<p>Next we have the Uninstallation tab.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_e938ajiyop.png" src="https://m.gjcdn.net/content/700/5034384-ll-jhbngjnm-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_e938ajiyop.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>It allows you to include an uninstaller, which I am going to include. But it will also run other stuff, such as include an icon, and open a website. While it is neat, the uninstaller does lack the ability to delete other files created by programs.</p>
+<p>Then we have Variables.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_ennehwsekm.png" src="https://m.gjcdn.net/content/700/5034402-uz2cwy6x-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_ennehwsekm.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Variables are just a different name for Registry tweaks. But for the sake of this review, I am going to skip it.</p>
+<p>Next we have commands, which allow you to execute applications, and use Shell Execution. This is for stuff such as CLIs that may need to be updated, because the installer carries an out-of-date version of it.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_otemxnjzpu.png" src="https://m.gjcdn.net/content/700/5034414-yagzbqwk-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_otemxnjzpu.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Then we get to Dialogs. You can make a splash screen, which no-one uses. The only place I have seen a splash screen dialog is on Malware.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_sx7a51cw90.png" src="https://m.gjcdn.net/content/700/5034426-fbt7svte-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_sx7a51cw90.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Then you have your license, which does allow RichTextFiles to be added, which can come in handy for licenses such as GNU GPL v3.0</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_dcmsxnvsub.png" src="https://m.gjcdn.net/content/700/5034441-ll-7xhcr6wa-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_dcmsxnvsub.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Then you get the option for Serial Validation, or Product Keys. This has to be the best way I have seen product key implementation be added. It is much easier to use than what ClickTeam had.</p>
+<p>All you do is type in the amount of keys you want to generate, create your Serial Mask, then just click generate.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_vs1kzmcggj.png" src="https://m.gjcdn.net/content/700/5034459-ll-c9dyzber-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_vs1kzmcggj.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>You can even add your own custom keys, save them, and open them. This is just the coolest way I have seen yet.</p>
+<p>Once you create your product keys, you move on to the "Finish" tab, which allows you to run your app at the end of the setup with that little check mark box.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_kvs4hgvssu.png" src="https://m.gjcdn.net/content/700/5034471-amivjigh-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_kvs4hgvssu.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Honestly, this way of doing it is relatively simple, but can be effective.</p>
+<p>Next we move on to the System part on the side bar, which includes the Registry editor, and shortcut creator. I am going to ignore the regedit part. The shortcut creator is a little confusing at times, but it does the job. To create a shortcut, click the add button, and a menu appears.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_as8r3xqfy3.png" src="https://m.gjcdn.net/content/500/5034490-ll-fecfhzfj-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_as8r3xqfy3.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>It isn't the best way in doing it, but I think it gets the job done. Plus if you are just doing a quick and dirty job of this installer anyways, you don't need these.</p>
+<p>Aannnddd finally, we can build our setup. Here you can select where you want to save your setup file, and what icons you want to have for your setup and uninstaller. And even select your compression method.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_0ii1ocigaf.png" src="https://m.gjcdn.net/content/700/5034507-ll-2jqk3v5q-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_0ii1ocigaf.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>I am going to leave most of it alone, except for the setup file output. Once it is built, it will ask you if you want to run it.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="ifbuilderenvx86_thk2dhdhrv.png" src="https://m.gjcdn.net/content/700/5034520-ll-uq4nfauv-v4.webp" data-is-external-image="true"  alt="ifbuilderenvx86_thk2dhdhrv.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>In this case, yes I do. When I run it, I get the language select, and then the installer. And here it is:</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="67c07yongs.gif" src="https://i.gjcdn.net/data/fireside/posts/42/88/2637838/media/67c07yongs-xvvx4jqu.gif" data-is-external-image="true"  alt="67c07yongs.gif" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>It isn't the fastest, but it did install the program. And you can even uninstall it, which is WAY faster than installing it.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="gcltb9xvat.gif" src="https://i.gjcdn.net/data/fireside/posts/42/88/2637838/media/gcltb9xvat-nbwyse3b.gif" data-is-external-image="true"  alt="gcltb9xvat.gif" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>So, I like this program, but I don't use it as my go-to. I prefer a more complex solution that works way better in my opinion, which, I will be reviewing soon. I just need to get through a few more before I get to it.</p>
+<p>Would I use this? Yes, but only if I needed to do something quick and dirty. But I don't use it right now, as I have no use for it. But if you want to check it out, you can go here: <a rel="nofollow noopener" target="_blank" href="https://installforge.net/download/" title="https://installforge.net/download/">https://installforge.net/download/</a>.</p>
+<p>This is free software, which surprises me, as most solutions like this are not free. Overall, I like this.</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A review of ClickTeam Install Creator</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/a-review-of-clickteam-install-creator/"/>
+        <id>https://thecrafters001.github.io/a-review-of-clickteam-install-creator/</id>
+            <category term="Software"/>
+            <category term="Reviews"/>
+            <category term="Installer"/>
+            <category term="ClickTeam"/>
+
+        <updated>2021-01-05T10:46:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thecrafters001.github.io/media/posts/19/ic2-product.jpg" alt="Install Creator 2 Logo" />
+                    Ah, ClickTeam, the creators of a overly complicated game engine that doubles as a software compiler. They made a software that allows users to create installers for their programs. While I am not against it, I don't think it is the best option for me.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thecrafters001.github.io/media/posts/19/ic2-product.jpg" alt="Install Creator 2 Logo" />
+                <div class="content-viewer fireside-post-article-content" data-v-6e52f394="" data-v-7b7ea4b2="">
+<div data-v-6e52f394="">
+<p>Ah, ClickTeam, the creators of a overly complicated game engine that doubles as a software compiler. They made a software that allows users to create installers for their programs. While I am not against it, I don't think it is the best option for me. When you first install the program, you are greeted with the simple UI.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_yhpfpysois.png" src="https://m.gjcdn.net/content/700/4984888-ll-gzjvjxmh-v4.webp" data-is-external-image="true"  alt="icp_yhpfpysois.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Now, don't get me wrong, it is nice looking, but I haven't even gotten half way through this review yet.</p>
+<p>Setup</p>
+<p>Upon first launch, you get a Welcome wizard. This wizard helps you make the installation file. First, we get the directory selection. This is where you select the compiled files for your program.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_m2yfunrb8s.png" src="https://m.gjcdn.net/content/600/4984911-ll-yxi3fz9u-v4.webp" data-is-external-image="true"  alt="icp_m2yfunrb8s.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>You even get the option for including Sub Directories. After you select the directory, you go to the next part, which is where you choose your language, and the name of your product.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_nivxovryly.png" src="https://m.gjcdn.net/content/600/4984931-ll-m8hqixqa-v4.webp" data-is-external-image="true"  alt="icp_nivxovryly.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>They give you a preview button. This is a feature I haven't seen on any other install creator ever. When you click Preview, you get... well... a preview of your install wizard.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="tmpdddbtmp_snlltoptso.png" src="https://m.gjcdn.net/content/500/4984950-ll-hkhdugwh-v4.webp" data-is-external-image="true"  alt="tmpdddbtmp_snlltoptso.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>It creates it as a temporary exe, that will be deleted as soon as you close the preview. Now, because the installer isn't done, you don't get to see the whole thing. Most parts of the setup wizard allow you to preview it, so I won't go through most of it.</p>
+<p>After that, you get the Version name, along side with product key generation.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_xanbkun4ji.png" src="https://m.gjcdn.net/content/600/4984984-ll-gsjubiwf-v4.webp" data-is-external-image="true"  alt="icp_xanbkun4ji.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>While yes, product key generation is good to have, I think they over simplify it. After creating your version name, and product key, if you want, you get to select your Window format. You get three options:</p>
+<ol>
+<li>
+<p>No Window (quiet install)</p>
+</li>
+<li>
+<p>Small</p>
+</li>
+<li>
+<p>Full screen.</p>
+</li>
+</ol>
+<p>Small gives you a window like the preview above, while full screen gives you this:</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="tmpdddbtmp_pav7svhxfi.png" src="https://m.gjcdn.net/content/700/4985024-ngnd5kzm-v4.webp" data-is-external-image="true"  alt="tmpdddbtmp_pav7svhxfi.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>While, yes, you can select this, I don't think you should. I find it intrusive.</p>
+<p>A bonus of Install Creator, is you can choose a Wizard Template. You get (again) three options.</p>
+<ol>
+<li>
+<p>Default</p>
+</li>
+<li>
+<p>Classic - With Bitmap</p>
+</li>
+<li>
+<p>Classic - Without Bitmap</p>
+</li>
+</ol>
+<p>Personally, I like to looks of the classic one, with the BMP file. It gives me a Windows 98-feel to it.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="tmpdddbtmp_lyxx2patxf.png" src="https://m.gjcdn.net/content/500/4985083-ll-acjz6xca-v4.webp" data-is-external-image="true"  alt="tmpdddbtmp_lyxx2patxf.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>I have always liked the look of "classic" styles.</p>
+<p>After you select your style, you get two optional textbox entries. Information, and License.</p>
+<p>I don't have any info for the program I am using this test installer for, so I am going to skit it, and for the license, I am just going to say "Do what you want."</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="tmpdddbtmp_f846gq9bbf.png" src="https://m.gjcdn.net/content/500/4985151-ll-vugbetbp-v4.webp" data-is-external-image="true"  alt="tmpdddbtmp_f846gq9bbf.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Now that, is a good lookin' license page. After that, you select your installation location. Along side with Registry keys and INI files. I am going to ignore the INI files and Registry keys, I never really understood them with any of the installer creation software.</p>
+<p>Once you select your Install location, you are brought to a window where you can create shortcuts.</p>
+<p>It isn't filled in by default, but I went ahead and filled in the info that I want.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_mbdvqiazoz.png" src="https://m.gjcdn.net/content/600/4985211-ll-dhiit6qx-v4.webp" data-is-external-image="true"  alt="icp_mbdvqiazoz.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Then you get the end page. You get the Read Me button, and the Run Program check box. I am going to not do this step.</p>
+<p>You will get prompted if you want to include an uninstaller, I will leave it checked.</p>
+<p>You will then get prompted if you want to make a "other version". This is useful if you want to include a registered and unregistered version of the software in one single packge. I am not going to make another version.</p>
+<p>And after all that, you get to finally build you Installer. But because I am not done, I am going to check "Do not build the Install program."</p>
+<p>Main Editor</p>
+<p>Now comes the real part. The main editor.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_gciqtotipd.png" src="https://m.gjcdn.net/content/700/4985289-ll-utrg3zrt-v4.webp" data-is-external-image="true"  alt="icp_gciqtotipd.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Overall impression? Underwhelming.</p>
+<p>From here you can add more source directories if you need to include files from folders not in the main directory, not including sub directories. You may notice the little file options menu down there.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_kogcs2w5pm.png" src="https://m.gjcdn.net/content/400/4985317-ll-snf5urxv-v4.webp" data-is-external-image="true"  alt="icp_kogcs2w5pm.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>This is where you select what attributes should occur when the installer puts the file on your system.</p>
+<p>This is where you can also select extra tasks on the View/Run tab, where you can select what programs should be viewed, or ran, depending on specific conditions.</p>
+<p>The misc tab also contains if you want to install the file, or not, uninstall the file or not, etc.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_u3zayoyoqt.png" src="https://m.gjcdn.net/content/400/4985358-ll-9hfhrwx3-v4.webp" data-is-external-image="true"  alt="icp_u3zayoyoqt.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>While you change things in the file options, it will give you a visual ID for each thing you select in the file list.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_hxtlta59hy.png" src="https://m.gjcdn.net/content/200/4985382-ll-qg5cqfkt-v4.webp" data-is-external-image="true"  alt="icp_hxtlta59hy.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Wizard Text</p>
+<p>You can change almost all the text in the installer. But that depends on what you want/need.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_zysadqrx7v.png" src="https://m.gjcdn.net/content/700/4985401-ll-ataxzqps-v4.webp" data-is-external-image="true"  alt="icp_zysadqrx7v.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Lets say I want to change the little window title that says "Welcome to the <a href="https://gamejolt.com/search?q=%23title" class="">#title</a> Install Program" to "Thanks for downloading <a href="https://gamejolt.com/search?q=%23title" class="">#title</a>", it is as simple as changing the text.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_crqdxhivms.png" src="https://m.gjcdn.net/content/300/4985422-ll-nhvzesse-v4.webp" data-is-external-image="true"  alt="icp_crqdxhivms.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>And the changes are reflected in the preview.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="tmpdddbtmp_ufhlsnjhuv.png" src="https://m.gjcdn.net/content/500/4985429-ll-zaqcz7wu-v4.webp" data-is-external-image="true"  alt="tmpdddbtmp_ufhlsnjhuv.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>That simple.</p>
+<p>I am going to gloss over the Window, Options, and Install Info tabs, as they were setup via the welcome wizard.</p>
+<p>Next you get the Uninstaller.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="icp_vrfcvavpkj.png" src="https://m.gjcdn.net/content/500/4985447-ll-c99ps7zr-v4.webp" data-is-external-image="true"  alt="icp_vrfcvavpkj.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>First off, I hate that it is called Uninstal.exe by default. After fixing that problem, you can select the icon, which I am not going to do. Then you get all your basic options.</p>
+<p>Before building, you may want to TEST you installer. Install Creator has a feature, where you don't need to install the program to test the installer. Simply, click the test button at the tool bar.</p>
+<p>And now you have a functional test installer.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="cnrjefqiw2.gif" src="https://i.gjcdn.net/data/fireside/posts/41/119/2598869/media/cnrjefqiw2-ypucedzm.gif" data-is-external-image="true"  alt="cnrjefqiw2.gif" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Now, granted it skips the whole install process entirely, but it is still a cool feature. Now let's build the installer.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="cctcz2qqek.gif" src="https://i.gjcdn.net/data/fireside/posts/41/119/2598869/media/cctcz2qqek-debzjrsj.gif" data-is-external-image="true"  alt="cctcz2qqek.gif" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>The build time isn't the best, but hey, look. I have my fully built installer, that will actually put files on my system.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="7b4bqtmscm.gif" src="https://i.gjcdn.net/data/fireside/posts/41/119/2598869/media/7b4bqtmscm-twa4puef.gif" data-is-external-image="true"  alt="7b4bqtmscm.gif" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>And you even get the uninstaller, as promised.</p>
+<div class="base-content-component" data-v-b229fa8a="" data-v-ab099602="">
+<div class="media-item" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-container -zoomable" data-v-ab099602="" data-v-b229fa8a="">
+<div class="media-item-backdrop -lg" data-v-7247daef="" data-v-ab099602="">
+<div class="-color -lg" data-v-7247daef=""> </div>
+<div class="-img-container" data-v-ab099602="" data-v-7247daef=""><figure class="img-responsive content-image"><img loading="lazy"  title="uninstal_xmwno7i7ec.png" src="https://m.gjcdn.net/content/500/4985662-ll-zahuzrmi-v4.webp" data-is-external-image="true"  alt="uninstal_xmwno7i7ec.png" data-v-ab099602="" data-v-7247daef=""></figure></div>
+</div>
+</div>
+</div>
+</div>
+<p>Now, I skipped a bit where you can create users for your product keys, but because I wasn't using the product key feature, I didn't feel like it mattered. I couldn't get it working anyways.</p>
+<p>My Thoughts</p>
+<p>Overall, I think ClickTeam Install Creator is good for beginners, looking for a simple way to make an installer. It does have its flaws, but I think it is a good start none the less.</p>
+<p>Now, would I personally use this now-a-days? No, not really.</p>
+<p>I am using a program that works much better for me.</p>
+<hr>
+<p>Side Note:</p>
+<p>I will be doing more reviews on other installer creation software later. I hope you enjoyed reading this one.</p>
+</div>
+</div>
             ]]>
         </content>
     </entry>
