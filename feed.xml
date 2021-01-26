@@ -3,12 +3,31 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2021-01-06T10:01:14-05:00</updated>
+    <updated>2021-01-25T20:31:57-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.github.io</id>
 
+    <entry>
+        <title>Keep Control: The Admin</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/keep-control-the-admin/"/>
+        <id>https://thecrafters001.github.io/keep-control-the-admin/</id>
+            <category term="Keep Control"/>
+            <category term="Games"/>
+
+        <updated>2021-01-25T20:31:57-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thecrafters001.github.io/media/posts/24/trailer_Promo.png" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/4D6m7lwyq70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Software Page Updated</title>
         <author>
@@ -231,37 +250,6 @@
                 <p>Hi. Me again. I know that this site seems a bit... well... very different.</p>
 
 <p>That is because I actually swapped back to Publii (god, I need to find a solution and stick with it). Anyways... this is my new website. It looks very different. I really want to make my own theme for Publii, but I don't know how, as the code is confusing to look at. Anyways... yeah. That is about it. Right now this is the only thing on the website, aside from one other page, but I kinda need that one.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The future of TheCrafters001 Flash Player.</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.github.io/the-future-of-thecrafters001-flash-player/"/>
-        <id>https://thecrafters001.github.io/the-future-of-thecrafters001-flash-player/</id>
-            <category term="TheCrafters001 Flash Player 2"/>
-            <category term="Software"/>
-            <category term="Flash"/>
-
-        <updated>2020-12-31T22:38:58-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>A while ago, I made an announcement that TheCrafters001 Flash Player 3 would be coming, using the Electron Framework.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>A while ago, I made an announcement that TheCrafters001 Flash Player 3 would be coming, using the Electron Framework.</p>
-
-<p>Well, I am sad to say, that will not be happening. I will not be supporting TheCrafters001 Flash Player anymore. And with that, you can still use my tool to play flash games, but I don't think it will do any good, because at some point, Microsoft will be removing Flash compatibility from Windows. I know this sucks. But that doesn't mean you still can't play your favorite games.</p>
-<p>I recommend that you use <a rel="nofollow noopener" target="_blank" href="https://bluemaxima.org/flashpoint/" title="https://bluemaxima.org/flashpoint/">BlueMaxima's Flashpoint</a>. It is an open-source, free to use, software. The goal of this project is to keep Flash alive.</p>
-<p>I use my own tool I made to play flash games, but I guess it is time to move on with the times. As of today, December 31st, 2020, Adobe will officially kill Flash Player, and soon all major browsers will get updates that remove Flash Player from them.</p>
-<p>This sucks, use, but we have to accept that Flash isn't supported anymore. But if you still want to play your favorite games, check out Flashpoint. As of this post, they have over <em><strong>80 THOUSAND</strong></em> games archived.</p>
-<p>And if you are worried about your data, don't be. All the software does is download the flash game to your computer, and runs them. And games that are site-locked, will be hosted inside your machine.</p>
-<p>I am sorry to bring you this news on New Years Eve, but it is the truth we all have to accept now, Flash Player, is officially dead.</p>
             ]]>
         </content>
     </entry>

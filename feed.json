@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://thecrafters001.github.io/keep-control-the-admin/",
+            "url": "https://thecrafters001.github.io/keep-control-the-admin/",
+            "title": "Keep Control: The Admin",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/4D6m7lwyq70\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://thecrafters001.github.io/media/posts/24/trailer_Promo.png",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+                   "Keep Control",
+                   "Games"
+            ],
+            "date_published": "2021-01-24T20:05:00-05:00",
+            "date_modified": "2021-01-25T20:31:57-05:00"
+        },
+        {
             "id": "https://thecrafters001.github.io/software-page-updated/",
             "url": "https://thecrafters001.github.io/software-page-updated/",
             "title": "Software Page Updated",
@@ -156,23 +172,6 @@
             ],
             "date_published": "2020-12-31T16:42:03-05:00",
             "date_modified": "2020-12-31T22:00:08-05:00"
-        },
-        {
-            "id": "https://thecrafters001.github.io/the-future-of-thecrafters001-flash-player/",
-            "url": "https://thecrafters001.github.io/the-future-of-thecrafters001-flash-player/",
-            "title": "The future of TheCrafters001 Flash Player.",
-            "summary": "<p>A while ago, I made an announcement that TheCrafters001 Flash Player 3 would be coming, using the Electron Framework.</p>\n",
-            "content_html": "<p>A while ago, I made an announcement that TheCrafters001 Flash Player 3 would be coming, using the Electron Framework.</p>\n\n<p>Well, I am sad to say, that will not be happening. I will not be supporting TheCrafters001 Flash Player anymore. And with that, you can still use my tool to play flash games, but I don't think it will do any good, because at some point, Microsoft will be removing Flash compatibility from Windows. I know this sucks. But that doesn't mean you still can't play your favorite games.</p>\n<p>I recommend that you use <a rel=\"nofollow noopener\" target=\"_blank\" href=\"https://bluemaxima.org/flashpoint/\" title=\"https://bluemaxima.org/flashpoint/\">BlueMaxima's Flashpoint</a>. It is an open-source, free to use, software. The goal of this project is to keep Flash alive.</p>\n<p>I use my own tool I made to play flash games, but I guess it is time to move on with the times. As of today, December 31st, 2020, Adobe will officially kill Flash Player, and soon all major browsers will get updates that remove Flash Player from them.</p>\n<p>This sucks, use, but we have to accept that Flash isn't supported anymore. But if you still want to play your favorite games, check out Flashpoint. As of this post, they have over <em><strong>80 THOUSAND</strong></em> games archived.</p>\n<p>And if you are worried about your data, don't be. All the software does is download the flash game to your computer, and runs them. And games that are site-locked, will be hosted inside your machine.</p>\n<p>I am sorry to bring you this news on New Years Eve, but it is the truth we all have to accept now, Flash Player, is officially dead.</p>",
-            "author": {
-                "name": "TheCrafters001"
-            },
-            "tags": [
-                   "TheCrafters001 Flash Player 2",
-                   "Software",
-                   "Flash"
-            ],
-            "date_published": "2020-12-31T12:29:00-05:00",
-            "date_modified": "2020-12-31T22:38:58-05:00"
         }
     ]
 }
