@@ -1,0 +1,13 @@
+﻿<div class="container">
+    <h1>EasyGit</h1>
+    <p>Welcome to EasyGit! If you are reading this, then that means it is your first time using <a href="http://gitforwindows.org">Git</a>, and you need help setting up EasyGit.</p>
+    <p>We will need to setup your user on EasyGit, that way, when you go to push a change, EasyGit will know how to push the changes to your repository.</p>
+    <p>Let's begin. To setup your user, launch EasyGit (via the Easy Software Suite Launcher), and click the "Set user" tab at the top.
+    Once you have done that, enter in your username, and your READ ONLY GitHub email.</p>
+    <p><b>Do not enter your personal email!</b> To find your GitHub email, go to your <a href="http://github.com/settings/emails">email settings</a>, and look for "Keep my email addresses private".
+    This will give you your GitHub email.</p>
+    <img src="https://docs.github.com/assets/images/help/settings/email_privacy.png" />
+    <p>Image Source: GitHub</p>
+    <p>Enter this, along side with your username into EasyGit, click set user, and your all set! Do note that you DO NOT need to do this every time. You only have to do it one time.
+    Then you never need to set it again on that machine.</p>
+</div>
