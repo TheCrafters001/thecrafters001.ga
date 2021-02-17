@@ -5,7 +5,7 @@
     "home_page_url": "https://thecrafters001.github.io",
     "feed_url": "https://thecrafters001.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://thecrafters001.github.io/media/website/Logo_Full-2.png",
+    "icon": "https://thecrafters001.github.io/media/website/Logo_Full-3.png",
     "author": {
         "name": "TheCrafters001"
     },
@@ -14,22 +14,25 @@
             "id": "https://thecrafters001.github.io/3000-members/",
             "url": "https://thecrafters001.github.io/3000-members/",
             "title": "3,000 Members?!",
-            "summary": "How the heck did we manage to get over 1,000 members on my Game Jolt community in less than 3 days?! I... I have no words!",
-            "content_html": "<p>How the heck did we manage to get over 1,000 members on my Game Jolt community in less than 3 days?!</p>\n<p>I... I have no words!</p>",
+            "summary": "How the heck did we manage to get over 1,000 members on&hellip;",
+            "content_html": "<p>How the heck did we manage to get over 1,000 members on my Game Jolt community in less than 3 days?!</p>\n<p>I... I have no words!</p>\n<p> </p>\n<p>(Featured Image by Game Jolt &amp; Essentials.TF)</p>",
             "image": "https://thecrafters001.github.io/media/posts/27/email-fmhjihg71.jpg",
             "author": {
                 "name": "TheCrafters001"
             },
             "tags": [
+                   "Team Fortress 2",
+                   "Games",
+                   "Game Jolt"
             ],
             "date_published": "2021-02-17T13:38:23-05:00",
-            "date_modified": "2021-02-17T13:38:23-05:00"
+            "date_modified": "2021-02-17T13:40:47-05:00"
         },
         {
             "id": "https://thecrafters001.github.io/team-fortress-2-community-featured/",
             "url": "https://thecrafters001.github.io/team-fortress-2-community-featured/",
             "title": "Team Fortress 2 Community Featured!",
-            "summary": "Hello everyone! I am proud to say that my Team Fortress 2 Community on Game Jolt has been Featured! I would like to thank Essentials.TF and Game Jolt for featuring my community on Game Jolt! KaBOOM to you! It is the dominatening! Show us that diet&hellip;",
+            "summary": "Hello everyone! I am proud to say that my Team Fortress 2&hellip;",
             "content_html": "<p>Hello everyone!</p>\n<p>I am proud to say that my Team Fortress 2 Community on Game Jolt has been Featured! I would like to thank E<span class=\"link-complex-target\">ssentials.TF</span> and Game Jolt for featuring my community on Game Jolt!</p>\n<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\">\n<p dir=\"ltr\" lang=\"en\">KaBOOM to you! It is the dominatening! Show us that diet you call DEATH for the Best Kill Video Challenge in the TF2 Community on Game Jolt and unlock the TF2 sticky!<a href=\"https://t.co/NgvNf53iif\">https://t.co/NgvNf53iif</a><br>mhmm-mhmm-mhmm I'm DEAD!<a href=\"https://twitter.com/hashtag/tf2?src=hash&amp;ref_src=twsrc%5Etfw\">#tf2</a> <a href=\"https://twitter.com/hashtag/community?src=hash&amp;ref_src=twsrc%5Etfw\">#community</a> <a href=\"https://twitter.com/hashtag/video?src=hash&amp;ref_src=twsrc%5Etfw\">#video</a> <a href=\"https://twitter.com/hashtag/challenge?src=hash&amp;ref_src=twsrc%5Etfw\">#challenge</a> <a href=\"https://t.co/wBveDvcio3\">pic.twitter.com/wBveDvcio3</a></p>\n— Game Jolt (@gamejolt) <a href=\"https://twitter.com/gamejolt/status/1361421821661208577?ref_src=twsrc%5Etfw\">February 15, 2021</a></blockquote>\n<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\">\n<p dir=\"ltr\" lang=\"en\">We’ve also Teamed up with <a href=\"https://twitter.com/gamejolt?ref_src=twsrc%5Etfw\">@GameJolt</a> to host a Best TF2 Kill Video Challenge! <br><br>Head on over to <a href=\"https://t.co/HpM9Spoc6j\">https://t.co/HpM9Spoc6j</a> to join the community and post your frags! <a href=\"https://t.co/6L2gEIhHzN\">pic.twitter.com/6L2gEIhHzN</a></p>\n— EssentialsTF (@TF2Essentials) <a href=\"https://twitter.com/TF2Essentials/status/1361406862311235593?ref_src=twsrc%5Etfw\">February 15, 2021</a></blockquote>\n<p>Now, get out there, and earn some kills! Don't forget to show your best kills on the TF2 Community!</p>\n<p> </p>\n<p>(Featured Image by Game Jolt &amp; Essentials.TF)</p>",
             "image": "https://thecrafters001.github.io/media/posts/26/email-fmhjihg71.jpg",
             "author": {
@@ -63,7 +66,7 @@
             "id": "https://thecrafters001.github.io/software-page-updated/",
             "url": "https://thecrafters001.github.io/software-page-updated/",
             "title": "Software Page Updated",
-            "summary": "So I updated the Software Page on my website, because I actually updated some stuff on other distro platforms, so... yeah.",
+            "summary": "So I updated the Software Page on my website, because I actually&hellip;",
             "content_html": "<p>So I updated the Software Page on my website, because I actually updated some stuff on other distro platforms, so... yeah.</p>",
             "author": {
                 "name": "TheCrafters001"
@@ -95,7 +98,7 @@
             "id": "https://thecrafters001.github.io/opensearch-has-a-new-site-design/",
             "url": "https://thecrafters001.github.io/opensearch-has-a-new-site-design/",
             "title": "Open{Search}; has a new site design!",
-            "summary": "My custom search engine, Open{Search};, has gotten a new site design. Feel free to check it out here.",
+            "summary": "My custom search engine, Open{Search};, has gotten a new site design. Feel&hellip;",
             "content_html": "<p>My custom search engine, Open{Search};, has gotten a new site design. Feel free to check it out <a href=\"../../../../../../../../../../OpenSearch/\">here</a>.</p>",
             "image": "https://thecrafters001.github.io/media/posts/18/openSearch.png",
             "author": {
@@ -128,7 +131,7 @@
             "id": "https://thecrafters001.github.io/last-post-for-2020-a-post-will-be-made-in-2021/",
             "url": "https://thecrafters001.github.io/last-post-for-2020-a-post-will-be-made-in-2021/",
             "title": "Last post for 2020. (A post will be made in 2021.)",
-            "summary": "This year has been hard for many people. There is no denying that. Not everyone got COVID-19, but my heart goes out to those who were. And I would like to say, thank you, everyone. For everything that everyone has done to help make the&hellip;",
+            "summary": "This year has been hard for many people. There is no denying&hellip;",
             "content_html": "<div class=\"content-viewer fireside-post-article-content\" data-v-6e52f394=\"\" data-v-7b7ea4b2=\"\">\n<div data-v-6e52f394=\"\">\n<p>This year has been hard for many people. There is no denying that. Not everyone got COVID-19, but my heart goes out to those who were. And I would like to say, thank you, everyone. For everything that everyone has done to help make the Internet a better place throughout this whole Pandemic.</p>\n<p>The TF2 Community is still in shock over what happened to Rick May. For those who don't know, Rick May was the voice of Soldier in a game called Team Fortress 2. He passed away due to COVID-19 on April 13th, 2020.</p>\n<p>This year has been hard. Here is to a better year next year.</p>\n</div>\n</div>",
             "author": {
                 "name": "TheCrafters001"
@@ -164,7 +167,7 @@
             "id": "https://thecrafters001.github.io/ill-never-forget/",
             "url": "https://thecrafters001.github.io/ill-never-forget/",
             "title": "I&#x27;ll never forget...",
-            "content_html": "\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thecrafters001.github.io/media/posts/12/GoodbyeOldFriend-2.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-xs.png 300w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-sm.png 480w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-md.png 768w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-lg.png 1024w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-xl.png 1360w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-2xl.png 1600w\"  alt=\"\" width=\"1000\" height=\"1000\"></figure>",
+            "content_html": "\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thecrafters001.github.io/media/posts/12/GoodbyeOldFriend-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-xs.png 300w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-sm.png 480w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-md.png 768w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-lg.png 1024w\"  alt=\"\" width=\"1000\" height=\"1000\"></figure>",
             "author": {
                 "name": "TheCrafters001"
             },

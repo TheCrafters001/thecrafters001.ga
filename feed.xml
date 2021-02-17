@@ -3,7 +3,7 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2021-02-17T13:38:23-05:00</updated>
+    <updated>2021-02-17T13:40:47-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
@@ -16,12 +16,15 @@
         </author>
         <link href="https://thecrafters001.github.io/3000-members/"/>
         <id>https://thecrafters001.github.io/3000-members/</id>
+            <category term="Team Fortress 2"/>
+            <category term="Games"/>
+            <category term="Game Jolt"/>
 
-        <updated>2021-02-17T13:38:23-05:00</updated>
+        <updated>2021-02-17T13:40:47-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thecrafters001.github.io/media/posts/27/email-fmhjihg71.jpg" alt="" />
-                    How the heck did we manage to get over 1,000 members on my Game Jolt community in less than 3 days?! I... I have no words!
+                    How the heck did we manage to get over 1,000 members on&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -29,6 +32,8 @@
                     <img src="https://thecrafters001.github.io/media/posts/27/email-fmhjihg71.jpg" alt="" />
                 <p>How the heck did we manage to get over 1,000 members on my Game Jolt community in less than 3 days?!</p>
 <p>I... I have no words!</p>
+<p> </p>
+<p>(Featured Image by Game Jolt &amp; Essentials.TF)</p>
             ]]>
         </content>
     </entry>
@@ -47,7 +52,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://thecrafters001.github.io/media/posts/26/email-fmhjihg71.jpg" alt="Promo Immage" />
-                    Hello everyone! I am proud to say that my Team Fortress 2 Community on Game Jolt has been Featured! I would like to thank Essentials.TF and Game Jolt for featuring my community on Game Jolt! KaBOOM to you! It is the dominatening! Show us that diet&hellip;
+                    Hello everyone! I am proud to say that my Team Fortress 2&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -98,7 +103,7 @@
         <updated>2021-01-06T10:01:14-05:00</updated>
             <summary>
                 <![CDATA[
-                    So I updated the Software Page on my website, because I actually updated some stuff on other distro platforms, so... yeah.
+                    So I updated the Software Page on my website, because I actually&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -156,7 +161,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://thecrafters001.github.io/media/posts/18/openSearch.png" alt="" />
-                    My custom search engine, Open{Search};, has gotten a new site design. Feel free to check it out here.
+                    My custom search engine, Open{Search};, has gotten a new site design. Feel&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -202,7 +207,7 @@
         <updated>2020-12-31T23:24:45-05:00</updated>
             <summary>
                 <![CDATA[
-                    This year has been hard for many people. There is no denying that. Not everyone got COVID-19, but my heart goes out to those who were. And I would like to say, thank you, everyone. For everything that everyone has done to help make the&hellip;
+                    This year has been hard for many people. There is no denying&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -260,7 +265,7 @@
         <content type="html">
             <![CDATA[
                 
-<figure class="post__image"><img loading="lazy"  src="https://thecrafters001.github.io/media/posts/12/GoodbyeOldFriend-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-xs.png 300w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-sm.png 480w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-md.png 768w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-lg.png 1024w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-xl.png 1360w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-2xl.png 1600w"  alt="" width="1000" height="1000"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://thecrafters001.github.io/media/posts/12/GoodbyeOldFriend-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-xs.png 300w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-sm.png 480w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-md.png 768w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-lg.png 1024w"  alt="" width="1000" height="1000"></figure>
             ]]>
         </content>
     </entry>
