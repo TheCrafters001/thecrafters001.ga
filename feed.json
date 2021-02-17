@@ -11,6 +11,39 @@
     },
     "items": [
         {
+            "id": "https://thecrafters001.github.io/3000-members/",
+            "url": "https://thecrafters001.github.io/3000-members/",
+            "title": "3,000 Members?!",
+            "summary": "How the heck did we manage to get over 1,000 members on my Game Jolt community in less than 3 days?! I... I have no words!",
+            "content_html": "<p>How the heck did we manage to get over 1,000 members on my Game Jolt community in less than 3 days?!</p>\n<p>I... I have no words!</p>",
+            "image": "https://thecrafters001.github.io/media/posts/27/email-fmhjihg71.jpg",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-17T13:38:23-05:00",
+            "date_modified": "2021-02-17T13:38:23-05:00"
+        },
+        {
+            "id": "https://thecrafters001.github.io/team-fortress-2-community-featured/",
+            "url": "https://thecrafters001.github.io/team-fortress-2-community-featured/",
+            "title": "Team Fortress 2 Community Featured!",
+            "summary": "Hello everyone! I am proud to say that my Team Fortress 2 Community on Game Jolt has been Featured! I would like to thank Essentials.TF and Game Jolt for featuring my community on Game Jolt! KaBOOM to you! It is the dominatening! Show us that diet&hellip;",
+            "content_html": "<p>Hello everyone!</p>\n<p>I am proud to say that my Team Fortress 2 Community on Game Jolt has been Featured! I would like to thank E<span class=\"link-complex-target\">ssentials.TF</span> and Game Jolt for featuring my community on Game Jolt!</p>\n<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\">\n<p dir=\"ltr\" lang=\"en\">KaBOOM to you! It is the dominatening! Show us that diet you call DEATH for the Best Kill Video Challenge in the TF2 Community on Game Jolt and unlock the TF2 sticky!<a href=\"https://t.co/NgvNf53iif\">https://t.co/NgvNf53iif</a><br>mhmm-mhmm-mhmm I'm DEAD!<a href=\"https://twitter.com/hashtag/tf2?src=hash&amp;ref_src=twsrc%5Etfw\">#tf2</a> <a href=\"https://twitter.com/hashtag/community?src=hash&amp;ref_src=twsrc%5Etfw\">#community</a> <a href=\"https://twitter.com/hashtag/video?src=hash&amp;ref_src=twsrc%5Etfw\">#video</a> <a href=\"https://twitter.com/hashtag/challenge?src=hash&amp;ref_src=twsrc%5Etfw\">#challenge</a> <a href=\"https://t.co/wBveDvcio3\">pic.twitter.com/wBveDvcio3</a></p>\n— Game Jolt (@gamejolt) <a href=\"https://twitter.com/gamejolt/status/1361421821661208577?ref_src=twsrc%5Etfw\">February 15, 2021</a></blockquote>\n<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\">\n<p dir=\"ltr\" lang=\"en\">We’ve also Teamed up with <a href=\"https://twitter.com/gamejolt?ref_src=twsrc%5Etfw\">@GameJolt</a> to host a Best TF2 Kill Video Challenge! <br><br>Head on over to <a href=\"https://t.co/HpM9Spoc6j\">https://t.co/HpM9Spoc6j</a> to join the community and post your frags! <a href=\"https://t.co/6L2gEIhHzN\">pic.twitter.com/6L2gEIhHzN</a></p>\n— EssentialsTF (@TF2Essentials) <a href=\"https://twitter.com/TF2Essentials/status/1361406862311235593?ref_src=twsrc%5Etfw\">February 15, 2021</a></blockquote>\n<p>Now, get out there, and earn some kills! Don't forget to show your best kills on the TF2 Community!</p>\n<p> </p>\n<p>(Featured Image by Game Jolt &amp; Essentials.TF)</p>",
+            "image": "https://thecrafters001.github.io/media/posts/26/email-fmhjihg71.jpg",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+                   "Team Fortress 2",
+                   "Games",
+                   "Game Jolt"
+            ],
+            "date_published": "2021-02-15T12:57:00-05:00",
+            "date_modified": "2021-02-17T13:34:18-05:00"
+        },
+        {
             "id": "https://thecrafters001.github.io/keep-control-the-admin/",
             "url": "https://thecrafters001.github.io/keep-control-the-admin/",
             "title": "Keep Control: The Admin",
@@ -141,37 +174,6 @@
             ],
             "date_published": "2020-12-31T20:49:47-05:00",
             "date_modified": "2020-12-31T22:35:45-05:00"
-        },
-        {
-            "id": "https://thecrafters001.github.io/site-restoration-in-progress/",
-            "url": "https://thecrafters001.github.io/site-restoration-in-progress/",
-            "title": "Site restoration in progress",
-            "summary": "I know that the site is currently underwhelming, and I am working on it. You may see progressive updates as time goes on.",
-            "content_html": "<p>I know that the site is currently underwhelming, and I am working on it. You may see progressive updates as time goes on.</p>",
-            "author": {
-                "name": "TheCrafters001"
-            },
-            "tags": [
-                   "Website"
-            ],
-            "date_published": "2020-12-31T18:11:03-05:00",
-            "date_modified": "2020-12-31T22:00:21-05:00"
-        },
-        {
-            "id": "https://thecrafters001.github.io/new-website/",
-            "url": "https://thecrafters001.github.io/new-website/",
-            "title": "New Website",
-            "summary": "<p>Hi. Me again. I know that this site seems a bit... well... very different.</p>\n",
-            "content_html": "<p>Hi. Me again. I know that this site seems a bit... well... very different.</p>\n\n<p>That is because I actually swapped back to Publii (god, I need to find a solution and stick with it). Anyways... this is my new website. It looks very different. I really want to make my own theme for Publii, but I don't know how, as the code is confusing to look at. Anyways... yeah. That is about it. Right now this is the only thing on the website, aside from one other page, but I kinda need that one.</p>",
-            "image": "https://thecrafters001.github.io/media/posts/1/Banner.png",
-            "author": {
-                "name": "TheCrafters001"
-            },
-            "tags": [
-                   "Website"
-            ],
-            "date_published": "2020-12-31T16:42:03-05:00",
-            "date_modified": "2020-12-31T22:00:08-05:00"
         }
     ]
 }
