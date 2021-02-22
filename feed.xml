@@ -3,12 +3,33 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2021-02-17T13:40:47-05:00</updated>
+    <updated>2021-02-22T15:59:21-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.github.io</id>
 
+    <entry>
+        <title>RIP Vapid</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/rip-vapid/"/>
+        <id>https://thecrafters001.github.io/rip-vapid/</id>
+
+        <updated>2021-02-22T15:59:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                    A program I used to use for this website, called VAPID, has&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A program I used to use for this website, called <a href="http://vapid.com/" target="_blank" rel="noopener noreferrer">VAPID</a>, has been discontinued.</p>
+<p>:(</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>3,000 Members?!</title>
         <author>
@@ -247,25 +268,6 @@
                 <p>It pains me as much as it pains everyone else... but Flash is dead, and so is Flash Player 2...</p>
 
 <p>Downloads will remain online for as long as I can tolerate it...</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>I&#x27;ll never forget...</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.github.io/ill-never-forget/"/>
-        <id>https://thecrafters001.github.io/ill-never-forget/</id>
-            <category term="Flash"/>
-            <category term="Art"/>
-
-        <updated>2020-12-31T22:35:45-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-<figure class="post__image"><img loading="lazy"  src="https://thecrafters001.github.io/media/posts/12/GoodbyeOldFriend-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-xs.png 300w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-sm.png 480w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-md.png 768w ,https://thecrafters001.github.io/media/posts/12/responsive/GoodbyeOldFriend-2-lg.png 1024w"  alt="" width="1000" height="1000"></figure>
             ]]>
         </content>
     </entry>
