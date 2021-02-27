@@ -3,12 +3,34 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2021-02-22T15:59:21-05:00</updated>
+    <updated>2021-02-27T13:12:22-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.github.io</id>
 
+    <entry>
+        <title>Pokemon Delta Green Demo Trailer</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/pokemon-delta-green-demo-trailer/"/>
+        <id>https://thecrafters001.github.io/pokemon-delta-green-demo-trailer/</id>
+            <category term="itch"/>
+            <category term="Pokemon"/>
+            <category term="Games"/>
+            <category term="Game Jolt"/>
+            <category term="Delta Green"/>
+
+        <updated>2021-02-27T13:12:22-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thecrafters001.github.io/media/posts/31/DeltaGreen_Demo_Thumb.png" alt="" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/i6i1aOsI36I" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>RIP Vapid</title>
         <author>
@@ -240,34 +262,6 @@
 <p>This year has been hard. Here is to a better year next year.</p>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>TheCrafters001 Flash Player 2 is Officially Discontenued.</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.github.io/thecrafters001-flash-player-2-is-officially-discontenued/"/>
-        <id>https://thecrafters001.github.io/thecrafters001-flash-player-2-is-officially-discontenued/</id>
-            <category term="TheCrafters001 Flash Player 2"/>
-            <category term="Software"/>
-            <category term="Flash"/>
-
-        <updated>2020-12-31T22:36:45-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://thecrafters001.github.io/media/posts/14/Flash_Two_Logo.png" alt="" />
-                    <p>It pains me as much as it pains everyone else... but Flash is dead, and so is Flash Player 2...</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://thecrafters001.github.io/media/posts/14/Flash_Two_Logo.png" alt="" />
-                <p>It pains me as much as it pains everyone else... but Flash is dead, and so is Flash Player 2...</p>
-
-<p>Downloads will remain online for as long as I can tolerate it...</p>
             ]]>
         </content>
     </entry>

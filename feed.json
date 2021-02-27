@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://thecrafters001.github.io/pokemon-delta-green-demo-trailer/",
+            "url": "https://thecrafters001.github.io/pokemon-delta-green-demo-trailer/",
+            "title": "Pokemon Delta Green Demo Trailer",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/i6i1aOsI36I\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://thecrafters001.github.io/media/posts/31/DeltaGreen_Demo_Thumb.png",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+                   "itch",
+                   "Pokemon",
+                   "Games",
+                   "Game Jolt",
+                   "Delta Green"
+            ],
+            "date_published": "2021-02-27T13:12:22-05:00",
+            "date_modified": "2021-02-27T13:12:22-05:00"
+        },
+        {
             "id": "https://thecrafters001.github.io/rip-vapid/",
             "url": "https://thecrafters001.github.io/rip-vapid/",
             "title": "RIP Vapid",
@@ -158,24 +177,6 @@
             ],
             "date_published": "2020-12-31T23:24:45-05:00",
             "date_modified": "2020-12-31T23:24:45-05:00"
-        },
-        {
-            "id": "https://thecrafters001.github.io/thecrafters001-flash-player-2-is-officially-discontenued/",
-            "url": "https://thecrafters001.github.io/thecrafters001-flash-player-2-is-officially-discontenued/",
-            "title": "TheCrafters001 Flash Player 2 is Officially Discontenued.",
-            "summary": "<p>It pains me as much as it pains everyone else... but Flash is dead, and so is Flash Player 2...</p>\n",
-            "content_html": "<p>It pains me as much as it pains everyone else... but Flash is dead, and so is Flash Player 2...</p>\n\n<p>Downloads will remain online for as long as I can tolerate it...</p>",
-            "image": "https://thecrafters001.github.io/media/posts/14/Flash_Two_Logo.png",
-            "author": {
-                "name": "TheCrafters001"
-            },
-            "tags": [
-                   "TheCrafters001 Flash Player 2",
-                   "Software",
-                   "Flash"
-            ],
-            "date_published": "2020-12-31T22:34:59-05:00",
-            "date_modified": "2020-12-31T22:36:45-05:00"
         }
     ]
 }
