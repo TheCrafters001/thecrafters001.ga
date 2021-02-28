@@ -3,12 +3,32 @@
     <title>TheCrafters001</title>
     <link href="https://thecrafters001.github.io/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io" />
-    <updated>2021-02-27T13:12:22-05:00</updated>
+    <updated>2021-02-28T00:11:09-05:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.github.io</id>
 
+    <entry>
+        <title>Pokemon Delta Green Demo is now out!</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/pokemon-delta-green-demo-is-now-out/"/>
+        <id>https://thecrafters001.github.io/pokemon-delta-green-demo-is-now-out/</id>
+
+        <updated>2021-02-28T00:11:09-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Feel free to try it! (look on the games page to find&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Feel free to try it! (look on the games page to find the download link.)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pokemon Delta Green Demo Trailer</title>
         <author>
@@ -232,36 +252,6 @@
         <content type="html">
             <![CDATA[
                 <p>This is all the post was.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Last post for 2020. (A post will be made in 2021.)</title>
-        <author>
-            <name>TheCrafters001</name>
-        </author>
-        <link href="https://thecrafters001.github.io/last-post-for-2020-a-post-will-be-made-in-2021/"/>
-        <id>https://thecrafters001.github.io/last-post-for-2020-a-post-will-be-made-in-2021/</id>
-            <category term="New Year"/>
-            <category term="COVID"/>
-            <category term="2021"/>
-            <category term="2020"/>
-
-        <updated>2020-12-31T23:24:45-05:00</updated>
-            <summary>
-                <![CDATA[
-                    This year has been hard for many people. There is no denying&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="content-viewer fireside-post-article-content" data-v-6e52f394="" data-v-7b7ea4b2="">
-<div data-v-6e52f394="">
-<p>This year has been hard for many people. There is no denying that. Not everyone got COVID-19, but my heart goes out to those who were. And I would like to say, thank you, everyone. For everything that everyone has done to help make the Internet a better place throughout this whole Pandemic.</p>
-<p>The TF2 Community is still in shock over what happened to Rick May. For those who don't know, Rick May was the voice of Soldier in a game called Team Fortress 2. He passed away due to COVID-19 on April 13th, 2020.</p>
-<p>This year has been hard. Here is to a better year next year.</p>
-</div>
-</div>
             ]]>
         </content>
     </entry>
